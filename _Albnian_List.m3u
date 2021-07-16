@@ -385,8 +385,10 @@ https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 http://us.bestvideostreaming.is/8793/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://shenja.tv/wp-content/uploads/2020/07/logo1.png",Shenja Live TV
 https://srv1.iptviliria.com/ShenjaTV/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="id" group-title="USA LIVE (TV)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/freeform/freeform.svg",Freeform (ABC Family)
+
+#EXTINF:-1  tvg-id="id" group-title="Live TV (USA)" tvg-logo="https://assets.cdn.watchdisneyfe.com/delta/assets/freeform/freeform.svg",Freeform (ABC Family)
 http://hls.123tv.live/ch/-rsUn03RvJwZfsvCMqWmFQ/1626443749/freeform.m3u8
+
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://static.epg.best/al/TringSuper.al.png",RTV ILIRIDA
 https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/chunklist_w254674096.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="tvlogo/rtz.png",RTZ Danimarkes
