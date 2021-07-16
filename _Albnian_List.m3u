@@ -7,11 +7,13 @@ http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/chunklist_w1503597556.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV
 https://srv1.iptviliria.com/BesaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV 1080p
+https://peta.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1kxkg1080/index.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ybRtRbv.png",Peace TV Shqip
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/TQPucOK.png",RTV ISLAM
 https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="makkahtv.srfms.com" group-title="ALB LIVE (TV)" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE REC
+#EXTINF:-1  tvg-id="makkahtv.srfms.com" group-title="ALB LIVE (TV)" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="TopChannelHD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
