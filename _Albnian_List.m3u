@@ -33,6 +33,8 @@ https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="tring.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD BACKUP
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
+#EXTINF:-1  tvg-id="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
+http://109.72.96.132:8080/hls/tvteuta.m3u8
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
 https://srv1.iptviliria.com/FoxMovies/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
