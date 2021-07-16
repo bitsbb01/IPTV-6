@@ -235,8 +235,8 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8?nimblesession
 https://peta.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1q1zt360/index.m3u8
 #EXTINF:-1  tvg-id="ABCNews.al" group-title="ALB LIVE (TV)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo-1996.jpg",Animal Planet Live
 http://31.220.41.88:8081/live/us-animal.stream/chunks.m3u8?nimblesessionid=10405641816
-#EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjLjBnzpMG4UPaKqI73hcR45XE4y3MIcOVfPN010Q=s88-c-k-c0x00ffffff-no-rj",SYRI VISION HD
-https://boson.gjirafa.com/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/y10z1k1080/index.m3u8
+#EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://www.dua.com/tvshqiplive/wp-content/uploads/syri-vision.jpg",SYRI VISION HD
+http://us.bestvideostreaming.is/8784/index.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/Q1UOlkA.png",EURO AL HD
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png",EDGE sport TV
