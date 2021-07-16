@@ -696,7 +696,7 @@ https://h4.ustvgo.la/Oxygen/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9N
 #EXTINF:-1  tvg-id="id" group-title="Live TV (USA)" tvg-logo="https://en.wikipedia.org/wiki/Pop_(British_and_Irish_TV_channel)#/media/File:Pop_(UK_TV_channel)_logo.png",POP
 https://h3.ustvgo.la/POP/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgODo0MjowMyBQTSZoYXNoX3ZhbHVlPWk1U2NLaTgyTDcrRlpUZ3pUNkR0MkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1  tvg-id="id" group-title="Live TV (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC Live
-http://derr.findsports.stream/tlc.m3u8
+http://s5.dontoverthink.xyz/live/ko5vt2gg/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIxIDEwOjEyOjE5IEFNJmhhc2hfdmFsdWU9ODZVV2paSGlOeFEyMzJaZkZMSUtHUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTM=
 #EXTINF:-1  tvg-id="id" group-title="Live TV (USA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/NickToons_TV.svg/revision/latest/scale-to-width-down/460?cb=20210605140136",Nicktoons
 https://h3.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgODo1MzozNSBQTSZoYXNoX3ZhbHVlPTZxWHd4OVh2UDNmWXlxK0VuMml0SHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1  tvg-id="id" group-title="Live TV (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg",Comedy Central Live Stream
