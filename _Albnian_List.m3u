@@ -112,7 +112,7 @@ http://rtvarberia1.flashmediacast.com:1935/RtvArberia1/livestream/chunklist_w140
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia Muzik
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w151625745.m3u8
 #EXTINF:-1  tvg-id="Tv Arberia 3 - Fëmijë" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/tvarberia1.png",Tv Arberia 3 - Fëmijë
-https://t3.tvmak.com/tv/tvarberia3.m3u8?8XmFn4BeEs
+http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1741349896.m3u8
 #EXTINF:-1  tvg-id="LlapiTv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
 http://us.bestvideostreaming.is/8823/index.m3u8
 #EXTINF:-1  tvg-id="albse.tv" group-title="ALB LIVE (TV)" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
