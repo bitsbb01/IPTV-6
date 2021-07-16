@@ -406,7 +406,7 @@ https://d4110.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/ytkytq720/index.
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i1.sndcdn.com/avatars-000127166092-d9y48w-t500x500.jpg",Reload TV
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1  tvg-id="TVDukagjini.al" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/tvdukagjini.png",RTV Dukagjini Live
-https://puma.gjirafa.com/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/ygqkzt1080/index.m3u8
+http://us.bestvideostreaming.is/8788/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest/scale-to-width-down/800?cb=20160630155227",HIT Music TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",Turbo Channel Tv
@@ -417,8 +417,8 @@ http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=1419200b501b
 https://dlive-live-eu.akamaized.net/dlive/transcode-93-225/viva-russia/1623682791/src/live.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://fliving.tv/new/wp-content/uploads/2020/06/flogo.png",AlbTVUSA
-http://us.bestvideostreaming.is/8711/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbTVUSA_logo_5ac42ffc6ea3e_thumb.jpg",AlbTVUSA
+http://us.bestvideostreaming.is/8711/index.m3u8
 #EXTINF:-1  tvg-id="EXPLORER" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrqnkCUydJWdANDhNfbn63xI0KN5oiQ4RrrWi-=s900-c-k-c0x00ffffff-no-rj",EXPLORE
 https://outbound-production.explore.org/stream-production-221/.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://d1e0iy043bd8xo.cloudfront.net/resources/img/logos/avia/rectangular/big/JP.png",ADRIA NET DURRËS
