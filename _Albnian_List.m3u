@@ -104,7 +104,17 @@ https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV
 https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV2
-https://t1.tvmak.com/tv/ALBFILMTV2.m3u8?EMuTJca1oB
+https://t4.tvmak.com/tv/ALBFILMTV2.m3u8?8XmFn4BeEs
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 1
+http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/chunklist_w554393646.m3u8
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 2
+http://rtvarberia1.flashmediacast.com:1935/RtvArberia1/livestream/chunklist_w1407892692.m3u8
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia Muzik
+http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w151625745.m3u8
+#EXTINF:-1  tvg-id="Tv Arberia 3 - Fëmijë" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/tvarberia1.png",Tv Arberia 3 - Fëmijë
+https://t3.tvmak.com/tv/tvarberia3.m3u8?8XmFn4BeEs
+#EXTINF:-1  tvg-id="LlapiTv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
+http://us.bestvideostreaming.is/8823/index.m3u8
 #EXTINF:-1  tvg-id="albse.tv" group-title="ALB LIVE (TV)" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
 https://srv1.iptviliria.com/AlbSe/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="https://www.iptvepg.eu/al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/R0TOluN.png",Stinet
@@ -303,12 +313,6 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="TV Kopliku" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku
 http://us.bestvideostreaming.is/2508/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 1
-http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/chunklist_w554393646.m3u8
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 2
-http://rtvarberia1.flashmediacast.com:1935/RtvArberia1/livestream/chunklist_w1407892692.m3u8
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia Muzik
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w151625745.m3u8
 #EXTINF:-1  tvg-id="BBF.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/jG9LOUa.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
@@ -345,12 +349,12 @@ https://t2.tvmak.com/tv/livetvTetove.m3u8?sPR5E2zO1a
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/SvXGdFa.png",ERA TV
 https://srv1.iptviliria.com/EraTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjb9KSRAsF6bepYEt3U3EWXvtiKxLc6RSiyPQ=s900-c-k-c0x00ffffff-no-rj",SHOTA TV
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/shotatv.png",SHOTA TV
 https://srv1.iptviliria.com/ShotaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/Vqpr6LP.png",Koha TV
 https://srv1.iptviliria.com/KohaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://www.freeintertv.com/modules/Main/image_1/150px-Showtime.jpg",Showtime (USA)
-https://r1---sn-8vq54vox03-aige.googlevideo.com/videoplayback?expire=1623990040&ei=uMrLYPrfAoOzW_qIjMAI&ip=90.248.20.183&id=o-ALf_OnacmIry5Vph7IIUzNHwi-aVRiJkiDQm1IJ4kJih&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=BT&mm=31%2C29&mn=sn-8vq54vox03-aige%2Csn-aigzrn7z&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=17&initcwndbps=1387500&vprv=1&mime=video%2Fmp4&ns=YRZ_lvNuDEKOvuDIA2C7DB4F&gir=yes&clen=26533937&dur=87.708&lmt=1423001234217127&mt=1623967252&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=S-mpsILFqs2odhDfV&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDC562Txj2b1kKLQyA4R1wNbocq-r221Z5DPMVOFQf8sCIQCVf8vvX1wMJBo2uNbukIX8MC0XDCPK3M3Xk_FP7gyymQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAK33PaiW8MWVqFQFhkqfzyR2ptaTzdmyoSX6gnY4Q47iAiAW-tVweJZLsHmTnntG5UR6s_C3RRM81ZJSKTctgtWqDw%3D%3D
+http://s5.takeitslow.xyz/live/s38czg4x/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIxIDk6NDk6MTIgQU0maGFzaF92YWx1ZT1YTE1CMGxsOUk4V3ZrdkV5Zm5uRlR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sjbmguxltqzk.png",RTV Mir
 http://91.187.119.106:8028/tvmir.m3u8
 #EXTINF:-1  tvg-id="AA NewYork TV" group-title="ALB LIVE (TV)" tvg-logo="Logo N/A",Blue Sky TV Live
