@@ -313,6 +313,8 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="TV Kopliku" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku
 http://us.bestvideostreaming.is/2508/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="TV Kopliku" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku BCKUP
+http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1  tvg-id="BBF.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/jG9LOUa.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
@@ -407,12 +409,14 @@ https://d4110.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/ytkytq720/index.
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1  tvg-id="TVDukagjini.al" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/tvdukagjini.png",RTV Dukagjini Live
 http://us.bestvideostreaming.is/8788/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="TVDukagjini.al" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/tvdukagjini.png",RTV Dukagjini 2
+https://leta.gjirafa.com/live/mtAOO7iGIzVAs3PFPnAFubierryMwW3V/ygqkzt360/index.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest/scale-to-width-down/800?cb=20160630155227",HIT Music TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",Turbo Channel Tv
 http://us.bestvideostreaming.is/8839/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/IbaLf22.png",Star Plus
-http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=1419200b501b3508b214c4f788cb754b0429d952-afc910af63b220a21a065273646496ce-1625731432-1625724232
+#EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ContactVision_logo_6081f150925a3_thumb.jpg",Contact Vision Tv
+http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://static.dw.com/image/1246912_4.jpg",VIVA MUSIC TV
 https://dlive-live-eu.akamaized.net/dlive/transcode-93-225/viva-russia/1623682791/src/live.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",REDBULL TV
