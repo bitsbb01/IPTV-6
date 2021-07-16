@@ -430,7 +430,7 @@ https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8?e=kryeziuTVc=rtshhd_low&medi
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/k9WqPLZ.png",Channel 7 TV Live
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/UValLp1.png",Zjarr TV HD
-https://edge01eu.ekranet.com/zjarrtv/index.m3u8?e=31f2a79e307e8a9a43a0bcf75754a46f&c=zjarrtv&medium=websocket
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjmM129wKt_872oId8OaVuVZIzs2BxtVIfNHazW=s900-c-k-c0x00ffffff-no-rj",TV Ari
 http://live.aritv.ch:6969/live/ari/tv/1.ts
 #EXTINF:-1  tvg-id="id" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
