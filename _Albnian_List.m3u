@@ -601,6 +601,8 @@ https://srv1.iptviliria.com/PinkShow/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/TringSport1HD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TS2HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/H4N2yPk.png",Tring Sport 2 HD
 https://srv1.iptviliria.com/TringSport2HD/index.m3u8?token=undefined
+#EXTINF:-1  tvg-id="TS2HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2016/08/beIN-Logo.png",BEIN Master
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1  tvg-id="SuperSportNews.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/aK6Wii1.png",Super Sport 1 HD
 https://srv1.iptviliria.com/Supersport1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="SuperSport2.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/8hRN8ym.png",Supersport 2 HD
