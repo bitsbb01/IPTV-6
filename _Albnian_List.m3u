@@ -111,6 +111,169 @@ https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ART KINO 3" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
 https://list.iptvcat.com/my_list/s/f06a48a56fa23b3ac32dda8422ad8e28.m3u8
+#EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",Digi Gold 1
+https://list.iptvcat.com/my_list/s/9f4fd8f855a72eddda429b81ae37c1b2.m3u8
+#EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://i.ytimg.com/vi/NmKVv-RmARc/maxresdefault.jpg",Falcon Cinema Aktion FHD
+https://list.iptvcat.com/my_list/s/4c70c474c7d89d65e54495fccd6d59a7.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Aktion FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142066?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Comedy FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Drama FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Gold FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Romance FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Sci-Fi FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Falcon Cinema Thriller FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/142071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Family HD
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/5310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Family HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2580?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Aksion (B)
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/5298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Gold 1
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3jJ7c-2V0mWj7cGKGDNWfKp/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Gold 2
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3hWc0n84rJFGIQt9PA8pP9N/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Gold 3
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3i5QYlQhw2bAM4vyVe3KqCy/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Gold 4
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3j2bPjRgxUp2A0Kd1MyY7Wx/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Filmi Umeri r.a
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",First Channel
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",First TV HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Fox Crime
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",GJOLLI FËMIJËT
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26962?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",GJOLLI ISLAM
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",GJOLLI KURAN 24/7
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/31252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Guromania
+http://iptv3.kbc.al:25461/Osmanfazliu/x3HhRh3lFa/80?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",HBO 2
+http://etya-plus.com:8080/ertan07/ertan0707/95964?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ISLAM CHANNEL 2 HD
+http://rv.flysat.live:80/307210013157/307210013157/81911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kino Premiere 2 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3hS5Bc81Fw4msLYh9H9Rtjq/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kino Premiere 3 HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3gWkyJ5F7gRKH7DhQLeoVrm/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kurani Fisnik Arabisht-Shqip HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/35850?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kurani Fisnik Shqip HD (A.I.T.C)
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22803?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",LOBI TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",LUGINA ISLAM
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22825?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",MAX premier 4 HD
+http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/95986?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Mekke TV
+http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/5447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Muse
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",National Geographic
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/12846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",News 24  HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Prime Entertainment
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Q Bleta TV FHD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62682?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Q DRAMA HD
+http://rv.flysat.live:80/307210013157/307210013157/82036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Q FAMILY HD
+http://rv.flysat.live:80/307210013157/307210013157/82041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Q HUMOR HD
+http://rv.flysat.live:80/307210013157/307210013157/82032?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Q Islam
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62673?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV Ahireti
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV Islam
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33472?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",STAR PLUS SHKODER HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/139643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ShqipTV Aksion HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3is5bOTTyZoCaDaaCZaUcp8/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky AL Aksion
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62687?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ShqipTV Tom & Jerry HD
+http://tvshopip.tv:8080/armando_rivero/riveroo_anual/332612?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky AL Komedi
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62688?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky AL Max
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62686?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Drame
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Dramë
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33525?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Komedi
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33526?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Max
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30084?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Music HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33527?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sky Shkence
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Sofia HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2487?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Spin TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Star+ Shkodra
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV 1 Channel Shkodër FHD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8882?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV 2 Gostivar
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39515?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV ASHKALI ISLAM
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/27068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV FESTINA
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV GLOBI
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/139646?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV Mitrovica
+http://iptv3.kbc.al:25461/Osmanfazliu/x3HhRh3lFa/298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV Plus HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3jkddsU5Y-3uS9LQs4lrbKN/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TV ULQINI
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/50701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TVMatic Comedy
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TVMatic Crafts
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60673?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TVMatic Fight
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60675?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",TVMatic Funny
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60678?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TVMatic Sport
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60676?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tetova HD TV
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3gnzy2N84_Uj6k-RdMr3PPT/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tv POLLOGU HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/6037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Turbo Channel HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",VALI TV
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28833?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Vision Plus Toksor
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3iR-TV492TTvpTAMQNUAgaL/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",X Family HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62681?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",X HISTORY HD
+http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",X Western HD
+http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62685?checkedby:iptvcat.com
 
 #EXTINF:-1  tvg-id="ALBFILMTV" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV
 https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
