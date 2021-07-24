@@ -7,16 +7,12 @@ http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/chunklist_w1503597556.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV
 https://srv1.iptviliria.com/BesaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV 1080p
-https://peta.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/y1kxkg1080/index.m3u8
 #EXTINF:-1  tvg-id="Peace.TV.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ybRtRbv.png",Peace TV Shqip
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/TQPucOK.png",RTV ISLAM
 https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="makkahtv.srfms.com" group-title="ALB LIVE (TV)" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1  tvg-id="TV LAND" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/220px-TV_Land_2015_logo.svg.png",TV LAND
-http://cdn.tv247.xyz/channel2/tvland.m3u8
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
@@ -38,7 +34,7 @@ https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://109.72.96.132:8080/hls/tvteuta.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korça +
-http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+http://28.shqiptv.org/albplus/tracks-v1a1/mono.m3u8?token=e097a3ddbc163dc59024b6f7949fd0c022803a2f-01b863414a4aeb56659264e607ebedba-1627154237-1627147037
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
 https://srv1.iptviliria.com/FoxMovies/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
@@ -303,7 +299,7 @@ http://us.bestvideostreaming.is/8713/tracks-v1a1/mono.m3u8
 http://134.209.238.38/hls/test.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/AlpoTv_logo_60229f908d39d_thumb.jpg",Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/chunklist_w218337502.m3u8
-#EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/IstoguTv_logo_60226c7d4aae0_thumb.jpg",Istogu TV
+#EXTINF:-1  tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/IstoguTv_logo_60226c7d4aae0_thumb.jpg",Istogu TV
 https://t3.tvmak.com/tv/ISTOGUchannel.m3u8?8XmFn4BeEs
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh9K7qMV9dV0CSuiV7G-mXugnvaQU5oMwhYy40f=s88-c-k-c0x00ffffff-no-rj",Premium Channel
 https://premiummedia.al/stream/premium-channel/live.m3u8
