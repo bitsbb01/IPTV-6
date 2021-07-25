@@ -29,7 +29,13 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",SI-FI MOVIE
 https://v2.catcast.tv/content/38801/index.m3u8
 
-#EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",TEST 1
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MOVIE MIX
+https://sonar.sinclair.wurl.com/manifest/512.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",ESPN USA
 http://stream2.grandma.fit/fs2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",CINE LIFE
@@ -37,6 +43,21 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",TRULY 1
 https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DOCURAMA
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DUST 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",REDBOX
+https://comedy-redbox.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MOVIE UK
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DUBAI 'ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
 
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
