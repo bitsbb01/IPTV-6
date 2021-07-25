@@ -68,8 +68,11 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",ADULTSWIM TV
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MEDIA CORP
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",MEDIA CORP
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
