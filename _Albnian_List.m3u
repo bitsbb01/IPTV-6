@@ -19,61 +19,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/ign-logo.png",IGN TV
 https://ign-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Love Nature TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature TV
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",SI-FI MOVIE
-https://v2.catcast.tv/content/38801/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MOVIE MIX
-https://sonar.sinclair.wurl.com/manifest/512.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",ESPN USA
-http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",CINE LIFE
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://twitter.com/futurism/photo",Futurism TV
-https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",TRULY 1
-https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DOCURAMA
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",HUNT CHANNEL
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DUST 1
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",REDBOX
-https://comedy-redbox.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MOVIE UK
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",DUBAI 'ONE
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",ADULTSWIM TV
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",MEDIA CORP
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Klan.TV.HD.al" group-title="ALB LIVE (TV)" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
@@ -168,6 +113,71 @@ https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png",MTV Top Hits Live TV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+
+#EXTINF:-1 tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="&Flix HD" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="Love Nature TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature TV
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="SI-FI MOVIE" group-title="ALB LIVE (TV)" tvg-logo="http://vignette4.wikia.nocookie.net/mst3k/images/d/d1/Scifi.jpg/revision/latest?cb=20070220061423",SI-FI MOVIE
+https://v2.catcast.tv/content/38801/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIE MIX" group-title="ALB LIVE (TV)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946",MOVIE MIX
+https://sonar.sinclair.wurl.com/manifest/512.m3u8
+
+#EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",ESPN USA
+http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",CINE LIFE
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/1357094349788635137/0muc1Lq2_400x400.jpg",Futurism TV
+https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/contv-vipotv.png",CON TV
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/512x288_840400/index.m3u8
+
+#EXTINF:-1 tvg-id="TRULY 1" group-title="ALB LIVE (TV)" tvg-logo="https://www.getmemedia.com/public/ideas/Opp/14869/trutv.jpg",TRULY 1
+https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
+
+#EXTINF:-1 tvg-id="DOCURAMA" group-title="ALB LIVE (TV)" tvg-logo="http://docuramachannel.com/wp-content/uploads/2014/05/Docurama_Logo_smallest.jpg",DOCURAMA
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="COMET" group-title="ALB LIVE (TV)" tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/comet-tv-live-vipotv.png",COMET
+https://dai.google.com/linear/hls/pa/event/83L2OqtGSZ6lbWt8ODomWg/stream/9cf624ee-a513-4c11-acec-af69ec447798:BRU/master.m3u8
+
+#EXTINF:-1 tvg-id="HUNT CHANNEL" group-title="ALB LIVE (TV)" tvg-logo="",HUNT CHANNEL
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DUST 1" group-title="ALB LIVE (TV)" tvg-logo="",DUST 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="REDBOX" group-title="ALB LIVE (TV)" tvg-logo="",REDBOX
+https://comedy-redbox.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="MOVIE UK" group-title="ALB LIVE (TV)" tvg-logo="",MOVIE UK
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="DUBAI 'ONE" group-title="ALB LIVE (TV)" tvg-logo="",DUBAI 'ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
+
+#EXTINF:-1 tvg-id="ADULTSWIM TV" group-title="ALB LIVE (TV)" tvg-logo="",ADULTSWIM TV
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
+#EXTINF:-1 tvg-id="MEDIA CORP" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",MEDIA CORP
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+
+#EXTINF:-1 tvg-id="FITE" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zlivingusa TV" group-title="ALB LIVE (TV)" tvg-logo="",Z-LIVING USA
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
 #EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",Digi Gold 1
 https://list.iptvcat.com/my_list/s/9f4fd8f855a72eddda429b81ae37c1b2.m3u8
 #EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://i.ytimg.com/vi/NmKVv-RmARc/maxresdefault.jpg",Falcon Cinema Adventure
@@ -874,54 +884,3 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="id" group-title="MBC" tvg-logo="http://cdn.teleon.tv/logo/rotana_cinema_ksa.png",Rotana Cinema
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
-#EXTINF:-1 parent-code="6666" tvg-id="id" group-title="" tvg-logo="http://cdn.teleon.tv/logo/rotana_cinema_ksa.png",Adulthood
-#EXTINF:-1 parent-code="6666" tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1  parent-code="6666" tvg-id="JASMIN TV" group-title="ALB LIVE (TV)" tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif",JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
