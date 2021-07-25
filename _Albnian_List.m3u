@@ -20,12 +20,6 @@ https://srv1.iptviliria.com/TopChannel/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGci
 #EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/ign-logo.png",IGN TV
 https://ign-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png",MTV Top Hits Live TV
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-#EXTINF:-1  parent-code="6666" tvg-id="JASMIN TV" group-title="ALB LIVE (TV)" tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif",JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
@@ -50,7 +44,7 @@ https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://109.72.96.132:8080/hls/tvteuta.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
-http://28.shqiptv.org/albplus/tracks-v1a1/mono.m3u8?token=4c0a75a86d16434154f82820219cdee439b30421-b2b3cd4ee00fbfddce020bef06d354cd-1627158913-1627151713
+http://28.shqiptv.org/albplus/tracks-v1a1/mono.m3u8?token=981e0dc73dad9cdc6a0ff084297df66c1bbb78e3-6abb41ff0ef2bc70da24debe39fb5971-1627205662-1627198462
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
 https://srv1.iptviliria.com/FoxMovies/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
@@ -121,8 +115,8 @@ https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1Q
 https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ART KINO 3" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
 https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="ART KINO 3" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
-https://list.iptvcat.com/my_list/s/f06a48a56fa23b3ac32dda8422ad8e28.m3u8
+#EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://www.pngkit.com/png/full/57-578973_white-mtv-png-logo-mtv-logo-white-transparent.png",MTV Top Hits Live TV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Digi_Gold.png",Digi Gold 1
 https://list.iptvcat.com/my_list/s/9f4fd8f855a72eddda429b81ae37c1b2.m3u8
 #EXTINF:-1  tvg-id="Digi Gold 1" group-title="ALB LIVE (TV)" tvg-logo="https://i.ytimg.com/vi/NmKVv-RmARc/maxresdefault.jpg",Falcon Cinema Adventure
@@ -148,59 +142,55 @@ http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2580?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Film Aksion (B)
 http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/5298?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Film Gold 1
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3jJ7c-2V0mWj7cGKGDNWfKp/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/f5155b1ed0d43e824539240c0aa4b5e8.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Film Gold 2
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3hWc0n84rJFGIQt9PA8pP9N/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/d41dc7357e15c8ed5ae159445fbde948.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Film Gold 3
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3i5QYlQhw2bAM4vyVe3KqCy/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/84cf81a0e9f4d0b73358d47814a6c105.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Film Gold 4
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3j2bPjRgxUp2A0Kd1MyY7Wx/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/de48cb770e38a762f2c5965375b313bf.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Filmi Umeri r.a
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28848?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/06c23b79cba62ca53668dc90d0e17641.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",First Channel
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33440?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/0214e3382528cb02ae027aeb0c6eb4c1.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",First TV HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/944?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/7ec4a8a33dfdaefd09ff2f79f810fcad.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Fox Crime
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33443?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/c80a1592e2de06c3f8c752ab082cacb5.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI FËMIJËT
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26962?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/3827f8353b0359278a858d2389fc9e6b.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI ISLAM
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26948?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/c7bdda17c73f22429d98b6d90fd5aef5.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI KURAN 24/7
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/31252?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/34289243442b9c8e78f19c72d7fa7da5.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Guromania
-http://iptv3.kbc.al:25461/Osmanfazliu/x3HhRh3lFa/80?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/2085489dc13c3962841d96b382c0d377.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",HBO 2
-http://etya-plus.com:8080/ertan07/ertan0707/95964?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/892932c017ec5295bf4ca56d2f7896c6.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",ISLAM CHANNEL 2 HD
-http://rv.flysat.live:80/307210013157/307210013157/81911?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/7161134da1261366df702920a25667a8.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kino Premiere 2 HD
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3hS5Bc81Fw4msLYh9H9Rtjq/ts?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/8fbac642b86f9086dba44a2b9d3c965f.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kino Premiere 3 HD
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3gWkyJ5F7gRKH7DhQLeoVrm/ts?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kurani Fisnik Arabisht-Shqip HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/35850?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kurani Fisnik Shqip HD (A.I.T.C)
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22803?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/bf49cd937a5b13e373042e2ce107bc99.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",LOBI TV
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2478?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/410379cf9cf8eac28d0f784b61f8ce0c.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",LUGINA ISLAM
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22825?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/7f40fecf1d83499b7a34734909a92676.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",MAX premier 4 HD
-http://oznvip.mnepro.com:8080/gokhan07/gokhan0707/95986?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Mekke TV
-http://exchange.goodiptv.stream:13520/aydar4545/dv5FbdU91X/5447?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/89bad29992c5506d8f50c9c7df228b24.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",MAX Premiere HD
+https://list.iptvcat.com/my_list/s/900ae429c4c40f9bff121d01c709e201.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Muse
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33469?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/e20388ab3a66a8aa42381d600200ebbd.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",National Geographic
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/12846?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",News 24  HD
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3452?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/96ef1c6544d6f1945595fc7e4b760461.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",National Geographic Wild FHD
+https://list.iptvcat.com/my_list/s/43fddb907c170c1267a2bfdeb1217678.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Prime Entertainment
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53225?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/77e6610b30c71162203dd74eab2923d8.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q Bleta TV FHD
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62682?checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/s/92c26dec9b0c0e63f0267b7b5b85a580.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q DRAMA HD
 http://rv.flysat.live:80/307210013157/307210013157/82036?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q FAMILY HD
@@ -882,3 +872,5 @@ http://cdn.adultiptv.net/brunette.m3u8
 http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 parent-code="6666" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1  parent-code="6666" tvg-id="JASMIN TV" group-title="ALB LIVE (TV)" tvg-logo="https://i.pinimg.com/originals/cd/d0/c8/cdd0c866d1891ef6d29df48762f5f370.gif",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
