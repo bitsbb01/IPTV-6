@@ -41,7 +41,7 @@ http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",CINE LIFE
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MANIFEST TV
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="https://twitter.com/futurism/photo",Futurism TV
 https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",TRULY 1
@@ -67,6 +67,9 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 
 #EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",ADULTSWIM TV
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",MEDIA CORP
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
