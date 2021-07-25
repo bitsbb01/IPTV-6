@@ -23,8 +23,7 @@ https://ign-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",TEST
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgBa+NT0Wv%2f8VXpg%2fWBJRQJ46cv2fUgSH091SF1qrSP2h236CBqZmg6BU8kB12%2fbOi5ucB4P9v6VWA%3d%3d
-
+https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Klan.TV.HD.al" group-title="ALB LIVE (TV)" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
