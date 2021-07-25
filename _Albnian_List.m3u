@@ -23,11 +23,20 @@ https://ign-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",TEST
+#EXTINF:-1 tvg-id="Love Nature TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature TV
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",SI-FI MOVIE
 https://v2.catcast.tv/content/38801/index.m3u8
 
 #EXTINF:-1 tvg-id="ART 1 DOKU" group-title="ALB LIVE (TV)" tvg-logo="",TEST 1
 http://stream2.grandma.fit/fs2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",CINE LIFE
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ALB LIVE (TV)" tvg-logo="",TRULY 1
+https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD BackUp
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
