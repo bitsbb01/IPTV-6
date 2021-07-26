@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="uk-sky.com" group-title="ALB LIVE (TV)" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
+#EXTINF:-1  tvg-id="Islam Channel UK" group-title="ALB LIVE (TV)" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
 https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
 #EXTINF:-1  tvg-id="A1 ISLAM" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/A1tval.png",A1 ISLAM
 https://list.iptvcat.com/my_list/s/257ceb3b2bab976038af531fb2daabcf.m3u8
@@ -39,11 +39,11 @@ https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://109.72.96.132:8080/hls/tvteuta.m3u8
-#EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
+#EXTINF:-1  tvg-id="Korca Plus" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
 https://srv1.iptviliria.com/FoxMovies/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
+#EXTINF:-1  tvg-id="Fox Life" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
 https://srv1.iptviliria.com/FoxLife/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="TChannel.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xcQHpQI.png",T HD
 https://srv1.iptviliria.com/THD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
@@ -53,7 +53,7 @@ http://us.bestvideostreaming.is/8789/tracks-v1a1/mono.m3u8
 https://srv1.iptviliria.com/KlanKosova/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="klan-plus.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Plus
 https://srv1.iptviliria.com/KlanPlus/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://albkanale.com/images/appicon.png",ALBKANALE Live
+#EXTINF:-1  tvg-id="ALBKANALE Live" group-title="ALB LIVE (TV)" tvg-logo="http://albkanale.com/images/appicon.png",ALBKANALE Live
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-id="KIDS.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/WKKTNYK.png",Tring Kids
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
@@ -89,7 +89,7 @@ https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Smile.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ZdWD2BB.png",Tring Smile
 https://srv1.iptviliria.com/TringSmile/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="http://www.entertainmentgh.com/wp-content/uploads/2016/12/Muse-logo-.png",Muse
+#EXTINF:-1  tvg-id="Muse" group-title="ALB LIVE (TV)" tvg-logo="http://www.entertainmentgh.com/wp-content/uploads/2016/12/Muse-logo-.png",Muse
 https://list.iptvcat.com/my_list/s/e20388ab3a66a8aa42381d600200ebbd.m3u8
 #EXTINF:-1  tvg-id="Euro Film" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/RgzzL5r.png",Euro Film
 https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
@@ -107,6 +107,10 @@ https://kanale.cdn-stream.com:30443/live/drame/playlist.m3u8?wmsAuthSign=c2VydmV
 https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Film Komedi" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ESE5ack.png",Film Autor
 https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Stinet.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/R0TOluN.png",Stinet
+https://srv1.iptviliria.com/Stinet/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="albse.tv" group-title="ALB LIVE (TV)" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
+https://srv1.iptviliria.com/AlbSe/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="ART KINO 1" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/Jo98JlD.png",ART KINO 1
 https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ART KINO 2" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/fcE5a4I.png",ART KINO 2
@@ -127,10 +131,6 @@ http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/chunklist_w151
 http://rtvarberiafemij.flashmediacast.com:1935/RtvArberiaFemij/livestream/chunklist_w1741349896.m3u8
 #EXTINF:-1  tvg-id="LlapiTv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
 http://us.bestvideostreaming.is/8823/index.m3u8
-#EXTINF:-1  tvg-id="albse.tv" group-title="ALB LIVE (TV)" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
-https://srv1.iptviliria.com/AlbSe/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="Stinet.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/R0TOluN.png",Stinet
-https://srv1.iptviliria.com/Stinet/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ERA TV" group-title="ALB LIVE (TV)" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",ERA TV
 https://srv1.iptviliria.com/EraTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Tv Johaniter live" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvJohaniter_logo_603c41be2e205_thumb.jpg",Tv Johaniter live
@@ -372,7 +372,7 @@ https://srv1.iptviliria.com/NGC/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 #EXTINF:-1  tvg-id="MTV Kosova" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",MTV Kosova
 https://srv1.iptviliria.com/MTVKosova/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Elrodi Tv" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/gl3R7Ra.png",Elrodi Tv
-https://srv1.iptviliria.com/ElrodiTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+http://79.137.66.111/elroditv_240p/index.m3u8
 #EXTINF:-1  tvg-id="TV2 Gostivar" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/hTRfIl0.png",TV2 Gostivar
 https://srv1.iptviliria.com/TV2Gostivar/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Mashup Reality tv" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",Mashup Reality tv
@@ -403,8 +403,8 @@ https://srv1.iptviliria.com/FirstTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="http://syri.tv/wp-content/uploads/2017/12/logo.png",Syri Blue
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg",Albdreams TV
-http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:-1  tvg-id="Q CINEMA HD" group-title="ALB LIVE (TV)" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d_thumb.jpg",Q CINEMA HD
+http://rv.therevenge.co:80/live/242424/242424/82042.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Nes%C3%ABrTv_logo_603c285fbffdb_thumb.jpg",Nesër TV
