@@ -508,8 +508,6 @@ http://us.bestvideostreaming.is/2508/tracks-v1a1/mono.m3u8
 http://us.bestvideostreaming.is/8850/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="BBF.al" group-title="ALB LIVE (TV)" tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
-http://us.bestvideostreaming.is/8823/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/BIbrpJq.png",Fontana
 http://us.bestvideostreaming.is/8852/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/NrgMuzik_logo_603c2b47b7791_thumb.jpg",NRG Muzik
@@ -518,8 +516,6 @@ https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1502499338.m3u8
 http://us.bestvideostreaming.is/8728/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="https://th.bing.com/th/id/OIP.TGE0bL2z-hvEnDx-HaZQnQHaH4?w=155&h=180&c=7&o=5&pid=1.7",Zeri TV
 https://peta.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ytkt1k720/index.m3u8
-#EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worke",Sky News (UK)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master1024x576_v2.m3u8
 #EXTINF:-1  tvg-id="EPG N/A" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-a1-repor.jpg",A1 Report Live
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Alsat.M.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
