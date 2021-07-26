@@ -40,7 +40,7 @@ https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://109.72.96.132:8080/hls/tvteuta.m3u8
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
-http://28.shqiptv.org/albplus/preview.mp4?token=4c08cf524e1bddbd13b7cbb73cf5564130a73454-2feae6aa5f9668a5bd71a39af2255674-1627305466-1627298266
+http://28.shqiptv.org/albplus/tracks-v1a1/mono.m3u8?token=981e0dc73dad9cdc6a0ff084297df66c1bbb78e3-6abb41ff0ef2bc70da24debe39fb5971-1627205662-1627198462
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
 https://srv1.iptviliria.com/FoxMovies/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="http://www.albepg.com/epg/guide.xml" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/xkAysbG.png",Fox Life
@@ -231,119 +231,119 @@ http://us.bestvideostreaming.is/8823/tracks-v1a1/mono.m3u8
 https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Shenja TV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Shenja_logo_5ac42b082bf00_thumb.jpg",Shenja TV
 http://us.bestvideostreaming.is/8850/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI FËMIJËT
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",GJOLLI FËMIJËT
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26962?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI ISLAM
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",GJOLLI ISLAM
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/26948?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",GJOLLI KURAN 24/7
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",GJOLLI KURAN 24/7
 https://list.iptvcat.com/my_list/s/34289243442b9c8e78f19c72d7fa7da5.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Guromania
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Guromania
 https://list.iptvcat.com/my_list/s/2085489dc13c3962841d96b382c0d377.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",HBO 2
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",HBO 2
 https://list.iptvcat.com/my_list/s/892932c017ec5295bf4ca56d2f7896c6.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",ISLAM CHANNEL 2 HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",ISLAM CHANNEL 2 HD
 https://list.iptvcat.com/my_list/s/7161134da1261366df702920a25667a8.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kino Premiere 2 HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Kino Premiere 2 HD
 https://list.iptvcat.com/my_list/s/8fbac642b86f9086dba44a2b9d3c965f.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Kino Premiere 3 HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Kino Premiere 3 HD
 https://list.iptvcat.com/my_list/s/bf49cd937a5b13e373042e2ce107bc99.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",LUGINA ISLAM
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",LUGINA ISLAM
 https://list.iptvcat.com/my_list/s/7f40fecf1d83499b7a34734909a92676.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",MAX premier 4 HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",MAX premier 4 HD
 https://list.iptvcat.com/my_list/s/89bad29992c5506d8f50c9c7df228b24.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",MAX Premiere HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",MAX Premiere HD
 https://list.iptvcat.com/my_list/s/900ae429c4c40f9bff121d01c709e201.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",National Geographic
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",National Geographic
 https://list.iptvcat.com/my_list/s/96ef1c6544d6f1945595fc7e4b760461.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Prime Entertainment
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Prime Entertainment
 https://list.iptvcat.com/my_list/s/77e6610b30c71162203dd74eab2923d8.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",National Geographic Wild FHD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",National Geographic Wild FHD
 https://list.iptvcat.com/my_list/s/43fddb907c170c1267a2bfdeb1217678.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q Bleta TV FHD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q Bleta TV FHD
 https://list.iptvcat.com/my_list/s/92c26dec9b0c0e63f0267b7b5b85a580.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q DRAMA HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q DRAMA HD
 http://rv.flysat.live:80/307210013157/307210013157/82036?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q FAMILY HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q FAMILY HD
 http://rv.flysat.live:80/307210013157/307210013157/82041?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q HUMOR HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q HUMOR HD
 http://rv.flysat.live:80/307210013157/307210013157/82032?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Q Islam
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q Islam
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62673?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",RTV Ahireti
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",RTV Ahireti
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53498?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",RTV Islam
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",RTV Islam
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33472?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",STAR PLUS SHKODER HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",STAR PLUS SHKODER HD
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/139643?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",ShqipTV Aksion HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",ShqipTV Aksion HD
 http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3is5bOTTyZoCaDaaCZaUcp8/ts?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky AL Aksion
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky AL Aksion
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62687?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",ShqipTV Tom & Jerry HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",ShqipTV Tom & Jerry HD
 http://tvshopip.tv:8080/armando_rivero/riveroo_anual/332612?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky AL Komedi
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62688?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky AL Max
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky AL Komedi
+https://list.iptvcat.com/my_list/s/fb729780d888f0e3c74598b7f6c9a624.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky AL Max
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62686?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Drame
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Drame
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30083?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Dramë
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33525?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Komedi
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Dramë
+https://list.iptvcat.com/my_list/s/f46bc20eacebae734703b3c6931d02e4.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Komedi
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33526?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Max
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30084?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Music HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Max
+https://list.iptvcat.com/my_list/s/fa671f6fdcf15c1daf17a17fabae2b3c.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Music HD
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33527?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sky Shkence
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sky Shkence
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33529?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Sofia HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Sofia HD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2487?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Spin TV
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Spin TV
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22745?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Star+ Shkodra
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Star+ Shkodra
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3852?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV 1 Channel Shkodër FHD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV 1 Channel Shkodër FHD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8882?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV 2 Gostivar
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV 2 Gostivar
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39515?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV ASHKALI ISLAM
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV ASHKALI ISLAM
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/27068?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV FESTINA
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV FESTINA
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/39493?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV GLOBI
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV GLOBI
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/139646?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV Mitrovica
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV Mitrovica
 http://iptv3.kbc.al:25461/Osmanfazliu/x3HhRh3lFa/298?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV Plus HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV Plus HD
 http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3jkddsU5Y-3uS9LQs4lrbKN/ts?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TV ULQINI
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV ULQINI
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/50701?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TVMatic Comedy
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TVMatic Comedy
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60677?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TVMatic Crafts
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TVMatic Crafts
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60673?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TVMatic Fight
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TVMatic Fight
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60675?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TVMatic Funny
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TVMatic Funny
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60678?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",TVMatic Sport
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TVMatic Sport
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/60676?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Tetova HD TV
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Tetova HD TV
 http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3gnzy2N84_Uj6k-RdMr3PPT/ts?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Tv POLLOGU HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Tv POLLOGU HD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/6037?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Turbo Channel HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Turbo Channel HD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2479?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",VALI TV
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",VALI TV
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/28833?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",Vision Plus Toksor
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Vision Plus Toksor
 http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ahgTsQGrINh_VvE8-L9ng3iR-TV492TTvpTAMQNUAgaL/ts?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",X Family HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",X Family HD
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62681?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",X HISTORY HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",X HISTORY HD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/30088?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="N/A",X Western HD
+#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",X Western HD
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62685?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="Dealood" group-title="ALB LIVE (TV)" tvg-logo="http://www.albepg.com/tvlogi/Discovery%20Channel.png",Dealood
 https://v2.catcast.tv/content/38801/index.m3u8
