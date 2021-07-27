@@ -256,9 +256,7 @@ http://rv.flysat.live:80/307210013157/307210013157/82032?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q Islam
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62673?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",RTV Ahireti
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/53498?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",RTV Islam
-http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33472?checkedby:iptvcat.com
+http://62.210.188.65:8181/hls/ahireti/stream.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://www.starplus-tv.com/wp-content/uploads/2018/02/logo-header-1.png",STAR PLUS SHKODER HD
 http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=b7b21658f9fe82861732d223a13b95b5b6e48b92-47fd5afab55be9840dcd5b5b71b42df7-1627350481-1627343281
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",ShqipTV Aksion HD
