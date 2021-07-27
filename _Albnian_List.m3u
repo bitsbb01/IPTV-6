@@ -16,7 +16,7 @@ https://nesertv.live/rtvislam988/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="RTV Ahireti" group-title="ALB LIVE (TV)" tvg-logo="https://www.rtvahireti.com/wp-content/uploads/2021/04/Logo-Rtv-Ahireti-Write.png",RTV Ahireti
 http://62.210.188.65:8181/hls/ahireti/stream.m3u8
 #EXTINF:-1  tvg-id="MAKKAH LIVE" group-title="ALB LIVE (TV)" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 #EXTINF:-1  tvg-id="MTV.uk" group-title="ALB LIVE (TV)" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/ign-logo.png",IGN TV
 https://ign-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel
