@@ -46,7 +46,7 @@ https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #EXTINF:-1  tvg-id="Shenja TV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Shenja_logo_5ac42b082bf00_thumb.jpg",Shenja TV
 http://us.bestvideostreaming.is/8850/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="STAR PLUS SHKODER HD" group-title="ALB LIVE (TV)" tvg-logo="https://www.starplus-tv.com/wp-content/uploads/2018/02/logo-header-1.png",STAR PLUS SHKODER HD
-http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=b7b21658f9fe82861732d223a13b95b5b6e48b92-47fd5afab55be9840dcd5b5b71b42df7-1627350481-1627343281
+http://32.shqiptv.org/STAR-PLUS-SHKODER/tracks-v1a1/mono.m3u8?token=2b9d992a709c2ac7d41329e11aa5ce96261f8471-4633a326273b36755a0100528da89569-1627390655-1627383455
 #EXTINF:-1  tvg-id="Korca Plus" group-title="ALB LIVE (TV)" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="FOX.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/kjwxbxa.png",Fox Movies
