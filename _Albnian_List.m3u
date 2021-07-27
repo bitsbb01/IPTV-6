@@ -33,9 +33,9 @@ http://us.bestvideostreaming.is/8703/tracks-v1a1/mono.m3u8
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="TopNews.al" group-title="ALB LIVE (TV)" tvg-logo="/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg" audio-track="al",Dukagjini Live
 http://us.bestvideostreaming.is/8788/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Living.al" tvg-name="Living HD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/A65MDRy.png" timeshift, tvg-rec="7" audio-track="al",Living HD
+#EXTINF:-1  tvg-id="Living.al" tvg-name="LivingHD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/A65MDRy.png" timeshift, tvg-rec="7" audio-track="al",Living HD
 https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="JOLLY HD" tvg-name="Jolly HD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/bDF6v4q.png" timeshift, tvg-rec="7" audio-track="al",Jolly HD
+#EXTINF:-1  tvg-id="JOLLY HD" tvg-name="JollyHD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/bDF6v4q.png" timeshift, tvg-rec="7" audio-track="al",Jolly HD
 https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TeutaTV" tvg-name="TeutaTV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg" timeshift, tvg-rec="7" audio-track="al",Teuta TV
 http://109.72.96.132:8080/hls/tvteuta.m3u8
