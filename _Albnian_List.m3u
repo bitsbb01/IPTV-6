@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="IslamChannel.uk" group-title="ALB LIVE (TV)" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
 https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
-#EXTINF:-1  tvg-id="A1 ISLAM" group-title="ALB LIVE (TV)" tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",Balkanika Live
+#EXTINF:-1  tvg-id="Balkanika Live" group-title="ALB LIVE (TV)" tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",Balkanika Live
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2855?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika Music TV
+#EXTINF:-1 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="ALB LIVE (TV)",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika
+#EXTINF:-1 tvg-country="BG" tvg-logo="" group-title="ALB LIVE (TV)",Balkanika
 http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/4900?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="RTV PENDIMI" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/CwesqT7.png",RTV PENDIMI
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
