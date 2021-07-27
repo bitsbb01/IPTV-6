@@ -251,7 +251,7 @@ https://list.iptvcat.com/my_list/s/92c26dec9b0c0e63f0267b7b5b85a580.m3u8
 http://rv.flysat.live:80/307210013157/307210013157/82036?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q FAMILY HD
 http://rv.flysat.live:80/307210013157/307210013157/82041?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q HUMOR HD
+#EXTINF:-1  tvg-id="N/A"group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q HUMOR HD
 http://rv.flysat.live:80/307210013157/307210013157/82032?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg",Q Islam
 http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/62673?checkedby:iptvcat.com
@@ -287,8 +287,6 @@ http://grcts.velkas.net:2082/fas88_387389/YZxFBDJl/33529?checkedby:iptvcat.com
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2487?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Spin TV
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/22745?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",Star+ Shkodra
-http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/3852?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV 1 Channel Shkodër FHD
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/8882?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://beincards.com/image/cache/catalog/smart%20iptv%20app-500x500.png",TV 2 Gostivar
