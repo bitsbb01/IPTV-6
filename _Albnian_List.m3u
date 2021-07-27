@@ -65,7 +65,7 @@ https://srv1.iptviliria.com/JuniorTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/BangBang/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Tring Action" tvg-name="Tring Action" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/E4Evdoq.png" audio-track="al",Tring Action
 https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="Tring Super" tvg-name="Tring Super" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PYN0fHF.png" audio-track="al",Tring Super
+#EXTINF:-1  tvg-id="TringSuper.al" tvg-name="Tring Super" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PYN0fHF.png" audio-track="al",Tring Super
 https://srv1.iptviliria.com/TringSuper/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TringInternational.al" tvg-name="" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/gNCrPbJ.png" audio-track="al",Tring International
 https://srv1.iptviliria.com/TringInternational/index.m3u8?token=undefined
@@ -89,7 +89,7 @@ https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Smile.al" tvg-name="Tring Smile" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ZdWD2BB.png" audio-track="al",Tring Smile
 https://srv1.iptviliria.com/TringSmile/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Muse" group-title="ALB LIVE (TV)" tvg-logo="http://www.entertainmentgh.com/wp-content/uploads/2016/12/Muse-logo-.png" audio-track="al",Muse
+#EXTINF:-1  tvg-id="Muse.al" group-title="ALB LIVE (TV)" tvg-logo="http://www.entertainmentgh.com/wp-content/uploads/2016/12/Muse-logo-.png" audio-track="al",Muse
 https://list.iptvcat.com/my_list/s/e20388ab3a66a8aa42381d600200ebbd.m3u8
 #EXTINF:-1  tvg-id="Euro Film" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/RgzzL5r.png" audio-track="al",Euro Film
 https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
