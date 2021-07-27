@@ -120,7 +120,7 @@ https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 #EXTINF:-1  tvg-id="ALBFILMTV" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png" audio-track="al",ALBFILMTV
 https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 #EXTINF:-1  tvg-id="ALBFILMTV2" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png" audio-track="al",ALBFILMTV2
-https://t4.tvmak.com/tv/ALBFILMTV2.m3u8?2KxJO8gk1M
+https://list.iptvcat.com/my_list/s/b4e28d5573c94a4f632e7c0d16a68ea8.m3u8
 #EXTINF:-1  tvg-id="Tv Arberia 1" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" audio-track="al",Tv Arberia 1
 http://rtvarberia3.flashmediacast.com:1935/RtvArberia3/livestream/chunklist_w554393646.m3u8
 #EXTINF:-1  tvg-id="Tv Arberia 2" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg" audio-track="al",Tv Arberia 2
