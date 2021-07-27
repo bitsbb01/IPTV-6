@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="IslamChannel.uk" group-title="ALB LIVE (TV)" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
 https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
-#EXTINF:-1  tvg-id="A1 ISLAM" group-title="ALB LIVE (TV)" tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/TV-Rozafa-Live-300x225.png",TV ROZAFA LIVE
-https://t2.tvmak.com/tv/TVROZAFA.m3u8?X0cdtxulGM
+#EXTINF:-1  tvg-id="A1 ISLAM" group-title="ALB LIVE (TV)" tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",Balkanika Live
+https://list.iptvcat.com/my_list/s/3eb39d21ef906c1b0b3f2cd5f8476ede.m3u8
 #EXTINF:-1  tvg-id="RTV PENDIMI" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/CwesqT7.png",RTV PENDIMI
 http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
 #EXTINF:-1  tvg-id="OPOJA Live HD" group-title="ALB LIVE (TV)" tvg-logo="http://tvtolive.com/wp-content/uploads/Opoja.tvtolive.com_.jpg",OPOJA Live HD
