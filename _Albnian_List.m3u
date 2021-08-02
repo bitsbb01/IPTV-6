@@ -51,13 +51,13 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="hbo3" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/HBO_3_%282016-.n.v.%29.png/revision/latest?cb=20171126141450",HBO 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1  tvg-id="Bounty Plus" group-title="Group Title" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Bounty-Logo-1951-500x333.jpg",Bounty Plus
+#EXTINF:-1  tvg-id="Bounty Plus" group-title="ALB LIVE (TV)" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Bounty-Logo-1951-500x333.jpg",Bounty Plus
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="cartoon" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",cartoon
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1  tvg-id="One CA" group-title="Group Title" tvg-logo="http://canadaone.tv/wp-content/uploads/2020/05/cropped-Logo-Canada-One-New-1.png",One CA
+#EXTINF:-1  tvg-id="One CA" group-title="ALB LIVE (TV)" tvg-logo="http://canadaone.tv/wp-content/uploads/2020/05/cropped-Logo-Canada-One-New-1.png",One CA
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Canada Star TV (1080p)" group-title="Group Title" tvg-logo="https://pbs.twimg.com/profile_images/885226707908780032/UZCMR7bB.jpg",Canada Star TV (1080p)
+#EXTINF:-1  tvg-id="Canada Star TV (1080p)" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/885226707908780032/UZCMR7bB.jpg",Canada Star TV (1080p)
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u8
 #EXTINF:-1  tvg-id="THRILL TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL TV
 http://210.210.155.35/session/74576c30-ef1f-11eb-bb63-934ab082eeb6/qwr9ew/s/s34/index2.m3u8
@@ -155,9 +155,9 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t6
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1  tvg-id="HUNT CHANNEL" group-title="ALB LIVE (TV)" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png",HUNT CHANNEL
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Movee 4U Live" group-title="Group Title" tvg-logo="https://vidmovin.com/media/catalog/product/cache/193190d619b7c805510e13a1cc7d50d4/81/EPG01362/000007177.png",Movee 4U Live
+#EXTINF:-1  tvg-id="Movee 4U Live" group-title="ALB LIVE (TV)" tvg-logo="https://vidmovin.com/media/catalog/product/cache/193190d619b7c805510e13a1cc7d50d4/81/EPG01362/000007177.png",Movee 4U Live
 https://broadcast.mytvtogo.net/movee4u/movee4u/chunklist_w1089211526.m3u8
-#EXTINF:-1  tvg-id="24 Hour Free Movies" group-title="Group Title" tvg-logo="https://cdn.teleon.tv/logo/24-hour-free-movies-us.png",24 Hour Free Movies
+#EXTINF:-1  tvg-id="24 Hour Free Movies" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/24-hour-free-movies-us.png",24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1  tvg-id="Folk TV" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-folk-tv-5380.jpg",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
