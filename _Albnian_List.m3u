@@ -92,7 +92,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 #EXTINF:-1  tvg-id="FilmRise Family" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-filmrise.png",FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1  tvg-id="FilmRise Family" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-filmrise.png",FilmRise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="FilmBox Afric " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Afric 
 https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/5.m3u8
 #EXTINF:-1  tvg-id="FilmBox RO" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox RO
@@ -113,6 +113,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemyster
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Film 4
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1  tvg-id="Discover.Film" group-title="ALB LIVE (TV)" tvg-logo="https://discover.film/wp-content/uploads/film-logo.png",Discover.Film
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Filmstream" group-title="ALB LIVE (TV)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmstream-logo-black-alpha.png",Filmstream
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="MoviesSTIRR Movies" group-title="ALB LIVE (TV)" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1vdmllMTIzLnNob3dib3h4TW92aWVib3hfc2NyZWVuXzBfMTU1MDE5NjQ0M18wMjA/screen-0.jpg?fakeurl=1&type=.jpg",MoviesSTIRR Movies
@@ -123,6 +125,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="Xplore" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/xplore-us.png",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Dare2Dream " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/dare2dream.png",Dare2Dream 
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
 #EXTINF:-1  tvg-id="Skills + Thrills Channel 2" group-title="ALB LIVE (TV)" tvg-logo="http://www.liptunesmusic.com/wp-content/uploads/2014/03/Skills-and-Thrills_MTV.png",Skills + Thrills Channel 2
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Skills + Thrills Channel 3" group-title="ALB LIVE (TV)" tvg-logo="http://www.liptunesmusic.com/wp-content/uploads/2014/03/Skills-and-Thrills_MTV.png",Skills + Thrills Channel 3
