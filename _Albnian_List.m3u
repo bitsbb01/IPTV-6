@@ -55,6 +55,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="cartoon" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",cartoon
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1  tvg-id="One CA" group-title="Group Title" tvg-logo="http://canadaone.tv/wp-content/uploads/2020/05/cropped-Logo-Canada-One-New-1.png",One CA
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Canada Star TV (1080p)" group-title="Group Title" tvg-logo="https://pbs.twimg.com/profile_images/885226707908780032/UZCMR7bB.jpg",Canada Star TV (1080p)
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u8
 #EXTINF:-1  tvg-id="THRILL TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL TV
 http://210.210.155.35/session/74576c30-ef1f-11eb-bb63-934ab082eeb6/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1  tvg-id="The Asylum" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest/scale-to-width-down/250?cb=20160827170704",The Asylum
@@ -93,23 +97,23 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1  tvg-id="FilmRise Family" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-filmrise.png",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1  tvg-id="FilmBox Afric " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Afric 
+#EXTINF:-1  tvg-id="FilmBox Afric" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Afric
 https://hls.xumo.com/channel-hls/v1/9fe012a9926c4e91/9999400/5.m3u8
 #EXTINF:-1  tvg-id="FilmBox RO" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox RO
 https://dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox Plus " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Plus 
+#EXTINF:-1  tvg-id="FilmBox Plus" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Plus
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/576x432_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox 
+#EXTINF:-1  tvg-id="FilmBox" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox Action " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Action 
+#EXTINF:-1  tvg-id="FilmBox Action" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Action
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox Family " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family 
+#EXTINF:-1  tvg-id="FilmBox Family" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox Extra " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Extra 
+#EXTINF:-1  tvg-id="FilmBox Extra" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Extra
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1  tvg-id="FilmBox Premium " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Premium 
+#EXTINF:-1  tvg-id="FilmBox Premium" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Premium
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FilmBox ArtHouse " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox ArtHouse 
+#EXTINF:-1  tvg-id="FilmBox ArtHouse" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/filmbox.png",FilmBox ArtHouse
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Film 4
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -125,7 +129,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="Xplore" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/xplore-us.png",Xplore
 https://xplore-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Dare2Dream " group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/dare2dream.png",Dare2Dream 
+#EXTINF:-1  tvg-id="Dare2Dream" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/dare2dream.png",Dare2Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
 #EXTINF:-1  tvg-id="Skills + Thrills Channel 2" group-title="ALB LIVE (TV)" tvg-logo="http://www.liptunesmusic.com/wp-content/uploads/2014/03/Skills-and-Thrills_MTV.png",Skills + Thrills Channel 2
 https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
