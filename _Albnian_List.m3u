@@ -19,7 +19,7 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 https://srv1.iptviliria.com/TopChannel/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Top.Channel.HD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="KlanHD.al" group-title="ALB LIVE (TV)" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan
+#EXTINF:-1  tvg-id="Klan.al" group-title="ALB LIVE (TV)" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan
 http://us.bestvideostreaming.is/8704/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="KlanHD.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
@@ -43,11 +43,11 @@ https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-id="&Flix HD" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-id="amediapremium" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/tv-cnbcaf",amediapremium
+#EXTINF:-1  tvg-id="amediapremium" group-title="ALB LIVE (TV)" tvg-logo="https://www.cableman.ru/sites/default/files/amedia-premium-hd.png?1535611150",AMEDIA Premium
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1  tvg-id="hbo2" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/tv-cnbcaf",hbo2
+#EXTINF:-1  tvg-id="hbo2" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="hbo3" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/tv-cnbcaf",hbo3
+#EXTINF:-1  tvg-id="hbo3" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/HBO_3_%282016-.n.v.%29.png/revision/latest?cb=20171126141450",HBO 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-id="THRILL TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL TV
 http://210.210.155.35/session/74576c30-ef1f-11eb-bb63-934ab082eeb6/qwr9ew/s/s34/index2.m3u8
@@ -79,21 +79,21 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Folk TV" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-folk-tv-5380.jpg",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="DUST 1" group-title="ALB LIVE (TV)" tvg-logo="N/A",DUST 1
+#EXTINF:-1  tvg-id="DUST 1" group-title="ALB LIVE (TV)" tvg-logo="https://watchdust.com/wp-content/uploads/2021/01/DUST_Corporate_Logo-copy.png",DUST 1
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="REDBOX" group-title="ALB LIVE (TV)" tvg-logo="N/A",REDBOX
+#EXTINF:-1  tvg-id="REDBOX" group-title="ALB LIVE (TV)" tvg-logo="https://variety.com/wp-content/uploads/2015/03/redbox-logo.jpg",REDBOX
 https://comedy-redbox.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  tvg-id="MOVIE UK" group-title="ALB LIVE (TV)" tvg-logo="N/A",MOVIE UK
+#EXTINF:-1  tvg-id="MOVIE UK" group-title="ALB LIVE (TV)" tvg-logo="https://downtowncambridge.org/wp-content/uploads/2020/09/Fall-Movie-Review.jpg",MOVIE UK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="ALB LIVE (TV)" tvg-logo="N/A",DUBAI 'ONE
+#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="ALB LIVE (TV)" tvg-logo="https://www.arabianbusiness.com/public/images/2014/07/17/Dubai-One-TV.jpg",DUBAI 'ONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8?DVR
-#EXTINF:-1  tvg-id="ADULTSWIM TV" group-title="ALB LIVE (TV)" tvg-logo="N/A",ADULTSWIM TV
+#EXTINF:-1  tvg-id="ADULTSWIM TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Adult_Swim_Screen-Bug_2002.svg/200px-Adult_Swim_Screen-Bug_2002.svg.png",ADULTSWIM TV
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1  tvg-id="MEDIA CORP" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",MEDIA CORP
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 #EXTINF:-1  tvg-id="FITE" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1  tvg-id="zlivingusa TV" group-title="ALB LIVE (TV)" tvg-logo="N/A",Z-LIVING USA
+#EXTINF:-1  tvg-id="zlivingusa TV" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/925164938250797056/ZKKaD1Ob.jpg",Z-LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1  tvg-id="Discovery ID" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/pyTYyhL.png",Discovery ID
 https://srv1.iptviliria.com/DiscoveryID/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
