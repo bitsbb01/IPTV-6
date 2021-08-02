@@ -79,8 +79,12 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Folk TV" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-folk-tv-5380.jpg",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="DUST 1" group-title="ALB LIVE (TV)" tvg-logo="https://watchdust.com/wp-content/uploads/2021/01/DUST_Corporate_Logo-copy.png",DUST 1
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="CHIVE TV" group-title="ALB LIVE (TV)" tvg-logo="https://buy.tinypass.com/ml/cropped_kezhOUsdkF_1_oubupj.png",CHIVE TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1  tvg-id="Showtime Live" group-title="ALB LIVE (TV)" tvg-logo="http://fomny.com/Video-1/USA/04/Showtime/logo.gif",Showtime Live
+https://r2---sn-5hne6nzs.googlevideo.com/videoplayback?expire=1627947628&ei=DC4IYeytNeOLvdIPjK-UgAI&ip=90.248.212.244&id=o-AN3A5379Bg6by8YOFhwIf3t2OseWKq410Uhjo6DvYDI6&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=5GobStVaSVTvIWDc384yhucG&cnr=14&ratebypass=yes&dur=35.178&lmt=1471755570268255&fexp=23886206,24001373,24007246&beids=23886206&c=WEB_EMBEDDED_PLAYER&n=lmS-gxAB884pm3HrA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALHASZVHankN_gzfEQsnPTGx5xqFi24L16yIf8u13tDUAiEAsdRUwflC48-X75VfJHujqiwwz3S8AxjI6VfJCJ8DWzQ%3D&redirect_counter=1&cm2rm=sn-aigese7l&req_id=731a333f5f28a3ee&cms_redirect=yes&mh=ph&mm=34&mn=sn-5hne6nzs&ms=ltu&mt=1627925817&mv=m&mvi=2&pl=16&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgIE1nnsRdCSP3L03oc7DylqU-dAOPw9fOhiNgxFYWSpYCIQClF3XNJSbQksDbnE2LTDVHiLBtFK6hIMxxcyJpLr64dQ%3D%3D
+#EXTINF:-1  tvg-id="filmrisesci-fi" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1920px-Filmrise.svg.png",filmrisesci-fi
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1  tvg-id="REDBOX" group-title="ALB LIVE (TV)" tvg-logo="https://variety.com/wp-content/uploads/2015/03/redbox-logo.jpg",REDBOX
 https://comedy-redbox.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  tvg-id="MOVIE UK" group-title="ALB LIVE (TV)" tvg-logo="https://downtowncambridge.org/wp-content/uploads/2020/09/Fall-Movie-Review.jpg",MOVIE UK
@@ -91,17 +95,31 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1  tvg-id="MEDIA CORP" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",MEDIA CORP
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
-#EXTINF:-1  tvg-id="FITE" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
+#EXTINF:-1  tvg-id="fite.tv" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1  tvg-id="zlivingusa TV" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/925164938250797056/ZKKaD1Ob.jpg",Z-LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1  tvg-id="Discovery ID" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/pyTYyhL.png",Discovery ID
 https://srv1.iptviliria.com/DiscoveryID/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Danger TV" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/981009599850409985/rTzmSoqJ.jpg",Danger TV
+https://dangertv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="SilenceTV" group-title="ALB LIVE (TV)" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/f8/5e/80/f85e8081-7df1-e6e2-b36e-ffcb9c7c3998/source/512x512bb.jpg",SilenceTV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1  tvg-id="Outside TV" group-title="ALB LIVE (TV)" tvg-logo="http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",Outside TV
+https://outsidetv-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Brat TV" group-title="ALB LIVE (TV)" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2019/03/brat-branded-1920x1131.jpg",Brat TV
+https://brat-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="legochannel" group-title="ALB LIVE (TV)" tvg-logo="https://www.lego.com/cdn/cs/set/assets/bltb760afdedde0edd6/BI-app_LEGO-COM_Yellow.png?fit=crop&format=png&width=635&height=440&dpr=1",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="Gusto TV" group-title="ALB LIVE (TV)" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/g/gusto/gusto_mgsk.jpg",Gusto TV
+https://gustous-stirr.amagi.tv/playlist1080ps.m3u8
+#EXTINF:-1  tvg-id="Food 52" group-title="ALB LIVE (TV)" tvg-logo="https://mms.businesswire.com/media/20210503005524/en/875153/23/Food52_Logo.jpg",Food 52
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-food52/CDN/640x360_440000/index.m3u8
 #EXTINF:-1  tvg-id="Dealood" group-title="ALB LIVE (TV)" tvg-logo="http://www.albepg.com/tvlogi/Discovery%20Channel.png",Dealood
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1  tvg-id="Balkanika Live" group-title="ALB LIVE (TV)" tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",Balkanika Live
 http://client.ksporttv.com:88/bajrami12/8SgZlCQLH9/2855?checkedby:iptvcat.com
-#EXTINF:-1  tvg-id="N/A" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/S0GrDsQ.png",Balkanika Music TV
+#EXTINF:-1  tvg-id="Balkanika Music TV" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/S0GrDsQ.png",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="Nickelodeon" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/vwj9BmE.png",Nickelodeon
 https://srv1.iptviliria.com/Nickelodeon/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
@@ -1065,8 +1083,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/BUiwYlr.png",Space (No Audio)
 http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/2ZAz5Df.png",Tele V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1  tvg-id="History TV USA" group-title="USA" tvg-logo="http://fomny.com/Video-1/USA/02/History/logo.gif",History TV USA
+https://hls.ustream.to/History-Channel-USA.m3u8?token=cf8-1da-30b-91e-664-f0b-901-36b-96e-9e5-24a-bc3-608-975-e3d-f5b-a61-c83-a67-582-03c-b-a5d-d1c-e8t-f6c
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/i3lItFB.png",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/JgRDyaB.png",TVO Kids
@@ -1560,7 +1578,9 @@ https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://www.ovationtv.com/app/uploads/2018/04/logo-ovation-cropped.png",Ovation
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/2ZAz5Df.png",Tele V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+http://s3.ionlywantyou.xyz/live/hm6yjakr/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgNTozMDo0OCBQTSZoYXNoX3ZhbHVlPWU3S2RUQTZFVURTZThmbnJCMWFYYmc9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEz
+#EXTINF:-1  tvg-id="Miami Tv channel live" group-title="USA" tvg-logo="http://www.giniko.com/logos/190x110/95.png",Miami Tv channel live
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w712796306_b2592000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="USA" tvg-logo="https://i.imgur.com/i3lItFB.png",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="UK" tvg-logo="https://i.imgur.com/HL7fwzt.png",Afrobeats
@@ -1807,8 +1827,6 @@ https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="UAE" tvg-logo="https://i.imgur.com/7sibv0t.png",Tele Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="UAE" tvg-logo="https://cdn.countryflags.com/thumbs/libya/flag-button-round-250.png",~ Libya TV ~
-http://www.lengua.com/anthems/Libya.mp3
 #EXTINF:-1  tvg-id="N/A" group-title="UAE" tvg-logo="https://i.imgur.com/bEo8zZi.png",218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="UAE" tvg-logo="https://i.imgur.com/0OzJkwp.png",218 News
