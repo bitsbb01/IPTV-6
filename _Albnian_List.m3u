@@ -61,7 +61,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  tvg-id="SI-FI MOVIE" group-title="ALB LIVE (TV)" tvg-logo="http://vignette4.wikia.nocookie.net/mst3k/images/d/d1/Scifi.jpg/revision/latest?cb=20070220061423",SI-FI MOVIE
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1  tvg-id="MOVIE MIX" group-title="ALB LIVE (TV)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946",MOVIE MIX
+#EXTINF:-1  tvg-id="MOVIE MIX" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1920px-STAR_Movies_logo.svg.png",STAR MOVIEMI HD
 https://sonar.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1  tvg-id="Stirr Film Detective" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-us.png",Stirr Film Detective
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
@@ -81,20 +81,32 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-id="MoviesWixlar (720p)" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/hfia0wN.png",MoviesWixlar (720p)
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1  tvg-id="Telpin TV Canal 2 HD (720p)" group-title="ALB LIVE (TV)" tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-06.png",Telpin TV Canal 2 HD (720p)
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Xplore" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/xplore-us.png",Xplore
-https://xplore-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Telemax (720p)" group-title="ALB LIVE (TV)" tvg-logo="Logo",Telemax (720p)
-https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1  tvg-id="Docurama" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/W87cTZc.png",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1  tvg-id="FilmRise" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/filmrise-us_transparent.png",FilmRise
 https://dai.google.com/linear/hls/pa/event/Va1QEor0SWO_x_SQNyaF0w/stream/bd08cbf5-f61c-4163-b691-a13c7e4b0d37:BRU/master.m3u8
 #EXTINF:-1  tvg-id="FilmRise Family" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-filmrise.png",FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 #EXTINF:-1  tvg-id="FilmRise Family" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-filmrise.png",FilmRise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1  tvg-id="MoviesSTIRR Movies" group-title="ALB LIVE (TV)" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1vdmllMTIzLnNob3dib3h4TW92aWVib3hfc2NyZWVuXzBfMTU1MDE5NjQ0M18wMjA/screen-0.jpg?fakeurl=1&type=.jpg",MoviesSTIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1  tvg-id="transtv" group-title="ALB LIVE (TV)" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/08/873008581.jpg",transtv
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Telpin TV Canal 2 HD (720p)" group-title="ALB LIVE (TV)" tvg-logo="http://telpinteve.com.ar:9090/imagenes/Canal2Logos-06.png",Telpin TV Canal 2 HD (720p)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="Xplore" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/xplore-us.png",Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="MoviesWOW! TV (720p)" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wowtv.svg/374px-Wowtv.svg.png",MoviesWOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1  tvg-id="Telemax (720p)" group-title="ALB LIVE (TV)" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/Telemax-Logo-1-7080.jpg",Telemax (720p)
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1  tvg-id="Docurama" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/W87cTZc.png",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1  tvg-id="The First" group-title="ALB LIVE (TV)" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41819x7lL4L.jpg",The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
+#EXTINF:-1  tvg-id="Truly (STIRR)" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRsQecBG98AigyOTihA5xtQZrS2QkGG86PZOGhIw=s88-c-k-c0x00ffffff-no-rj",Truly (STIRR)
+https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
+#EXTINF:-1  tvg-id="portalfoxmix" group-title="ALB LIVE (TV)" tvg-logo="http://tv.sarcheshmeh.us/thumb.php?w=900&h=506&src=http://tv.sarcheshmeh.us/index_files/channels/portalfoxmix.png",portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:-1  tvg-id="The Design Network" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/the-design-network-us.png",The Design Network
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Leominster TV Educational" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/988753335707734016/84bebqf2_400x400.jpg",Leominster TV Educational
@@ -129,6 +141,12 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 #EXTINF:-1  tvg-id="fite.tv" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1  tvg-id="EXPLORER" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrqnkCUydJWdANDhNfbn63xI0KN5oiQ4RrrWi-=s900-c-k-c0x00ffffff-no-rj",EXPLORE
+https://outbound-production.explore.org/stream-production-221/.m3u8
+#EXTINF:-1  tvg-id="REDBULL TV" group-title="ALB LIVE (TV)" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1  tvg-id="Contact Vision Tv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ContactVision_logo_6081f150925a3_thumb.jpg",Contact Vision Tv
+http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="zlivingusa TV" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/925164938250797056/ZKKaD1Ob.jpg",Z-LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1  tvg-id="Discovery ID" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/pyTYyhL.png",Discovery ID
@@ -283,14 +301,8 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 http://live.aritv.ch:6969/live/ari/tv/1.ts
 #EXTINF:-1  tvg-id="Zjarr TV HD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/UValLp1.png",Zjarr TV HD
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1  tvg-id="EXPLORER" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrqnkCUydJWdANDhNfbn63xI0KN5oiQ4RrrWi-=s900-c-k-c0x00ffffff-no-rj",EXPLORE
-https://outbound-production.explore.org/stream-production-221/.m3u8
 #EXTINF:-1  tvg-id="AlbTVUSA" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbTVUSA_logo_5ac42ffc6ea3e_thumb.jpg",AlbTVUSA
 http://us.bestvideostreaming.is/8711/index.m3u8
-#EXTINF:-1  tvg-id="REDBULL TV" group-title="ALB LIVE (TV)" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1  tvg-id="Contact Vision Tv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ContactVision_logo_6081f150925a3_thumb.jpg",Contact Vision Tv
-http://contactvision.flashmediacast.com:1935/contactvision/livestream/playlist.m3u8
 #EXTINF:-1  tvg-id="Fox Lajme" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/FoxLajme_logo_6067a6566a0b2_thumb.jpg",Fox Lajme
 http://edge01eu.ekranet.com/faxnews/index.m3u8
 #EXTINF:-1  tvg-id="Shqiponja TV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",Shqiponja TV
