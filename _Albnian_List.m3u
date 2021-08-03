@@ -175,8 +175,8 @@ https://comedy-redbox.amagi.tv/playlist1080p.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="ALB LIVE (TV)" tvg-logo="https://www.arabianbusiness.com/public/images/2014/07/17/Dubai-One-TV.jpg",DUBAI 'ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1  tvg-id="ADULTSWIM TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Adult_Swim_Screen-Bug_2002.svg/200px-Adult_Swim_Screen-Bug_2002.svg.png",ADULTSWIM TV
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1  tvg-id="Comedy Channel" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png",Comedy Channel
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="MEDIA CORP" group-title="ALB LIVE (TV)" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1554165536_channel-news-asia.png",CNA [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 #EXTINF:-1  tvg-id="fite.tv" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/800px-FITE_TV.svg.png",FITE
@@ -202,7 +202,9 @@ https://brat-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="legochannel" group-title="ALB LIVE (TV)" tvg-logo="https://www.lego.com/cdn/cs/set/assets/bltb760afdedde0edd6/BI-app_LEGO-COM_Yellow.png?fit=crop&format=png&width=635&height=440&dpr=1",Lego Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Gusto TV" group-title="ALB LIVE (TV)" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/g/gusto/gusto_mgsk.jpg",Gusto TV
-https://gustous-plex.amagi.tv/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/playlist.m3u8
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="Go USA" group-title="ALB LIVE (TV)" tvg-logo="https://newstodaynet.com/wp-content/uploads/2019/12/GOUSA-300x181.jpg",Go USA
+https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Outdoor America" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/outdoor-america-us.png",Outdoor America
 https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
 #EXTINF:-1  tvg-id="Food 52" group-title="ALB LIVE (TV)" tvg-logo="https://mms.businesswire.com/media/20210503005524/en/875153/23/Food52_Logo.jpg",Food 52
@@ -351,16 +353,16 @@ http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
 https://list.iptvcat.com/my_list/s/670d28342ce385c1620a89f45ee948b8.m3u8
 #EXTINF:-1  tvg-id="Çifteli TV" group-title="ALB LIVE (TV)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71GT5gqG6LS._AC_SL1372_.jpg",Çifteli TV
 http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="RTV Mir" group-title="ALB LIVE (TV)" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sjbmguxltqzk.png",RTV Mir
-http://us.bestvideostreaming.is/8839/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Topestrada TV" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TopestradaTv_logo_5ac42e64d79bf_thumb.jpg",Topestrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1  tvg-id="Kanali 10" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/j0tr3W5.png",Kanali 10
 http://us.bestvideostreaming.is/8849/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Start Tv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/StartTv_logo_60ca463019e5c_thumb.jpg",Start Tv
+http://us.bestvideostreaming.is/8821/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="ZICO HD" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/cS0Qe01.png",ZICO HD
 https://srv1.iptviliria.com/ZicoTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Koha TV" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/Vqpr6LP.png",Koha TV
-https://srv1.iptviliria.com/KohaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.http://us.bestvideostreaming.is/8705/tracks-v1a1/mono.m3u8
+http://us.bestvideostreaming.is/8705/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="SHOTA TV" group-title="ALB LIVE (TV)" tvg-logo="https://tvmak.com/img/tv/shotatv.png",SHOTA TV
 https://srv1.iptviliria.com/ShotaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="RED TV" group-title="ALB LIVE (TV)" tvg-logo="https://www.jagledam.online/logo/logortcg2.jpg",RED TV
@@ -368,7 +370,7 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1  tvg-id="RTV DESHIRA" group-title="ALB LIVE (TV)" tvg-logo="https://rtvdeshira.eu/images/deshira.png",RTV DESHIRA
 https://t2.tvmak.com/tv/livetvTetove.m3u8?sPR5E2zO1a
 #EXTINF:-1  tvg-id="TVArta.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/O1Zg5iu.png",Arta Tv
-https://thanos.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/yt1q1x720/index.m3u8
+http://us.bestvideostreaming.is/8745/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Premium Channel" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh9K7qMV9dV0CSuiV7G-mXugnvaQU5oMwhYy40f=s88-c-k-c0x00ffffff-no-rj",Premium Channel
 https://premiummedia.al/stream/premium-channel/live.m3u8
 #EXTINF:-1  tvg-id="Tema TV Ferizaj" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/6weuwve.png",Tema TV Ferizaj
