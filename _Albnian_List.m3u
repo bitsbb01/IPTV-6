@@ -95,8 +95,24 @@ https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1Q
 https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1 tvg-name="ART KINO 3" tvg-id="ART KINO 3" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
 https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1 tvg-name="Film 4" tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Film 4
+#EXTINF:-1 tvg-name="Fail Army " tvg-id="Fail Army" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Fail Army 
 https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Film 4" tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/failarmy.png",Film 4
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-name="Hallmark Movies" tvg-id="Hallmark Movies" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/hallmark-movies.png",Hallmark Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/256x144_230000/index.m3u8
+#EXTINF:-1 tvg-name="Kiss  Tv Online" tvg-id="Kiss  Tv Online" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/kiss.png",Kiss  Tv Online
+http://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-name="Box Hits" tvg-id="Box Hits" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/box-hits.png",Box Hits
+http://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-name="The Box" tvg-id="The Box" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/the-box.png",The Box
+http://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-name="Sony Crime" tvg-id="Sony Crime" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/sony-crime.png",Sony Crime
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8
+#EXTINF:-1 tvg-name="Sky Folk TV" tvg-id="Sky Folk TV" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/sky-movies-action.png",Sky Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-name="Stirr Film Detective" tvg-id="Stirr Film Detective" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-us.png",Stirr Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Film Aksion" tvg-id="FilmAksion.al" group-title="ALB LIVE (TV)" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_aksion_logo.png",Film Aksion
 https://srv1.iptviliria.com/FilmAkson/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1 tvg-name="Film Autor" tvg-id="Film Komedi" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/ESE5ack.png",Film Autor
@@ -139,8 +155,10 @@ https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-name="Filmstream" tvg-id="Filmstream" group-title="ALB LIVE (TV)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmstream-logo-black-alpha.png",Filmstream
 https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Truly (STIRR)" tvg-id="Truly (STIRR)" group-title="ALB LIVE (TV)" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTRsQecBG98AigyOTihA5xtQZrS2QkGG86PZOGhIw=s88-c-k-c0x00ffffff-no-rj",Truly (STIRR)
-https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
+#EXTINF:-1 tvg-name="Redbox 2: Comedy" tvg-id="Redbox 2: Comedy" group-title="ALB LIVE (TV)" tvg-logo="https://13movies.files.wordpress.com/2013/02/redbox-box.jpg",Redbox 2: Comedy
+https://comedy-redbox.amagi.tv/amRdirect/p=Redbox&subp=RedboxdesktopWebLinux/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Redbox 3: Rush" tvg-id="Redbox 3: Rush" group-title="ALB LIVE (TV)" tvg-logo="https://13movies.files.wordpress.com/2013/02/redbox-box.jpg",Redbox 3: Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRULY 1" tvg-id="TRULY 1" group-title="ALB LIVE (TV)" tvg-logo="https://www.getmemedia.com/public/ideas/Opp/14869/trutv.jpg",TRULY 1
 https://barcroft-truly-1.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-name="TV 1 Shkoder" tvg-id="TV 1 Shkoder" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/F7wXjQR.png",TV 1 Shkoder
@@ -161,11 +179,23 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TV Kopliku" tvg-id="TV Kopliku" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku
 http://us.bestvideostreaming.is/2508/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Animax Japan" tvg-id="Animax Japan" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax Japan
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-name="Animax Japan" tvg-id="Animax Japan" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax Japan
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-name="AT-X" tvg-id="AT-X" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/220px-AT-X_logo.svg.png",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-name="CGNTV Japan" tvg-id="CGNTV Japan" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-cgn-tv-usa.jpg",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-name="Fuji TV" tvg-id="Fuji TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",Fuji TV
+https://fujitv.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-id="Tokyo MX1" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-name="&Flix HD" tvg-id="&Flix HD" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="&PRIVE HD" tvg-id="&PRIVE HD" group-title="ALB LIVE (TV)" tvg-logo="https://pbs.twimg.com/profile_images/927804583014887425/PUT8Ilj9_400x400.jpg",&PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="The Asylum" tvg-id="The Asylum" group-title="ALB LIVE (TV)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/The_Asylum_Logo.jpg/revision/latest/scale-to-width-down/250?cb=20160827170704",The Asylum
+#EXTINF:-1 tvg-name="The Asylum" tvg-id="The Asylum" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/the-asylum.png",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 #EXTINF:-1 tvg-name="The Design Network" tvg-id="The Design Network" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/the-design-network-us.png",The Design Network
 https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
@@ -173,8 +203,6 @@ https://thedesignnetwork-tdn-5.plex.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 #EXTINF:-1 tvg-name="THRILL TV" tvg-id="THRILL TV" group-title="ALB LIVE (TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL TV
 http://210.210.155.35/session/74576c30-ef1f-11eb-bb63-934ab082eeb6/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1 tvg-name="Stirr Film Detective" tvg-id="Stirr Film Detective" group-title="ALB LIVE (TV)" tvg-logo="https://cdn.teleon.tv/logo/stirr-us.png",Stirr Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-name="Stinet" tvg-id="Stinet.al" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/R0TOluN.png",Stinet
 https://srv1.iptviliria.com/Stinet/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1 tvg-name="Start Tv" tvg-id="Start Tv" group-title="ALB LIVE (TV)" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/StartTv_logo_60ca463019e5c_thumb.jpg",Start Tv
@@ -225,6 +253,8 @@ https://gsn-cinevault-westerns-1.samsung.wurl.com/manifest/playlist.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-name="A1 Report Live" tvg-id="A1 Report Live" group-title="ALB LIVE (TV)" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-a1-repor.jpg",A1 Report Live
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Pluto TV GLORY Kickboxing" tvg-id="Pluto TV GLORY Kickboxing" group-title="ALB LIVE (TV)" tvg-logo="https://media.elegantcms.io/a/96dc72d1-4d96-40b8-a3bd-cd44c423ca4b/87d71980-6f9a-47ab-bfcb-aea7f749bcdb/1623685373/o/70_-GloryxEndeavor.jpeg?1623685373",Pluto TV GLORY Kickboxing
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="ABC News Alb HD" tvg-id="ABCNews.al" group-title="ALB LIVE (TV)" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
 https://peta.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1q1zt360/index.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-id="ABC News Live" group-title="ALB LIVE (TV)" tvg-logo="https://keyframe-cdn.abcnews.com/streamprovider6.jpg",ABC News Live
@@ -1877,5 +1907,7 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chu
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
 #EXTINF:-1 tvg-name="Z Living" tvg-id="Z Living" group-title="USA" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTINF:-1 tvg-name="Z Living (Opt-2)" tvg-id="Z Living (Opt-2)" group-title="USA" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living (Opt-2)a
+#EXTINF:-1 tvg-name="Z Living (Opt-2)" tvg-id="Z Living (Opt-2)" group-title="USA" tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living (Opt-2)
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/256x144_230000/index.m3u8" tvg-id="Hallmark Movies" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/failarmy.png",Hallmark Movies 
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
