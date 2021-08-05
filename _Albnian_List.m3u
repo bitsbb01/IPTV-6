@@ -95,9 +95,9 @@ https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1Q
 https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1 tvg-name="ART KINO 3" tvg-id="ART KINO 3" group-title="ALB LIVE (TV)" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
 https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1 tvg-name="Fail Army " tvg-id="Fail Army" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Fail Army 
+#EXTINF:-1 tvg-name="Fail Army " tvg-id="Fail Army" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/failarmy.png",Fail Army 
 https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Film 4" tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/failarmy.png",Film 4
+#EXTINF:-1 tvg-name="Film 4" tvg-id="Film 4" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/film-4.png",Film 4
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-name="Hallmark Movies" tvg-id="Hallmark Movies" group-title="ALB LIVE (TV)" tvg-logo="http://totv.org/img/hallmark-movies.png",Hallmark Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/256x144_230000/index.m3u8
