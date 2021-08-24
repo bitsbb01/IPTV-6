@@ -295,6 +295,14 @@ https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://brat-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-id="Canada Star TV (1080p)" group-title="Shqipëria" tvg-logo="https://pbs.twimg.com/profile_images/885226707908780032/UZCMR7bB.jpg",Canada Star TV (1080p)
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u8
+#EXTINF:-1  tvg-id="Crime 360" group-title="Shqipëria" tvg-logo="http://cdn.teleon.tv/logo/crime-360-us.png",Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="DocumentaryLaw & Crime (720p)" group-title="Shqipëria" tvg-logo="https://lawandcrimeproductions.com/wp-content/uploads/2020/09/lnc-daily-432x243.jpg",DocumentaryLaw & Crime (720p)
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1  tvg-id="DocumentaryLaw And Crime Network (720p)" group-title="Shqipëria" tvg-logo="https://lawandcrimeproductions.com/wp-content/uploads/2020/09/lnc-daily-432x243.jpg",DocumentaryLaw And Crime Network (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1  tvg-id="Pluto TV My5 Crime" group-title="Shqipëria" tvg-logo="https://lawandcrimeproductions.com/wp-content/uploads/2020/09/lnc-daily-432x243.jpg",Pluto TV My5 Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1  tvg-id="cartoon" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",cartoon
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1  tvg-id="CHIVE TV" group-title="Shqipëria" tvg-logo="https://buy.tinypass.com/ml/cropped_kezhOUsdkF_1_oubupj.png",CHIVE TV
