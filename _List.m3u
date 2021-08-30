@@ -3515,8 +3515,8 @@ http://f4.tvxweb.net:8082/24273/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="flix hd" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",flix hd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="ETV" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV
-https://sb.err.ee/live/etv.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="LNK HD" group-title="Lithuania" tvg-logo="https://lnk.lt/assets/img/logoTest.png",LNK HD
+https://vod.lnk.lt/lnk_vod/lnk/lnk/mp4:zinios_21:30/zinios_21:30_trailer_138880_2021_8_30_dfd12c43-6696-45da-bb83-285b3b71308c.mp4/playlist.m3u8?tokenstarttime=0&tokenendtime=1630398564&tokenhash=mGrMFJV9Gy5_ClHOhDiCE_x9DLy6r8wrJOSW62YZUD4-CDSM3fHWtAYJWJ-1JTeIlUADt-r9t-Jb95m-Wg_wfQ==
 #EXTINF:-1  tvg-id="ETV+" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV+
 https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1  tvg-id="ETV2" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV2
@@ -3527,10 +3527,14 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedb
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:-1  tvg-id="LRT" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",LRT
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="LRT Lituanica" group-title="Lithuania" tvg-logo="N/A",LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1  tvg-id="TV1 HD" group-title="Lithuania" tvg-logo="N/A",TV1 HD
+https://vod.lnk.lt/lnk_vod/lnk/lnk/mp4:zinios_18:30/zinios_18:30_trailer_138885_2021_8_30_99338cd6-132d-4366-8760-cba17fac938f.mp4/chunklist_w1237235824_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYzMDM5ODc0MSZ0b2tlbmhhc2g9aFNxS195UEluQ1E3MXZWb1MtcEFXV25vMkl6YlJWTG5ZYk05Tm80SW9aa1E0cGVtNFhDZWZ4WDliWU0wcE1rUVEyUmxnbThEdDMwNlBJQ2syTzVSd2c9PQ==.m3u8
+#EXTINF:-1  tvg-id="BTV HD" group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BTV_HD.png/600px-BTV_HD.png",BTV HD
+https://vod.lnk.lt/lnk_vod/lnk/lnk/mp4:info_diena/info_diena_trailer_138903_2021_8_30_c5d51a7c-5290-4696-ab5f-d3f1e9821f8f.mp4/playlist.m3u8?tokenstarttime=0&tokenendtime=1630398659&tokenhash=viVBmBKmycUuUa3Ziiea1SUj05w1qaiPsN8PeQy6P4vRzvwFmLrmqzjsmfJkpI029312T9OYIGqQVtHPAKZHGw==
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://i.imgur.com/387jXC7.jpg",KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Chau TV
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png",RETV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg",Riga TV24
@@ -3553,10 +3557,6 @@ rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.
 http://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",Spektrum
 http://174.36.155.34:4000/live/189/189.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
-http://213.252.252.2/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
-http://213.252.252.2/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV3 LT
 http://213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LT
