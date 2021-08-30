@@ -3003,14 +3003,6 @@ http://iptv.tvmalaysia.cc:80/movie/737373/737373/8975.mp4
 http://iptv.tvmalaysia.cc:80/movie/737373/737373/8976.mp4
 #EXTINF:-1  tvg-id="N/A" group-title="VOD" tvg-logo="N/A",Fast Furious 9
 http://iptv.tvmalaysia.cc:80/movie/737373/737373/8977.mp4
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",USA: NBC 12 Phoenix (KPNX)
-http://iptv.tvmalaysia.cc:80/737373/737373/7607
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",USA: NBC 6 New Orleans (WDSU)
-http://iptv.tvmalaysia.cc:80/737373/737373/7613
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",USA: NBC 4 Tucson (KVOA)
-http://iptv.tvmalaysia.cc:80/737373/737373/7619
-#EXTINF:-1  tvg-id="N/A" group-title="LIVE | THAILAND" tvg-logo="N/A",rakbi
-http://iptv.tvmalaysia.cc:80/737373/737373/8881
 #EXTINF:-1  tvg-id="RTSH 1" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",RTSH 1
 https://tvlive.rtsh.dev/out/u/7_2.m3u8
 #EXTINF:-1  tvg-id="RTSH 2" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",RTSH 2
@@ -3523,3 +3515,57 @@ http://f4.tvxweb.net:8082/24273/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="flix hd" group-title="ALB SHQIP TV 🇦🇱" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",flix hd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="ETV" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV
+https://sb.err.ee/live/etv.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="ETV+" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV+
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="ETV2" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",ETV2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="KOK Fights" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="KOK Fights" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="LRT" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",LRT
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://i.imgur.com/387jXC7.jpg",KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png",RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg",Riga TV24
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png",1Music
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://cdn.blog.hu/ne/nettv/image/adok/atv_logo.png",ATV
+rtmp://nodes.stream.atv.hu/atvliveedge/_definst_/atvstream_2_aac
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://cdn.blog.hu/tv/tvtarsasagok/image/fixtv.jpg",Fix TV
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg",Hir TV
+http://streamserver.mno.netrix.hu/delayed.php.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png",Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://soombo.com/assets/images/200_1456778523.png",Konyha TV
+rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="http://mtsz.org/images/staticfilesimage/kunos/tv_m1_logo.png",M1 TV
+http://cdns724ste1010secure.shooowit.net/m1tvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/9/9f/Spektrum.gif",Spektrum
+http://174.36.155.34:4000/live/189/189.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
+http://213.252.252.2/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
+http://213.252.252.2/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV3 LT
+http://213.252.252.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LT
+http://213.252.252.2/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
+http://213.252.252.2/live/eds/TV3_LV_SD/Dash_0utput/TV3_LV_SD.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LV
+http://213.252.252.2/live/eds/TV6_LV_SD/Dash_0utput/TV6_LV_SD.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LT
+http://213.252.252.2/live/eds/TV3_LT_SD/Dash_0utput/TV3_LT_SD.mpd
+#EXTINF:-1  tvg-id="N/A" group-title="Lithuania" tvg-logo="N/A",TV LT
+http://213.252.252.2/live/eds/TV6_LT_SD/Dash_0utput/TV6_LT_SD.mpd
