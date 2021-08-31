@@ -3631,8 +3631,10 @@ http://tvshare.ottrast.com/iptv//6405/index.m3u8
 http://tvshare.ottrast.com/iptv//6358/index.m3u8
 #EXTINF:-1  tvg-id="LNT LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LNT LV
 http://tvshare.ottrast.com/iptv//6351/index.m3u8
+#EXTINF:-1  tvg-id="ITALIA 2" group-title="Lithuania" tvg-logo="Logo",ITALIA 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1  tvg-id="LRT HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT HD LT
-http://tvshare.ottrast.com/iptv//6360/index.m3u8
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1  tvg-id="LRT Plius HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT Plius HD LT
 http://tvshare.ottrast.com/iptv//6362/index.m3u8
 #EXTINF:-1  tvg-id="LRT Plius LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT Plius LT
