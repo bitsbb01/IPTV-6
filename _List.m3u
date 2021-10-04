@@ -3,7 +3,6 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-VERSION:4
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTM3U
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
