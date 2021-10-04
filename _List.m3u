@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Klan HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
@@ -25,6 +21,8 @@ http://185.226.88.3:1036/live/backup/backup/113.m3u8
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Bang Bang" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Bang Bang
 https://srv1.iptviliria.com/BangBang/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Tring Tring HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
+https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Junior TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/lm7Sqmf.png",Junior TV
 https://srv1.iptviliria.com/JuniorTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Sole tv" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Sole tv
@@ -35,6 +33,8 @@ https://srv1.iptviliria.com/Cufo/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUz
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1  tvg-id="Korca Plus" group-title="Shqipëria" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Korca Plus" group-title="Shqipëria" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
+http://28.shqiptv.org/albplus/index.m3u8?token=27afaabe7b427403f3013da7c414b251dcfb97cc-2fe319c099b49033bdde8155dfaf0665-1633381392-1633374192
 #EXTINF:-1  tvg-id="Top News" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
 https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ABC News Alb HD" group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
@@ -129,8 +129,6 @@ https://srv1.iptviliria.com/TringShqip/index.m3u8?token=undefined
 https://srv1.iptviliria.com/TringSmile/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Tring Super" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PYN0fHF.png",Tring Super
 https://srv1.iptviliria.com/TringSuper/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="Tring Tring HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
-https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring World HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/GSpAnKw.png",Tring World HD
 https://srv1.iptviliria.com/TringWorld/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="ALBFILMTV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV
