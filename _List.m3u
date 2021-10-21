@@ -455,14 +455,22 @@ http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t6
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  tvg-id="Mashup Reality tv" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",Mashup Reality tv
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
-#EXTINF:-1  tvg-id="MBC" group-title="Shqipëria" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1  tvg-id="MBC" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action
+https://2202lw.janjua.pw:8088/adfree/mbccactionnnn_111111/playlist.m3u8?vidictid=189213089054&id=105487&pk=44960f5b94f41489c7e9a748865b323766fe193e79f75aa7bf9abb365cf1c5ff
+#EXTINF:-1  tvg-id="MBC" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
+https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC 1 HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
+https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8?token=TUAMWBYMGwgUCVYBBgAGBwVXUVQHB10ADFAEXQBUBFMFAAJfAQIKC1cbHBJHRBZWUQk6XFMSAwYIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoCAFFdFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgMFBxRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgUECgFQRkQ=
 #EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-#EXTINF:-1  tvg-id="MBC 3" group-title="Shqipëria" tvg-logo="https://i.imgur.com/FVNVC73.png",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=
+#EXTINF:-1  tvg-id="MBC 2" group-title="Shqipëria" tvg-logo="https://mixawy.online:2020/wp-content/uploads/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-MBC-2.webp",MBC 2
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=
+#EXTINF:-1  tvg-id="LikeMovies HD" group-title="Shqipëria" tvg-logo="https://mixawy.online:2020/wp-content/uploads/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-MBC-2.webp",LikeMovies HD
+http://halowtv.xyz:1935/live/Likemoviehalowapp/playlist.m3u8
+#EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
+https://livestream-f.akamaihd.net/i/6478976_2616018_16406439_1@123833/index_864_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1616839949~acl=%2fi%2f6478976_2616018_16406439_1%40123833%2f*~data=hdntl~hmac=b377d72212353337385308c587b8782c3de23befeadaaebe186acb52d4792a57
 #EXTINF:-1  tvg-id="MBC 3" group-title="Shqipëria" tvg-logo="https://i.imgur.com/FVNVC73.png",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1  tvg-id="MBC 3 HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/FVNVC73.png",MBC 3 HD
@@ -473,8 +481,8 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1  tvg-id="MBC 5 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png",MBC 5 HD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1  tvg-id="MBC Bollywood" group-title="Shqipëria" tvg-logo="https://i.imgur.com/fMjhK06.png",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1  tvg-id="MBC MAX" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1290b0d3765bbc51880a.jpg",MBC MAX
+https://boom.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/60.m3u8?token=TUAMWBYMGwgUCVIDBARdCgNTBwdSAQoBXVMHUwUOBgdXUlVbV1QJBw4bHBJHRBZWUQk6XFMSAwQIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAsAA1VWFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgQMBRRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgQGBQFXRkQ=
 #EXTINF:-1  tvg-id="MBC Drama" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1  tvg-id="MBC Drama HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama HD
@@ -1291,7 +1299,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw
 https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
 #EXTINF:-1  tvg-id="FailArmy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FailArmy " group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
+#EXTINF:-1  tvg-id="FailArmy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1  tvg-id="Fairfax Public Access" group-title="Shqipëria" tvg-logo="https://i.imgur.com/pWsmV4z.png",Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
