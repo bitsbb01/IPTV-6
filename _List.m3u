@@ -67,7 +67,7 @@ https://srv1.iptviliria.com/Cufo/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUz
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
 #EXTINF:-1  tvg-id="Tv Johaniter live" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvJohaniter_logo_603c41be2e205_thumb.jpg",Tv Johaniter live
 https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="https://www.arabianbusiness.com/public/images/2014/07/17/Dubai-One-TV.jpg",DUBAI 'ONE
+#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/0eb150c87de2d74617e5.jpg",DUBAI 'ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="CON TV" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/e1f0415ed864f3f12216.jpg",CON TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/768x432_1460800/chunklist.m3u8
@@ -107,6 +107,12 @@ https://freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8
 https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1  tvg-id="Bein Movies 1 HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/2249142955edc5891380.jpg",Bein Movies 1 HD
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/076/index.m3u8
+#EXTINF:-1  tvg-id="Bein Movies 2 HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/2249142955edc5891380.jpg",Bein Movies 2 HD
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/077/index.m3u8
+#EXTINF:-1  tvg-id="Bein Movies 4 HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/2249142955edc5891380.jpg",Bein Movies 4 HD
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/079/index.m3u8
 #EXTINF:-1  tvg-id="Apollon TV HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:-1  tvg-id="Alsat M Live" group-title="Shqipëria" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
