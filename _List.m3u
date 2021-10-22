@@ -3,87 +3,87 @@
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
 http://us.bestvideostreaming.is/8704/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="top-channel.tv" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
+#EXTINF:-1  tvg-id="TopChannel.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 http://us.bestvideostreaming.is/8708/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="top-channel.tv" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
+#EXTINF:-1  tvg-id="TopChannel.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PK0Hl1I.png",Top Channel HD
 https://bit.ly/3txq1tB
-#EXTINF:-1  tvg-id="Vizionplus.al" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
+#EXTINF:-1  tvg-id="VizionPlus.al" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
 http://us.bestvideostreaming.is/8703/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="VizionPlus.al" group-title="Shqipëria" tvg-logo="https://www.vizionplus.tv/wp-content/uploads/2020/04/og.png",Vizion+ HD
 https://srv1.iptviliria.com/VizionPlus/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Living.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/A65MDRy.png",Living HD
 https://srv1.iptviliria.com/LivingHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="JollyHD.al" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TringJolly.png",Jolly HD
+#EXTINF:-1  tvg-id="Jolly HD" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/TringJolly.png",Jolly HD
 https://srv1.iptviliria.com/JollyHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Ora News" group-title="Shqipëria" tvg-logo="/storage/uploads/images/channel_logos/OraNews_logo_5ac42c5a81b0f_thumb.jpg",Ora News
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
 #EXTINF:-1  tvg-id="Tring Kids" group-title="Shqipëria" tvg-logo="https://i.imgur.com/WKKTNYK.png",Tring Kids
 https://srv1.iptviliria.com/TringKids/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="BangBang.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Bang Bang
+#EXTINF:-1  tvg-id="Bang Bang" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1krI1VF.png",Bang Bang
 https://srv1.iptviliria.com/BangBang/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="TringTring.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
+#EXTINF:-1  tvg-id="Tring Tring HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Nk1C4pC.png",Tring Tring HD
 https://srv1.iptviliria.com/TringTring/tracks-v1a1/mono.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Junior TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/lm7Sqmf.png",Junior TV
 https://srv1.iptviliria.com/JuniorTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Sole tv" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Sole tv
+#EXTINF:-1  tvg-id="Sole tv" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Sole TV
 http://109.69.2.120:8337/tvsole/Stream1_720p/index.m3u8
-#EXTINF:-1  tvg-id="CufoTV.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/V3dxnZx.png",Cufo
+#EXTINF:-1  tvg-id="Cufo" group-title="Shqipëria" tvg-logo="https://i.imgur.com/V3dxnZx.png",Cufo TV
 https://srv1.iptviliria.com/Cufo/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="News24.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PWGMnzW.jpg",News 24 HD
+#EXTINF:-1  tvg-id="News 24 HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PWGMnzW.jpg",News 24 HD
 http://tv.balkanweb.com/news24/livestream/chunks.m3u8
-#EXTINF:-1  tvg-id="Korca Plus" group-title="Shqipëria" tvg-logo="http://shikotv.eu/uploads/tv_image/tv-korca-plus-hd.png",Korca Plus
-http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="T HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/xcQHpQI.png",T HD
-https://srv1.iptviliria.com/THD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="TRINGSHQIPI.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/9Vtib66.png",Tring Shqip HD
-https://srv1.iptviliria.com/TringShqip/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH Shqip HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/b9f5e4e250ab41b3adedf710c1beb954_202010050917.svg",RTSH Shqip HD
-https://srv1.iptviliria.com/RTSHShqip/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TopNews.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cXMwhPE.png",Top News
-https://srv1.iptviliria.com/TopNews/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="ABCNews.al" group-title="Shqipëria" tvg-logo="https://icanlive.tv/pictures/abc-news-al.jpg",ABC News Alb HD
-https://tv2.abcnews.al/live/abcnews/chunks.m3u8
-#EXTINF:-1  tvg-id="TV2 Gostivar" group-title="Shqipëria" tvg-logo="https://i.imgur.com/hTRfIl0.png",TV2 Gostivar
-https://srv1.iptviliria.com/TV2Gostivar/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TV Uskana" group-title="Shqipëria" tvg-logo="https://i.imgur.com/tWFxqCt.png",TV Uskana
-https://srv1.iptviliria.com/TVUskana/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="TV Presheva" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTYOXxpUuQOyWHerja4s2FXS-tX6pcMQ86cPR_t=s88-c-k-c0x00ffffff-no-rj",TV Presheva
-https://srv1.iptviliria.com/TVPresheva/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Teuta TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
-http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Tema TV Ferizaj" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6weuwve.png",Tema TV Ferizaj
-http://134.209.238.38/hls/test.m3u8
-#EXTINF:-1  tvg-id="KlanNews.al" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Klan News
-http://185.226.88.3:1036/live/backup/backup/167.m3u8
-#EXTINF:-1  tvg-id="EuronewsALB.al" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Euronews Albania
-http://185.226.88.3:1036/live/backup/backup/164.m3u8
-#EXTINF:-1  tvg-id="Kohavision Live HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/AJ472ot.png",Kohavision Live HD
-http://us.bestvideostreaming.is/8705/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="FirstChannel.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/OhZSE34.png",First Kosovo
-https://srv1.iptviliria.com/FirstTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="ClubTV.al" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ClubTv_logo_6086f14c1c918_thumb.jpg",Club Tv
-http://185.226.88.3:1036/live/backup/backup/92.m3u8
-#EXTINF:-1  tvg-id="BBF.al" group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/BBF.png",BBF
-https://srv1.iptviliria.com/BBFMusic/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="TVArta.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/O1Zg5iu.png",Arta Tv
-http://us.bestvideostreaming.is/8745/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="Tv Johaniter live" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvJohaniter_logo_603c41be2e205_thumb.jpg",Tv Johaniter live
+https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="https://www.arabianbusiness.com/public/images/2014/07/17/Dubai-One-TV.jpg",DUBAI 'ONE
+https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1  tvg-id="MBC MAX" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1290b0d3765bbc51880a.jpg",MBC MAX
+https://au7live.tooliserver.com/live/149015_0.m3u8?session=
+#EXTINF:-1  tvg-id="Tring Comedy HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/yOUG2Q9.png",Tring Comedy HD
+https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
+#EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
+https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
+#EXTINF:-1  tvg-id="ALBFILMTV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV
+https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
+#EXTINF:-1  tvg-id="ART KINO 1" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Jo98JlD.png",ART KINO 1
+https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="ART KINO 2" group-title="Shqipëria" tvg-logo="https://i.imgur.com/fcE5a4I.png",ART KINO 2
+https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="ART KINO 3" group-title="Shqipëria" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
+https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Film Aksion" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_aksion_logo.png",Film Aksion
+https://srv1.iptviliria.com/FilmAkson/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
+#EXTINF:-1  tvg-id="Film Autor" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ESE5ack.png",Film Autor
+https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Film Dy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/joyCwey.png",Film Dy
+https://srv1.iptviliria.com/FilmDy/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Film Hits" group-title="Shqipëria" tvg-logo="https://i.imgur.com/our3XiR.png",Film Hits
+https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Film Komedi" group-title="Shqipëria" tvg-logo="https://i.imgur.com/0qsOaGU.png",Film Komedi
+https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
+#EXTINF:-1  tvg-id="Film Nje" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
+https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
+#EXTINF:-1  tvg-id="MBC Action HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
+https://au7live.tooliserver.com/live/149013_0.m3u8?session=
+#EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
+https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8?token=TUAMWBYMGwgUCVYBBgAGBwVXUVQHB10ADFAEXQBUBFMFAAJfAQIKC1cbHBJHRBZWUQk6XFMSAwYIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoCAFFdFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgMFBxRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgUECgFQRkQ=
+#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=
+#EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="Apollon TV HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1  tvg-id="AlsatM.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
+#EXTINF:-1  tvg-id="Alsat M Live" group-title="Shqipëria" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
 http://us.bestvideostreaming.is/8713/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Elrodi.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gl3R7Ra.png",Elrodi Tv
+#EXTINF:-1  tvg-id="Elrodi Tv" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gl3R7Ra.png",Elrodi Tv
 http://79.137.66.111/elroditv_240p/index.m3u8
 #EXTINF:-1  tvg-id="ERA TV" group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",ERA TV
 https://srv1.iptviliria.com/EraTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Tv Johaniter live" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvJohaniter_logo_603c41be2e205_thumb.jpg",Tv Johaniter live
-https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="KlanKosova.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Kosova
+#EXTINF:-1  tvg-id="Klan Kosova" group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Kosova
 http://us.bestvideostreaming.is/8706/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="KlanMaqedonia.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/YZE1K9S.png",Klan MACEDONIA
+#EXTINF:-1  tvg-id="Klan MACEDONIA" group-title="Shqipëria" tvg-logo="https://i.imgur.com/YZE1K9S.png",Klan MACEDONIA
 http://us.bestvideostreaming.is/8789/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="KlanPlusHD.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Plus
+#EXTINF:-1  tvg-id="Klan Plus" group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Plus
 http://us.bestvideostreaming.is/8720/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="IslamChannel.uk" group-title="Shqipëria" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
+#EXTINF:-1  tvg-id="Islam Channel UK" group-title="Shqipëria" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",Islam Channel UK
 https://live.islamchannel.tv/islamtv_english/1/prog_index.m3u8
 #EXTINF:-1  tvg-id="MAKKAH LIVE" group-title="Shqipëria" tvg-logo="https://xpressriyadh.com/wp-content/uploads/2019/11/makkah-riyadh-xpress.jpg",MAKKAH LIVE
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
@@ -93,52 +93,56 @@ https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/chunklist_w649644301.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1  tvg-id="Premium Channel" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh9K7qMV9dV0CSuiV7G-mXugnvaQU5oMwhYy40f=s88-c-k-c0x00ffffff-no-rj",Premium Channel
 https://premiummedia.al/stream/premium-channel/live.m3u8
+#EXTINF:-1  tvg-id="Mashup Reality tv" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",Mashup Reality tv
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
 #EXTINF:-1  tvg-id="IGN TV" group-title="Shqipëria" tvg-logo="https://cdn2.downdetector.com/static/uploads/logo/ign-logo.png",IGN TV
 https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="DUBAI 'ONE" group-title="Shqipëria" tvg-logo="https://www.arabianbusiness.com/public/images/2014/07/17/Dubai-One-TV.jpg",DUBAI 'ONE
-https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="BESA-RTV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/L3sBZoh.png",BESA-RTV
 https://srv1.iptviliria.com/BesaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="MFM" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Mfm_logo_6086a1841d1dd_thumb.jpg",MFM
 http://us.bestvideostreaming.is/7711/index.m3u8
 #EXTINF:-1  tvg-id="Diaspora Tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/Diaspora_logo_608515c361fc7_thumb.jpg",Diaspora Tv
 http://us.bestvideostreaming.is/8779/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="3Plus.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/nkRjL2n.png",Tring 3 Plus HD
+#EXTINF:-1  tvg-id="Tring 3 Plus HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/nkRjL2n.png",Tring 3 Plus HD
 https://srv1.iptviliria.com/3Plus/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
-https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TringComedy.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/yOUG2Q9.png",Tring Comedy HD
-https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TringFantazi.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/8wKoTV0.png",Tring Fantasy HD
+#EXTINF:-1  tvg-id="Tring Fantasy HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/8wKoTV0.png",Tring Fantasy HD
 https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring History HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ulE5UUi.png",Tring History HD
 https://srv1.iptviliria.com/TringHistori/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TRINGFAMILY.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gNCrPbJ.png",Tring International
+#EXTINF:-1  tvg-id="Tring International" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gNCrPbJ.png",Tring International
 https://srv1.iptviliria.com/TringInternational/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TringLife.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6BHq9Nw.png",Tring Life HD
+#EXTINF:-1  tvg-id="Euro Film" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/RgzzL5r.png",Euro Film
+https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Tring Life HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6BHq9Nw.png",Tring Life HD
 https://srv1.iptviliria.com/TringLife/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TringPlanet.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/aiCUyFo.png",Tring Planet HD
+#EXTINF:-1  tvg-id="Tring Planet HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/aiCUyFo.png",Tring Planet HD
 https://srv1.iptviliria.com/TringPlanet/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring Smile" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ZdWD2BB.png",Tring Smile
 https://srv1.iptviliria.com/TringSmile/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="TringSuper.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PYN0fHF.png",Tring Super
+#EXTINF:-1  tvg-id="Tring Super" group-title="Shqipëria" tvg-logo="https://i.imgur.com/PYN0fHF.png",Tring Super
 https://srv1.iptviliria.com/TringSuper/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TringWorld.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/GSpAnKw.png",Tring World HD
+#EXTINF:-1  tvg-id="Tring World HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/GSpAnKw.png",Tring World HD
 https://srv1.iptviliria.com/TringWorld/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="ALBFILMTV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",ALBFILMTV
-https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
-#EXTINF:-1  tvg-id="Kanali7.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/t7p4lfz.png",Kanali 7
+#EXTINF:-1  tvg-id="Kanali 7" group-title="Shqipëria" tvg-logo="https://i.imgur.com/t7p4lfz.png",Kanali 7
 https://srv1.iptviliria.com/Kanali7/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Koha.mk" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Vqpr6LP.png",Koha TV
+#EXTINF:-1  tvg-id="Koha TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Vqpr6LP.png",Koha TV
 http://us.bestvideostreaming.is/8710/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="SHOTA TV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/shotatv.png",SHOTA TV
 https://srv1.iptviliria.com/ShotaTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Shenja TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/v9Wl57w.png",Shenja TV
 https://srv1.iptviliria.com/ShenjaTV/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TVDukagjini.al" group-title="Shqipëria" tvg-logo="/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg",Dukagjini Live
+#EXTINF:-1  tvg-id="Dukagjini Live" group-title="Shqipëria" tvg-logo="/storage/uploads/images/channel_logos/RadioDukagjini_logo_5ac42b695d3bf_thumb.jpg",Dukagjini Live
 http://us.bestvideostreaming.is/8788/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="TV Ari" group-title="Shqipëria" tvg-logo="https://scontent.flhr6-1.fna.fbcdn.net/v/t1.6435-9/79717421_139058160846879_4200227137858306048_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t2g2xCwQrOQAX-brJYM&_nc_ht=scontent.flhr6-1.fna&oh=feef55af185d56020dc2606de1a20a4d&oe=618332C5",TV Ari
-http://live.aritv.ch:6969/live/ari/tv/1.ts
+#EXTINF:-1  tvg-id="Tv Arberia 1" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 1
+https://yayin.haber100.com/P284092371/rtvarberia/chunklist_w1961947328.m3u8
+#EXTINF:-1  tvg-id="Tv Arberia 2" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 2
+http://ott.iptvshqipott.com:8080/live/rtv/arberia/223.m3u8
+#EXTINF:-1  tvg-id="AlbUK TV HD" group-title="Shqipëria" tvg-logo="https://jio-tv.net/uploads/tv_image/albuk-tv.jpg",AlbUK TV HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist_w1719840339.m3u8
+#EXTINF:-1  tvg-id="TV Sharri" group-title="Shqipëria" tvg-logo="https://i.imgur.com/aLEWaoS.png",TV Sharri
+https://srv1.iptviliria.com/TVSharri/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
+#EXTINF:-1  tvg-id="Turbo Channel Tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",Turbo Channel Tv
+http://us.bestvideostreaming.is/8839/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="TV Dielli" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TVDielli_logo_5a03b5bb7cd4c_thumb.jpg",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:-1  tvg-id="A1 Report Live" group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/al-a1-repor.jpg",A1 Report Live
@@ -167,7 +171,7 @@ https://srv1.iptviliria.com/TVFrame/tracks-v1a1/mono.m3u8?token=undefined
 http://us.bestvideostreaming.is/8852/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Folk TV" group-title="Shqipëria" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-folk-tv-5380.jpg",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="FolkPlus.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/OGAvM3s.png",Folk +
+#EXTINF:-1  tvg-id="Folk +" group-title="Shqipëria" tvg-logo="https://i.imgur.com/OGAvM3s.png",Folk +
 https://srv1.iptviliria.com/FolkPlus/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Flutura TV" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/fluturatv.png",Flutura TV
 https://t2.tvmak.com/tv/fluturatv.m3u8?bVHWfYt4Oz
@@ -179,69 +183,39 @@ http://us.bestvideostreaming.is/8784/index.m3u8
 http://edge01eu.ekranet.com/scantv/index.m3u8
 #EXTINF:-1  tvg-id="Syri Blue" group-title="Shqipëria" tvg-logo="http://syri.tv/wp-content/uploads/2017/12/logo.png",Syri Blue
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1  tvg-id="SuperSonicTV.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ThxbPxn.png",Supersonic TV
+#EXTINF:-1  tvg-id="Supersonic TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ThxbPxn.png",Supersonic TV
 https://srv1.iptviliria.com/SupersonicTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="AlbSe" group-title="Shqipëria" tvg-logo="https://albse.tv/wp-content/uploads/2020/10/1.png",AlbSe
 https://srv1.iptviliria.com/AlbSe/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="ART KINO 1" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Jo98JlD.png",ART KINO 1
-https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="ART KINO 2" group-title="Shqipëria" tvg-logo="https://i.imgur.com/fcE5a4I.png",ART KINO 2
-https://srv1.iptviliria.com/ArtKino2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="ART KINO 3" group-title="Shqipëria" tvg-logo="https://i.imgur.com/tfZzVej.png",ART KINO 3
-https://srv1.iptviliria.com/ArtKino3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="MTV Top Hits Live TV" group-title="Shqipëria" tvg-logo="https://www.bing.com/th?id=AMMS_f764d7bd5fc72fbe252b2a11ca08f37d&w=110&h=110&c=7&rs=1&qlt=80&o=6&pid=SANGAM",MTV Top Hits Live TV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF:-1  tvg-id="MTV Kosova" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/ShqiponjaTv_logo_6081ef15d1b7a_thumb.jpg",MTV Kosova
 https://srv1.iptviliria.com/MTVKosova/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Mrt2 Shqip" group-title="Shqipëria" tvg-logo="http://139.59.147.58/storage/uploads/images/channel_logos/Mrt2Shqip_logo_6086a0c81d5a0_thumb.jpg",Mrt2 Shqip
 http://us.bestvideostreaming.is/8728/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="Film Aksion" group-title="Shqipëria" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_aksion_logo.png",Film Aksion
-https://srv1.iptviliria.com/FilmAkson/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="Film Autor" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ESE5ack.png",Film Autor
-https://srv1.iptviliria.com/FilmAutor/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Film Dy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/joyCwey.png",Film Dy
-https://srv1.iptviliria.com/FilmDy/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Film Hits" group-title="Shqipëria" tvg-logo="https://i.imgur.com/our3XiR.png",Film Hits
-https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Film Komedi" group-title="Shqipëria" tvg-logo="https://i.imgur.com/0qsOaGU.png",Film Komedi
-https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="Film Nje" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
-https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="TV Kopliku" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvKopliku_logo_5ac42f31d5d00_thumb.jpg",TV Kopliku
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
-#EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="Tv Arberia 1" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 1
-https://yayin.haber100.com/P284092371/rtvarberia/chunklist_w1961947328.m3u8
-#EXTINF:-1  tvg-id="Tv Arberia 2" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TvArberia_logo_6070ecadd6260_thumb.jpg",Tv Arberia 2
-http://ott.iptvshqipott.com:8080/live/rtv/arberia/223.m3u8
 #EXTINF:-1  tvg-id="ALB Qifteli" group-title="Shqipëria" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71GT5gqG6LS._AC_SL1372_.jpg",ALB Qifteli
 http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="ALBKANALE Live" group-title="Shqipëria" tvg-logo="http://albkanale.com/images/appicon.png",ALBKANALE Live
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1  tvg-id="AlbTVUSA" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbTVUSA_logo_5ac42ffc6ea3e_thumb.jpg",AlbTVUSA
 http://us.bestvideostreaming.is/8711/index.m3u8
-#EXTINF:-1  tvg-id="AlbUK TV HD" group-title="Shqipëria" tvg-logo="https://jio-tv.net/uploads/tv_image/albuk-tv.jpg",AlbUK TV HD
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist_w1719840339.m3u8
 #EXTINF:-1  tvg-id="ALB MUSIC" group-title="Shqipëria" tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/alb-music.png",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w780733665.m3u8
-#EXTINF:-1  tvg-id="TV Sharri" group-title="Shqipëria" tvg-logo="https://i.imgur.com/aLEWaoS.png",TV Sharri
-https://srv1.iptviliria.com/TVSharri/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Zeri TV" group-title="Shqipëria" tvg-logo="https://th.bing.com/th/id/OIP.TGE0bL2z-hvEnDx-HaZQnQHaH4?w=155&h=180&c=7&o=5&pid=1.7",Zeri TV
 https://abdyli.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ytkt1k360/index.m3u8
 #EXTINF:-1  tvg-id="ZICO HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/cS0Qe01.png",ZICO HD
 https://srv1.iptviliria.com/ZicoTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="Turbo Channel Tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TurboChannel_logo_6085163c837cf_thumb.jpg",Turbo Channel Tv
-http://us.bestvideostreaming.is/8839/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Llapi Tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/LlapiTv_logo_6086a3de8b30b_thumb.jpg",Llapi Tv
 http://us.bestvideostreaming.is/8823/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="EXPHistori.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/c2avHNU.png",Explorer Histori
+#EXTINF:-1  tvg-id="Explorer Histori" group-title="Shqipëria" tvg-logo="https://i.imgur.com/c2avHNU.png",Explorer Histori
 https://srv1.iptviliria.com/EXPHistori/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="EXPNatyra.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ZqkYRFp.png",Explorer Natyra
+#EXTINF:-1  tvg-id="Explorer Natyra" group-title="Shqipëria" tvg-logo="https://i.imgur.com/ZqkYRFp.png",Explorer Natyra
 https://srv1.iptviliria.com/EXPNatyra/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="EXPShkence.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/OBGxASw.png",Explorer Shkence
+#EXTINF:-1  tvg-id="Explorer Shkence" group-title="Shqipëria" tvg-logo="https://i.imgur.com/OBGxASw.png",Explorer Shkence
 https://srv1.iptviliria.com/EXPShkence/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
-#EXTINF:-1  tvg-id="RTK.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png",RTK 1 HD
+#EXTINF:-1  tvg-id="RTK 1 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w1741964410.m3u8
 #EXTINF:-1  tvg-id="RTK 2 HD" group-title="Shqipëria" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png",RTK 2 HD
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
@@ -249,37 +223,37 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="RTK 4 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/RTK4_logo_5ac42bf221795.png",RTK 4 HD
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",RTSH 1 HD
+#EXTINF:-1  tvg-id="RTSH 1 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/698abd1e20c54a799b58adc401df56a0_202010050920.svg",RTSH 1 HD
 https://srv1.iptviliria.com/RTSH1/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="/storage/uploads/images/channel_logos/RtshSatellite_logo_612167921da59_thumb.jpg",RTSH SATELLITE
+#EXTINF:-1  tvg-id="RTSH SATELLITE" group-title="Shqipëria" tvg-logo="/storage/uploads/images/channel_logos/RtshSatellite_logo_612167921da59_thumb.jpg",RTSH SATELLITE
 http://us.bestvideostreaming.is/8701/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/RtshShkodra_logo_60dcfc17e2370_thumb.jpg",RTSH SHKODRA
+#EXTINF:-1  tvg-id="RTSH SHKODRA" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/RtshShkodra_logo_60dcfc17e2370_thumb.jpg",RTSH SHKODRA
 https://tvlive.rtsh.dev/live/rtsh_shkodra_ott_p2/playlist.m3u8
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/6b837e33bb5b47b680175e4063b81928_202010050920.svg",RTSH 2 HD
+#EXTINF:-1  tvg-id="RTSH 2 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/6b837e33bb5b47b680175e4063b81928_202010050920.svg",RTSH 2 HD
 https://srv1.iptviliria.com/RTSH2/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RTSH_24.svg/1200px-RTSH_24.svg.png",RTSH 24 HD
+#EXTINF:-1  tvg-id="RTSH 24 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RTSH_24.svg/1200px-RTSH_24.svg.png",RTSH 24 HD
 https://srv1.iptviliria.com/RTSH24/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/519f62f6eccd4d628b3e3e0ab41a16b7_202010050920.svg",RTSH 3 HD
+#EXTINF:-1  tvg-id="RTSH 3 HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/519f62f6eccd4d628b3e3e0ab41a16b7_202010050920.svg",RTSH 3 HD
 https://srv1.iptviliria.com/RTSH3/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/2020/11/bbdd21d26f4944a3b549fb2447c923ed.svg",RTSH AGRO
+#EXTINF:-1  tvg-id="RTSH AGRO" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/2020/11/bbdd21d26f4944a3b549fb2447c923ed.svg",RTSH AGRO
 https://srv1.iptviliria.com/RTSHAgro/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RTSH_Fëmijë_(2020_logo).svg/1920px-RTSH_Fëmijë_(2020_logo).svg.png",RTSH Fëmijë HD
+#EXTINF:-1  tvg-id="RTSH Fëmijë HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/RTSH_Fëmijë_(2020_logo).svg/1920px-RTSH_Fëmijë_(2020_logo).svg.png",RTSH Fëmijë HD
 https://srv1.iptviliria.com/RTSHFemije/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RTSH_Film_%282020_Logo%29.svg/2560px-RTSH_Film_%282020_Logo%29.svg.png",RTSH Film HD
+#EXTINF:-1  tvg-id="RTSH Film HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/RTSH_Film_%282020_Logo%29.svg/2560px-RTSH_Film_%282020_Logo%29.svg.png",RTSH Film HD
 https://srv1.iptviliria.com/RTSHFilm/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/assets/program_default_photo_vertical.jpg",RTSH Gjirokaster HD
+#EXTINF:-1  tvg-id="RTSH Gjirokaster HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/assets/program_default_photo_vertical.jpg",RTSH Gjirokaster HD
 https://srv1.iptviliria.com/RTSHGjirokastra/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0ec9bf29889943838af6c5b8d68abb48_202010050916.svg",RTSH Korca
+#EXTINF:-1  tvg-id="RTSH Korca" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0ec9bf29889943838af6c5b8d68abb48_202010050916.svg",RTSH Korca
 https://srv1.iptviliria.com/RTSHKorca/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RTSH_Kukësi_(2020_logo).svg/1920px-RTSH_Kukësi_(2020_logo).svg.png",RTSH Kukësi HD
+#EXTINF:-1  tvg-id="RTSH Kukësi HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/RTSH_Kukësi_(2020_logo).svg/1920px-RTSH_Kukësi_(2020_logo).svg.png",RTSH Kukësi HD
 https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH Muzike.png",RTSH Muzike HD
+#EXTINF:-1  tvg-id="RTSH Muzike HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH Muzike.png",RTSH Muzike HD
 http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8?e=cd446cdb2a06ace0dfc08ed5798ebbd3&c=rtshmsicweb&medium=websocket
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png",RTSH Plus HD
+#EXTINF:-1  tvg-id="RTSH Plus HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/RTSH%20Plus.png",RTSH Plus HD
 https://srv1.iptviliria.com/RTSHPlus/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0af306f1b54a4aa487b27b9d5019699c_202010050916.svg",RTSH Shkollë HD
+#EXTINF:-1  tvg-id="RTSH Shkollë HD" group-title="Shqipëria" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/0af306f1b54a4aa487b27b9d5019699c_202010050916.svg",RTSH Shkollë HD
 https://srv1.iptviliria.com/RTSHShkole/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="RTSH.al" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_(2020_logo).svg/1920px-RTSH_Sport_(2020_logo).svg.png",RTSH Sport HD
+#EXTINF:-1  tvg-id="RTSH Sport HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/RTSH_Sport_(2020_logo).svg/1920px-RTSH_Sport_(2020_logo).svg.png",RTSH Sport HD
 https://srv1.iptviliria.com/RTSHSport/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="RTV 1 HD" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/ac/1588812677695.png/revision/latest/scale-to-width-down/340?cb=20200507134908",RTV 1 HD
 https://video.radio1.al/hls/rtvnje/index.m3u8
@@ -353,8 +327,6 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="Hallmark Movies" group-title="UK-IPTV" tvg-logo="http://totv.org/img/failarmy.png",Hallmark Movies
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1  tvg-id="Euro Film" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/RgzzL5r.png",Euro Film
-https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="FilmBox ArtHouse" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox ArtHouse
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="FilmBox Extra" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Extra
@@ -453,18 +425,10 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1  tvg-id="Love Nature TV" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature TV
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  tvg-id="Mashup Reality tv" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png",Mashup Reality tv
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS11/chunks.m3u8
-#EXTINF:-1  tvg-id="MBC" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action
+#EXTINF:-1  tvg-id="MBC Action" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action
 https://2202lw.janjua.pw:8088/adfree/mbccactionnnn_111111/playlist.m3u8?vidictid=189213089054&id=105487&pk=44960f5b94f41489c7e9a748865b323766fe193e79f75aa7bf9abb365cf1c5ff
-#EXTINF:-1  tvg-id="MBC" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
-https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC 1 HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC 1 HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
-https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8?token=TUAMWBYMGwgUCVYBBgAGBwVXUVQHB10ADFAEXQBUBFMFAAJfAQIKC1cbHBJHRBZWUQk6XFMSAwYIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoCAFFdFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgMFBxRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgUECgFQRkQ=
-#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
-https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC 2" group-title="Shqipëria" tvg-logo="https://mixawy.online:2020/wp-content/uploads/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-MBC-2.webp",MBC 2
 https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="LikeMovies HD" group-title="Shqipëria" tvg-logo="https://mixawy.online:2020/wp-content/uploads/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%85-%D8%A8%D9%89-%D8%B3%D9%89-2-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-2-MBC-2.webp",LikeMovies HD
@@ -481,8 +445,6 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1  tvg-id="MBC 5 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png",MBC 5 HD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-#EXTINF:-1  tvg-id="MBC MAX" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1290b0d3765bbc51880a.jpg",MBC MAX
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC Drama" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1  tvg-id="MBC Drama HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama HD
@@ -1299,7 +1261,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw
 https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
 #EXTINF:-1  tvg-id="FailArmy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1  tvg-id="FailArmy" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
+#EXTINF:-1  tvg-id="FailArmy (Opt-2)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gV2Vmr9.png",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1  tvg-id="Fairfax Public Access" group-title="Shqipëria" tvg-logo="https://i.imgur.com/pWsmV4z.png",Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
@@ -1353,379 +1315,205 @@ http://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 #EXTINF:-1  tvg-id="Galveston County TV" group-title="Shqipëria" tvg-logo="https://i.imgur.com/KiFsDBi.png",Galveston County TV
 https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
-#EXTINF:-1  tvg-id="LNK HD" group-title="Lithuania" tvg-logo="https://lnk.lt/assets/img/logoTest.png",LNK HD
-https://live.lnk.lt/lnk_live2/2tv/playlist.m3u8?tokenstarttime=0&tokenendtime=1633424259&tokenhash=sakAo2ybonxmE56OlCyFud715qwlEflQJRX6p3j1xGW3mgTsmVJddv2mULPLMlUOCPfuWv19SdZe_rgBLc7-7A==
-#EXTINF:-1  tvg-id="TV1 HD" group-title="Lithuania" tvg-logo="N/A",TV1 HD
-https://vod.lnk.lt/lnk_vod/lnk/lnk/mp4:zinios_18:30/zinios_18:30_trailer_138885_2021_8_30_99338cd6-132d-4366-8760-cba17fac938f.mp4/chunklist_w1237235824_tkdG9rZW5zdGFydHRpbWU9MCZ0b2tlbmVuZHRpbWU9MTYzMDM5ODc0MSZ0b2tlbmhhc2g9aFNxS195UEluQ1E3MXZWb1MtcEFXV25vMkl6YlJWTG5ZYk05Tm80SW9aa1E0cGVtNFhDZWZ4WDliWU0wcE1rUVEyUmxnbThEdDMwNlBJQ2syTzVSd2c9PQ==.m3u8
-#EXTINF:-1  tvg-id="BTV HD" group-title="Lithuania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BTV_HD.png/600px-BTV_HD.png",BTV HD
-https://vod.lnk.lt/lnk_vod/lnk/lnk/mp4:info_diena/info_diena_trailer_138903_2021_8_30_c5d51a7c-5290-4696-ab5f-d3f1e9821f8f.mp4/playlist.m3u8?tokenstarttime=0&tokenendtime=1630398659&tokenhash=viVBmBKmycUuUa3Ziiea1SUj05w1qaiPsN8PeQy6P4vRzvwFmLrmqzjsmfJkpI029312T9OYIGqQVtHPAKZHGw==
-#EXTINF:-1  tvg-id="KOK Fights" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1  tvg-id="KOK Fights" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1  tvg-id="KOK Fights" group-title="Lithuania" tvg-logo="https://i.imgur.com/387jXC7.jpg",KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="LRT" group-title="Lithuania" tvg-logo="https://dailyfreeiptvlist.com/lt",LRT
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:-1  tvg-id="LRT Lituanica" group-title="Lithuania" tvg-logo="N/A",LRT Lituanica
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1  tvg-id="RETV" group-title="Lithuania" tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png",RETV
-http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
-#EXTINF:-1  tvg-id="Riga TV24" group-title="Lithuania" tvg-logo="https://pbs.twimg.com/profile_images/881801937892540417/war8WAEA_400x400.jpg",Riga TV24
-http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-#EXTINF:-1  tvg-id="TV Net" group-title="Lithuania" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png",TV Net
-http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1  tvg-id="Hir TV" group-title="Lithuania" tvg-logo="http://hirtv.hu/static/grid2_imgs/hirtvujlogo05.jpg",Hir TV
-http://streamserver.mno.netrix.hu/delayed.php.m3u8
-#EXTINF:-1  tvg-id="3 PLUS EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",3 PLUS EE
-http://tvshare.ottrast.com/iptv//7176/index.m3u8
-#EXTINF:-1  tvg-id="3+ LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",3+ LV
-http://tvshare.ottrast.com/iptv//6347/index.m3u8
-#EXTINF:-1  tvg-id="3PLUS LT (Baltic)" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",3PLUS LT (Baltic)
-http://tvshare.ottrast.com/iptv//12001/index.m3u8
-#EXTINF:-1  tvg-id="Balticum" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Balticum
-http://tvshare.ottrast.com/iptv//6399/index.m3u8
-#EXTINF:-1  tvg-id="BALTICUM AUKSINIS LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",BALTICUM AUKSINIS LT
-http://tvshare.ottrast.com/iptv//12002/index.m3u8
-#EXTINF:-1  tvg-id="BATICUM PLATINUM LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",BATICUM PLATINUM LT
-http://tvshare.ottrast.com/iptv//12000/index.m3u8
-#EXTINF:-1  tvg-id="BTV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",BTV
-http://tvshare.ottrast.com/iptv//6344/index.m3u8
-#EXTINF:-1  tvg-id="BTV HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",BTV HD LT
-http://tvshare.ottrast.com/iptv//6398/index.m3u8
-#EXTINF:-1  tvg-id="CHAU TV LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",CHAU TV LV
-http://tvshare.ottrast.com/iptv//12012/index.m3u8
-#EXTINF:-1  tvg-id="DelfiTV HD" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",DelfiTV HD
-http://tvshare.ottrast.com/iptv//6400/index.m3u8
-#EXTINF:-1  tvg-id="DISNEY VIASAT EU LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",DISNEY VIASAT EU LV
-http://tvshare.ottrast.com/iptv//12026/index.m3u8
-#EXTINF:-1  tvg-id="Duo3 HD EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Duo3 HD EE
-http://tvshare.ottrast.com/iptv//14129/index.m3u8
-#EXTINF:-1  tvg-id="Duo6 HD EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Duo6 HD EE
-http://tvshare.ottrast.com/iptv//14130/index.m3u8
-#EXTINF:-1  tvg-id="Dzukijos" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Dzukijos
-http://tvshare.ottrast.com/iptv//6401/index.m3u8
-#EXTINF:-1  tvg-id="FIRST CHANNEL BALTIC LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",FIRST CHANNEL BALTIC LV
-http://tvshare.ottrast.com/iptv//12023/index.m3u8
-#EXTINF:-1  tvg-id="INFO TV LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",INFO TV LT
-http://tvshare.ottrast.com/iptv//6363/index.m3u8
-#EXTINF:-1  tvg-id="Kanal 2 EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Kanal 2 EE
-http://tvshare.ottrast.com/iptv//6404/index.m3u8
-#EXTINF:-1  tvg-id="KANAL11 EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",KANAL11 EE
-http://tvshare.ottrast.com/iptv//7178/index.m3u8
-#EXTINF:-1  tvg-id="KANAL12 EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",KANAL12 EE
-http://tvshare.ottrast.com/iptv//7179/index.m3u8
-#EXTINF:-1  tvg-id="Kidzone baltic" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Kidzone baltic
-http://tvshare.ottrast.com/iptv//6345/index.m3u8
-#EXTINF:-1  tvg-id="KIDZONE EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",KIDZONE EE
-http://tvshare.ottrast.com/iptv//12016/index.m3u8
-#EXTINF:-1  tvg-id="KIDZONE LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",KIDZONE LT
-http://tvshare.ottrast.com/iptv//12029/index.m3u8
-#EXTINF:-1  tvg-id="KIDZONE LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",KIDZONE LV
-http://tvshare.ottrast.com/iptv//12015/index.m3u8
-#EXTINF:-1  tvg-id="Lietuvos Rytas LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Lietuvos Rytas LT
-http://tvshare.ottrast.com/iptv//6359/index.m3u8
-#EXTINF:-1  tvg-id="LNK HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LNK HD LT
-http://tvshare.ottrast.com/iptv//6405/index.m3u8
-#EXTINF:-1  tvg-id="LNK LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LNK LV
-http://tvshare.ottrast.com/iptv//6358/index.m3u8
-#EXTINF:-1  tvg-id="LNT LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LNT LV
-http://tvshare.ottrast.com/iptv//6351/index.m3u8
-#EXTINF:-1  tvg-id="ITALIA 2" group-title="Lithuania" tvg-logo="Logo",ITALIA 2
-https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-#EXTINF:-1  tvg-id="LRT Plius HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT Plius HD LT
-http://tvshare.ottrast.com/iptv//6362/index.m3u8
-#EXTINF:-1  tvg-id="LRT Plius LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT Plius LT
-http://tvshare.ottrast.com/iptv//6361/index.m3u8
-#EXTINF:-1  tvg-id="LRT Televizija LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LRT Televizija LT
-http://tvshare.ottrast.com/iptv//6356/index.m3u8
-#EXTINF:-1  tvg-id="LTV 1 LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LTV 1 LT
-http://tvshare.ottrast.com/iptv//12004/index.m3u8
-#EXTINF:-1  tvg-id="LTV 1 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LTV 1 LV
-http://tvshare.ottrast.com/iptv//12013/index.m3u8
-#EXTINF:-1  tvg-id="LTV1" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LTV1
-http://tvshare.ottrast.com/iptv//6353/index.m3u8
-#EXTINF:-1  tvg-id="LTV7" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",LTV7
-http://tvshare.ottrast.com/iptv//6354/index.m3u8
-#EXTINF:-1  tvg-id="MTV HITS EUROPE LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",MTV HITS EUROPE LT
-http://tvshare.ottrast.com/iptv//12009/index.m3u8
-#EXTINF:-1  tvg-id="MTV HITS LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",MTV HITS LV
-http://tvshare.ottrast.com/iptv//12020/index.m3u8
-#EXTINF:-1  tvg-id="NATIONAL GEOGRAPHICS HD EUROP LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",NATIONAL GEOGRAPHICS HD EUROP LT
-http://tvshare.ottrast.com/iptv//12007/index.m3u8
-#EXTINF:-1  tvg-id="NICK JR EU LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",NICK JR EU LV
-http://tvshare.ottrast.com/iptv//12027/index.m3u8
-#EXTINF:-1  tvg-id="NTV BALTIC LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",NTV BALTIC LV
-http://tvshare.ottrast.com/iptv//12021/index.m3u8
-#EXTINF:-1  tvg-id="OKHOTA I RYBALKA LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",OKHOTA I RYBALKA LV
-http://tvshare.ottrast.com/iptv//12025/index.m3u8
-#EXTINF:-1  tvg-id="PBK EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",PBK EE
-http://tvshare.ottrast.com/iptv//7180/index.m3u8
-#EXTINF:-1  tvg-id="Pingviniukas LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Pingviniukas LT
-http://tvshare.ottrast.com/iptv//6368/index.m3u8
-#EXTINF:-1  tvg-id="Re TV LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Re TV LV
-http://tvshare.ottrast.com/iptv//6406/index.m3u8
-#EXTINF:-1  tvg-id="REN TV BALTIC LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",REN TV BALTIC LV
-http://tvshare.ottrast.com/iptv//12022/index.m3u8
-#EXTINF:-1  tvg-id="RigaTV 24 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",RigaTV 24 LV
-http://tvshare.ottrast.com/iptv//6410/index.m3u8
-#EXTINF:-1  tvg-id="RYTAS HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",RYTAS HD LT
-http://tvshare.ottrast.com/iptv//12003/index.m3u8
-#EXTINF:-1  tvg-id="Siauliu TV LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",Siauliu TV LT
-http://tvshare.ottrast.com/iptv//6365/index.m3u8
-#EXTINF:-1  tvg-id="STV LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",STV LV
-http://tvshare.ottrast.com/iptv//6407/index.m3u8
-#EXTINF:-1  tvg-id="TV1 HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1 HD LT
-http://tvshare.ottrast.com/iptv//6409/index.m3u8
-#EXTINF:-1  tvg-id="TV1 LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1 LT
-http://tvshare.ottrast.com/iptv//6357/index.m3u8
-#EXTINF:-1  tvg-id="TV1000 ACTION LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1000 ACTION LV
-http://tvshare.ottrast.com/iptv//12024/index.m3u8
-#EXTINF:-1  tvg-id="TV1000 EAST HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1000 EAST HD LT
-http://tvshare.ottrast.com/iptv//12030/index.m3u8
-#EXTINF:-1  tvg-id="TV1000 EAST HD LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1000 EAST HD LV
-http://tvshare.ottrast.com/iptv//12031/index.m3u8
-#EXTINF:-1  tvg-id="TV1000 RUSSIAN MOVIE HD LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV1000 RUSSIAN MOVIE HD LT
-http://tvshare.ottrast.com/iptv//12006/index.m3u8
-#EXTINF:-1  tvg-id="TV3 FILMS LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 FILMS LV
-http://tvshare.ottrast.com/iptv//12014/index.m3u8
-#EXTINF:-1  tvg-id="TV3 HD EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 HD EE
-http://tvshare.ottrast.com/iptv//7181/index.m3u8
-#EXTINF:-1  tvg-id="TV3 HD LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 HD LV
-http://tvshare.ottrast.com/iptv//6412/index.m3u8
-#EXTINF:-1  tvg-id="TV3 Life HD LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 Life HD LV
-http://tvshare.ottrast.com/iptv//6413/index.m3u8
-#EXTINF:-1  tvg-id="TV3 LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 LT
-http://tvshare.ottrast.com/iptv//6349/index.m3u8
-#EXTINF:-1  tvg-id="TV3 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 LV
-http://tvshare.ottrast.com/iptv//6346/index.m3u8
-#EXTINF:-1  tvg-id="TV3 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 LV
-http://tvshare.ottrast.com/iptv//6411/index.m3u8
-#EXTINF:-1  tvg-id="TV3 Mini HD LV (Baltic)" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 Mini HD LV (Baltic)
-http://tvshare.ottrast.com/iptv//6414/index.m3u8
-#EXTINF:-1  tvg-id="TV3 ZINAS LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV3 ZINAS LV
-http://tvshare.ottrast.com/iptv//12018/index.m3u8
-#EXTINF:-1  tvg-id="TV6 HD EE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV6 HD EE
-http://tvshare.ottrast.com/iptv//7182/index.m3u8
-#EXTINF:-1  tvg-id="TV6 HD LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV6 HD LV
-http://tvshare.ottrast.com/iptv//6416/index.m3u8
-#EXTINF:-1  tvg-id="TV6 LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV6 LT
-http://tvshare.ottrast.com/iptv//6350/index.m3u8
-#EXTINF:-1  tvg-id="TV6 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV6 LV
-http://tvshare.ottrast.com/iptv//6348/index.m3u8
-#EXTINF:-1  tvg-id="TV6 LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV6 LV
-http://tvshare.ottrast.com/iptv//6415/index.m3u8
-#EXTINF:-1  tvg-id="TV8 HD LIETUVA LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV8 HD LIETUVA LT
-http://tvshare.ottrast.com/iptv//12005/index.m3u8
-#EXTINF:-1  tvg-id="TV8 LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",TV8 LT
-http://tvshare.ottrast.com/iptv//6355/index.m3u8
-#EXTINF:-1  tvg-id="VH1 EUROPE LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",VH1 EUROPE LV
-http://tvshare.ottrast.com/iptv//12028/index.m3u8
-#EXTINF:-1  tvg-id="VIASAT EXPLORE HD EUROPE LT" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",VIASAT EXPLORE HD EUROPE LT
-http://tvshare.ottrast.com/iptv//12008/index.m3u8
-#EXTINF:-1  tvg-id="VIASAT HISTORY HD LV" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",VIASAT HISTORY HD LV
-http://tvshare.ottrast.com/iptv//12019/index.m3u8
-#EXTINF:-1  tvg-id="VIASAT NATURE HD/HISTORY HD EUROPE" group-title="Lithuania" tvg-logo="https://www.iptvdownloads.com/wp-content/uploads/2018/10/Lithuania-IPTV-300x179.jpg",VIASAT NATURE HD/HISTORY HD EUROPE
-http://tvshare.ottrast.com/iptv//12010/index.m3u8
-#EXTINF:-1  tvg-id="hbohd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png",HBO HD
+#EXTINF:-1  tvg-id="HBO HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png",HBO HD
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="cinemaxhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg",Cinemax HD
+#EXTINF:-1  tvg-id="Cinemax HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg",Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="cinemaxhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg",Cinemax HD
+#EXTINF:-1  tvg-id="Cinemax HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg",Cinemax HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1  tvg-id="hbofamilyhd-asia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (Asia)
+#EXTINF:-1  tvg-id="HBO Family (Asia)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family (Asia)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1  tvg-id="hbohitshd-asia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Asia)
+#EXTINF:-1  tvg-id="HBO Hits (Asia)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Asia)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1  tvg-id="hbohitshd-asia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Asia)
+#EXTINF:-1  tvg-id="HBO Hits (Asia)" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Asia)
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
-#EXTINF:-1  tvg-id="MBCMax.ae" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
+#EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
 https://au7live.tooliserver.com/live/149015_0.m3u8?session=
-#EXTINF:-1  tvg-id="MBCDramaPlus.ae" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
+#EXTINF:-1  tvg-id="MBC Plus Drama (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
 https://au7live.tooliserver.com/live/149016_0.m3u8?session=
-#EXTINF:-1  tvg-id="mtv" group-title="Shqipëria" tvg-logo="https://64.media.tumblr.com/tumblr_m1klpyIjUL1rs55b4o1_500.gif",MTV Asia
+#EXTINF:-1  tvg-id="MTV Asia" group-title="Shqipëria" tvg-logo="https://64.media.tumblr.com/tumblr_m1klpyIjUL1rs55b4o1_500.gif",MTV Asia
 https://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Yo!
+#EXTINF:-1  tvg-id="MTV Yo!" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Biggest Pop
+#EXTINF:-1  tvg-id="MTV Biggest Pop" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
+#EXTINF:-1  tvg-id="MTV Block Party" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Spankin' New
+#EXTINF:-1  tvg-id="MTV Spankin' New" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
+#EXTINF:-1  tvg-id="MTV WMA" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
+#EXTINF:-1  tvg-id="MTV WMA" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Logo_MTVPhilippines.PNG",MTV WMA
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM.mp4/chunklist.m3u8
-#EXTINF:-1  tvg-id="blueantent" group-title="Shqipëria" tvg-logo="https://static.megavie.live/media/blueantent.jpg",Blue Ant Entertainment HD
+#EXTINF:-1  tvg-id="Blue Ant Entertainment HD" group-title="Shqipëria" tvg-logo="https://static.megavie.live/media/blueantent.jpg",Blue Ant Entertainment HD
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="blueantext" group-title="Shqipëria" tvg-logo="https://static.megavie.live/media/blueantext.jpg",Blue Ant Extreme HD
+#EXTINF:-1  tvg-id="Blue Ant Extreme HD" group-title="Shqipëria" tvg-logo="https://static.megavie.live/media/blueantext.jpg",Blue Ant Extreme HD
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="KIX" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png",KIX HD
+#EXTINF:-1  tvg-id="KIX HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png",KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="afnhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png",Asian Food Network HD
+#EXTINF:-1  tvg-id="Asian Food Network HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png",Asian Food Network HD
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="Da Vinci" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png",Da Vinci Learning HD
+#EXTINF:-1  tvg-id="Da Vinci Learning HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png",Da Vinci Learning HD
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="kbsworld" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg",KBS World FHD
+#EXTINF:-1  tvg-id="KBS World FHD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg",KBS World FHD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="nhkworldhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png",NHK World HD
+#EXTINF:-1  tvg-id="NHK World HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png",NHK World HD
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="dw" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg",DW HD
+#EXTINF:-1  tvg-id="DW HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg",DW HD
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="arirang" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png",Arirang
+#EXTINF:-1  tvg-id="Arirang" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png",Arirang
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="channelnewsasia" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png",New Asia
+#EXTINF:-1  tvg-id="New Asia" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png",New Asia
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="france24eng" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png",France 24 English
+#EXTINF:-1  tvg-id="France 24 English" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png",France 24 English
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="tv5monde" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png",TV5MONDE
+#EXTINF:-1  tvg-id="TV5MONDE" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png",TV5MONDE
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="outdoorhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg",Outdoor Channel HD
+#EXTINF:-1  tvg-id="Outdoor Channel HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg",Outdoor Channel HD
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="animaxhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax HD
+#EXTINF:-1  tvg-id="Animax HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png",Animax HD
 https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="boomerang" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png",Boomerang
+#EXTINF:-1  tvg-id="Boomerang" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png",Boomerang
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="babyfirst" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png",BabyFirst
+#EXTINF:-1  tvg-id="BabyFirst" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png",BabyFirst
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="tvg-id=" group-title="Shqipëria" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg",Cbeebies
+#EXTINF:-1  tvg-id="Cbeebies" group-title="Shqipëria" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg",Cbeebies
 https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="BBC Earth HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg",BBC Earth HD
 https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="bbcworldnews" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png",BBC World News
+#EXTINF:-1  tvg-id="BBC World News" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png",BBC World News
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="bbclifestyle" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
+#EXTINF:-1  tvg-id="BBC Lifestyle" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg",BBC Lifestyle
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-id="discoveryhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png",Discovery HD
+#EXTINF:-1  tvg-id="Discovery HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png",Discovery HD
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryasiahd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png",Discovery Asia HD
+#EXTINF:-1  tvg-id="Discovery Asia HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png",Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="animalhd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg",Animal Planet HD
+#EXTINF:-1  tvg-id="Animal Planet HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg",Animal Planet HD
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="tlchd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg",Travel & Living HD
+#EXTINF:-1  tvg-id="Travel & Living HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg",Travel & Living HD
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="youtv" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg",YouTV
+#EXTINF:-1  tvg-id="YouTV" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg",YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="mtv" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg",MTV HD
+#EXTINF:-1  tvg-id="MTV HD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg",MTV HD
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="sbscnbchd" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg",CNBC
+#EXTINF:-1  tvg-id="CNBC" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg",CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="boxmovie1" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg",Box Movie
+#EXTINF:-1  tvg-id="Box Movie" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg",Box Movie
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="inthebox" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",The Box Music Televison
+#EXTINF:-1  tvg-id="The Box Music Televison" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",The Box Music Televison
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="hollywoodclassics" group-title="Shqipëria" tvg-logo="https://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg",Hollywood Classic
+#EXTINF:-1  tvg-id="Hollywood Classic" group-title="Shqipëria" tvg-logo="https://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg",Hollywood Classic
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="woman" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",Woman HD
+#EXTINF:-1  tvg-id="Woman HD" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",Woman HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="planetearthhd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg",Planet Earth HD
+#EXTINF:-1  tvg-id="Planet Earth HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg",Planet Earth HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="happykids" group-title="Shqipëria" tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg",Happy Kids HD
+#EXTINF:-1  tvg-id="Happy Kids HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg",Happy Kids HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="drfithd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg",Dr.Fit HD
+#EXTINF:-1  tvg-id="Dr.Fit HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg",Dr.Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",CNA HD
+#EXTINF:-1  tvg-id="CNA HD" group-title="Shqipëria" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https://sctv-main-2.s3-hcm.cloud.cmctelecom.vn",CNA HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="disney" group-title="Shqipëria" tvg-logo="https://www.displaydaily.com/images/Logos/D-F/dmax-hd.png",Discovery DMAX HD
+#EXTINF:-1  tvg-id="Discovery DMAX HD" group-title="Shqipëria" tvg-logo="https://www.displaydaily.com/images/Logos/D-F/dmax-hd.png",Discovery DMAX HD
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/index_1672_av-p.m3u8?sd=10&rebase=on&id=AgB0bmIdF8uHts8oV2EfEFVT456nWJXpYSKJUV2QY7ksK1MYdSP5zspuq7hb2qCmFZtlqABKjsrfzQ%3d%3d
-#EXTINF:-1  tvg-id="disney" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405",Disney INTERNATIONAL FHD
+#EXTINF:-1  tvg-id="Disney INTERNATIONAL FHD" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405",Disney INTERNATIONAL FHD
 https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU",TRT COCUK HD
+#EXTINF:-1  tvg-id="TRT COCUK HD" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU",TRT COCUK HD
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png",PBS KIDS HD
+#EXTINF:-1  tvg-id="PBS KIDS HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png",PBS KIDS HD
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU",JUNIOR HD
+#EXTINF:-1  tvg-id="JUNIOR HD" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU",JUNIOR HD
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://previews.123rf.com/images/yuyuyi/yuyuyi1208/yuyuyi120800185/14990499-four-cute-little-kids.jpg",KIDS HD
+#EXTINF:-1  tvg-id="KIDS HD" group-title="Shqipëria" tvg-logo="https://previews.123rf.com/images/yuyuyi/yuyuyi1208/yuyuyi120800185/14990499-four-cute-little-kids.jpg",KIDS HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif",NICK HD+
+#EXTINF:-1  tvg-id="NICK HD+" group-title="Shqipëria" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif",NICK HD+
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg",3ABN KIDS HD
+#EXTINF:-1  tvg-id="3ABN KIDS HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg",3ABN KIDS HD
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://i.ibb.co/BtnwZ0w/images-1.jpg",TOONEE HD
+#EXTINF:-1  tvg-id="TOONEE HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/BtnwZ0w/images-1.jpg",TOONEE HD
 https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
-#EXTINF:-1  tvg-id="disneyjunior" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red+Bull+TV%2C+NBA+TV%2C+MLB+Network%2C+NFL+Network%2C+NFL+Redzone%2C+Watch+USA+TV+live+online.jpg",Red Bull TV
+#EXTINF:-1  tvg-id="Red Bull TV" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red+Bull+TV%2C+NBA+TV%2C+MLB+Network%2C+NFL+Network%2C+NFL+Redzone%2C+Watch+USA+TV+live+online.jpg",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg",TVN HD
+#EXTINF:-1  tvg-id="TVN HD" group-title="Shqipëria" tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg",TVN HD
 https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://i.ibb.co/JR0Gk7M/Canal-Film-HD-Logo-Alternativ.jpg",FILM HOT HD
+#EXTINF:-1  tvg-id="FILM HOT HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/JR0Gk7M/Canal-Film-HD-Logo-Alternativ.jpg",FILM HOT HD
 https://tvonlineappitv.shortcm.li//fwmov_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Shqipëria" tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
+#EXTINF:-1  tvg-id="BOO HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png",MNET HD
+#EXTINF:-1  tvg-id="MNET HD" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png",MNET HD
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/LR9XrZb/Colors-tv2017.jpg",COLORS FHD
+#EXTINF:-1  tvg-id="COLORS FHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/LR9XrZb/Colors-tv2017.jpg",COLORS FHD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9nWE8XgCkl5e4z3zk-4RueePycVoDloF9eMGFFuYt96q4AH39ktCPcLDKnJTTcSc8lQ&usqp=CAU",TVB FHD
+#EXTINF:-1  tvg-id="TVB FHD" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9nWE8XgCkl5e4z3zk-4RueePycVoDloF9eMGFFuYt96q4AH39ktCPcLDKnJTTcSc8lQ&usqp=CAU",TVB FHD
 https://edge6a.v2h-cdn.com:443/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w1547988809_b3564000_sltha.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png",FILM HD
+#EXTINF:-1  tvg-id="FILM HD" group-title="Shqipëria" tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png",FILM HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-#EXTINF:-1  tvg-id="HBOFamilyEast.us" group-title="Shqipëria" tvg-logo="https://i.ibb.co/Gkz1wML/HBOFamily-us.jpg",HBO Family East FHD
+#EXTINF:-1  tvg-id="HBO Family East FHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/Gkz1wML/HBOFamily-us.jpg",HBO Family East FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1  tvg-id="HBOHits.us" group-title="Shqipëria" tvg-logo="https://i.ibb.co/fQ6rQY6/HBOHits-id.jpg",HBO Hits FHD
+#EXTINF:-1  tvg-id="HBO Hits FHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/fQ6rQY6/HBOHits-id.jpg",HBO Hits FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1  tvg-id="HBOSignatureEast.us" group-title="Shqipëria" tvg-logo="https://i.ibb.co/d6FqdxS/HBOSignature-us.jpg",HBO Signature East FHD
+#EXTINF:-1  tvg-id="HBO Signature East FHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/d6FqdxS/HBOSignature-us.jpg",HBO Signature East FHD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://hanoicab.net/mediacenter/media/images/1133/news/ava/s250_250/phim-starmovie.png",STAR MOVIES HD
+#EXTINF:-1  tvg-id="STAR MOVIES HD" group-title="Shqipëria" tvg-logo="https://hanoicab.net/mediacenter/media/images/1133/news/ava/s250_250/phim-starmovie.png",STAR MOVIES HD
 http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="waku" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",&Flix HD
+#EXTINF:-1  tvg-id="&Flix HD" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="waku" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg",&Privé HD
+#EXTINF:-1  tvg-id="&Privé HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg",&Privé HD
 https://f8e7y4c6.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="waku" group-title="Shqipëria" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg",STINGRAY KARAOKE
+#EXTINF:-1  tvg-id="STINGRAY KARAOKE" group-title="Shqipëria" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg",STINGRAY KARAOKE
 https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8?=xemtvnhanh
-#EXTINF:-1  tvg-id="waku" group-title="Shqipëria" tvg-logo="https://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png",KPOP MUSIC
+#EXTINF:-1  tvg-id="KPOP MUSIC" group-title="Shqipëria" tvg-logo="https://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png",KPOP MUSIC
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1  tvg-id="hitshd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/0C3MDDM/hdmuc.png",MUSIC HD
+#EXTINF:-1  tvg-id="MUSIC HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/0C3MDDM/hdmuc.png",MUSIC HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1  tvg-id="hgtvhd" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg",HGTV FHD
+#EXTINF:-1  tvg-id="HGTV FHD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg",HGTV FHD
 https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
-#EXTINF:-1  tvg-id="fashionhd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png",FTV Body HD
+#EXTINF:-1  tvg-id="FTV Body HD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png",FTV Body HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
-#EXTINF:-1  tvg-id="fashionhd" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg",FTV Midnight Haute HD
+#EXTINF:-1  tvg-id="FTV Midnight Haute HD" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg",FTV Midnight Haute HD
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-id="fashionhd" group-title="Shqipëria" tvg-logo="https://i.ibb.co/Ctkc3Hx/FASHION.png",FTV UHD
+#EXTINF:-1  tvg-id="FTV UHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/Ctkc3Hx/FASHION.png",FTV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Loupe4K.us" group-title="Shqipëria" tvg-logo="https://i.ibb.co/9TyJWq7/Loupe.jpg",Loupe UHD
+#EXTINF:-1  tvg-id="Loupe UHD" group-title="Shqipëria" tvg-logo="https://i.ibb.co/9TyJWq7/Loupe.jpg",Loupe UHD
 http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1  tvg-id="bloomberg" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png",Bloomberg UHD
+#EXTINF:-1  tvg-id="Bloomberg UHD" group-title="Shqipëria" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png",Bloomberg UHD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="boxmovie" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",Love4K Nature
+#EXTINF:-1  tvg-id="Love4K Nature" group-title="Shqipëria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU",Love4K Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-id="animalhd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/222.png",Animal Planet
+#EXTINF:-1  tvg-id="Animal Planet" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/222.png",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryhd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/223.png",Discovery
+#EXTINF:-1  tvg-id="Discovery" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/223.png",Discovery
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryasiahd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/224.png",Discovery Asia
+#EXTINF:-1  tvg-id="Discovery Asia" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/224.png",Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="ngchd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/225.png",National Geographic HD
+#EXTINF:-1  tvg-id="National Geographic HD" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/225.png",National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="ngwhd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/226.png",Nat Geo Wild HD
+#EXTINF:-1  tvg-id="Nat Geo Wild HD" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/226.png",Nat Geo Wild HD
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="outdoorfhd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/227.png",Outdoor Channel HD
+#EXTINF:-1  tvg-id="Outdoor Channel HD" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/227.png",Outdoor Channel HD
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="blueantent" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/229.png",Blue Ant Entertainment
+#EXTINF:-1  tvg-id="Blue Ant Entertainment" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/229.png",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="blueantext" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/230.png",Blue Ant Extreme
+#EXTINF:-1  tvg-id="Blue Ant Extreme" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/230.png",Blue Ant Extreme
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="hits" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/249.png",HITS
+#EXTINF:-1  tvg-id="HITS" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/249.png",HITS
 http://103.195.239.138/hits/mpegts
-#EXTINF:-1  tvg-id="kix" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/234.png",KIX HD
+#EXTINF:-1  tvg-id="KIX HD" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/234.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="tlchd" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/236.png",TLC
+#EXTINF:-1  tvg-id="TLC" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/236.png",TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="hbohd" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_(Metallic).png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
+#EXTINF:-1  tvg-id="HBO" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_(Metallic).png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1  tvg-id="cinemaxhd" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTINF:-1  tvg-id="Cinemax" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1  tvg-id="discoveryasiahd" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
+#EXTINF:-1  tvg-id="Discovery Asia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png",Discovery Asia
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="bbcearth" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
+#EXTINF:-1  tvg-id="BBC Earth" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="animalhd" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
+#EXTINF:-1  tvg-id="Animal Planet" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="bbclifestyle" group-title="Shqipëria" tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC Lifestyle
+#EXTINF:-1  tvg-id="BBC Lifestyle" group-title="Shqipëria" tvg-logo="https://telegramchannels.me/storage/media-logo/1901/bbc_lifestyle.jpg",BBC Lifestyle
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
-#EXTINF:-1  tvg-id="kbs_world" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png",KBS World
+#EXTINF:-1  tvg-id="KBS World" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png",KBS World
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
