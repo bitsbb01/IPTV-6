@@ -119,6 +119,8 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 http://us.bestvideostreaming.is/8713/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Elrodi Tv" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gl3R7Ra.png",Elrodi Tv
 http://79.137.66.111/elroditv_240p/index.m3u8
+#EXTINF:-1  tvg-id="CANAL+" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gl3R7Ra.png",CANAL+
+https://djcbqdsbihjidcgf.wzcdn804.net:8443/hls/qtv90ewauczcn.m3u8?s=dCxTZ4BBLW70XYBBumE3xQ&e=1634885541
 #EXTINF:-1  tvg-id="ERA TV" group-title="Shqipëria" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",ERA TV
 https://srv1.iptviliria.com/EraTV/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Klan Kosova" group-title="Shqipëria" tvg-logo="https://i.imgur.com/niBskNo.png",Klan Kosova
