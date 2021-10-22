@@ -185,7 +185,7 @@ https://srv1.iptviliria.com/TringFantasy/index.m3u8?token=undefined
 https://srv1.iptviliria.com/TringHistori/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring International" group-title="Shqipëria" tvg-logo="https://i.imgur.com/gNCrPbJ.png",Tring International
 https://srv1.iptviliria.com/TringInternational/tracks-v1a1/mono.m3u8?token=undefined
-#EXTINF:-1  tvg-id="Euro Film" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/RgzzL5r.png",Euro Film
+#EXTINF:-1  tvg-id="Euro Film" group-title="Shqipëria" tvg-logo="https://i.imgur.com/RgzzL5r.png",Euro Film
 https://srv1.iptviliria.com/EuroFilm/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="Tring Life HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6BHq9Nw.png",Tring Life HD
 https://srv1.iptviliria.com/TringLife/index.m3u8?token=undefined
