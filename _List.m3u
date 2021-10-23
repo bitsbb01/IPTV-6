@@ -83,8 +83,8 @@ https://au7live.tooliserver.com/live/149015_0.m3u8?session=
 https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
 https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TNT HDUSA" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",TNT HDUSA
-https://d3tpmdrzae1f7n.cloudfront.net/out/v1/e01370647f3a4784a8f28ff57cd3f37d/index.m3u8
+#EXTINF:-1  tvg-id="TNT HDUSA" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",TNT HD USA
+http://live.tv247.club/live/tnt.m3u8
 #EXTINF:-1  tvg-id="ART KINO 1" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Jo98JlD.png",ART KINO 1
 https://srv1.iptviliria.com/ArtFilm1/tracks-v1a1/mono.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjI0MTI2NjI4LCJuYmYiOjE2MjQxMjY2MjgsImp0aSI6IkpvdW5CWEJjM0hFRENpSWQiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.cqYoZUbk9VmEbcT2nADtzj-nDnukVFAIiLjxa2Ev66E
 #EXTINF:-1  tvg-id="ART KINO 2" group-title="Shqipëria" tvg-logo="https://i.imgur.com/fcE5a4I.png",ART KINO 2
