@@ -1611,42 +1611,40 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 #EXTINF:-1  tvg-id="KBS World" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png",KBS World
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="PersianaBillboard.fr" group-title="Music" tvg-logo="N/A",Persiana Billboard (720p)
+#EXTINF:-1  tvg-id="PersianaBillboard.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Billboard (720p)
 http://51.210.199.10/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaCinema.fr" group-title="Movies" tvg-logo="N/A",Persiana Cinema (720p)
+#EXTINF:-1  tvg-id="PersianaCinema.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Cinema (720p)
 http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaClassic.fr" group-title="Movies" tvg-logo="N/A",Persiana Classic (720p) [Offline]
+#EXTINF:-1  tvg-id="PersianaClassic.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Classic (720p) [Offline]
 http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaComedy.fr" group-title="Movies" tvg-logo="N/A",Persiana Comedy (720p)
+#EXTINF:-1  tvg-id="PersianaComedy.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Comedy (720p)
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaDocumentary.fr" group-title="Documentary" tvg-logo="N/A",Persiana Documentary [Offline]
+#EXTINF:-1  tvg-id="PersianaDocumentary.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Documentary [Offline]
 http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaFamily.fr" group-title="Movies" tvg-logo="N/A",Persiana Family (720p)
+#EXTINF:-1  tvg-id="PersianaFamily.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaFamilyPlus.fr" group-title="Movies" tvg-logo="N/A",Persiana Family Plus (720p)
+#EXTINF:-1  tvg-id="PersianaFamilyPlus.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Family Plus (720p)
 http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaGameTech.fr" group-title="Entertainment" tvg-logo="N/A",Persiana Game & Tech (720p)
+#EXTINF:-1  tvg-id="PersianaGameTech.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Game & Tech (720p)
 http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaIranian.fr" group-title="Movies" tvg-logo="N/A",Persiana Iranian (720p)
+#EXTINF:-1  tvg-id="PersianaIranian.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Iranian (720p)
 http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaJunior.fr" group-title="Animation" tvg-logo="N/A",Persiana Junior (720p)
+#EXTINF:-1  tvg-id="PersianaJunior.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Junior (720p)
 http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaKorea.fr" group-title="Movies" tvg-logo="N/A",Persiana Korea (720p)
+#EXTINF:-1  tvg-id="PersianaKorea.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Korea (720p)
 http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaMusic.fr" group-title="Music" tvg-logo="N/A",Persiana Music (720p)
+#EXTINF:-1  tvg-id="PersianaMusic.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Music (720p)
 http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaNostalgia.fr" group-title="Music" tvg-logo="N/A",Persiana Nostalgia (720p)
+#EXTINF:-1  tvg-id="PersianaNostalgia.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Nostalgia (720p)
 http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaPlus.fr" group-title="Movies" tvg-logo="N/A",Persiana Plus (576p)
+#EXTINF:-1  tvg-id="PersianaPlus.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Plus (576p)
 http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaSonati.fr" group-title="Music" tvg-logo="N/A",Persiana Sonati (576p)
+#EXTINF:-1  tvg-id="PersianaSonati.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Sonati (576p)
 http://51.210.199.59/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PersianaVarzesh.fr" group-title="Sports" tvg-logo="N/A",Persiana Varzesh (1080p)
+#EXTINF:-1  tvg-id="PersianaVarzesh.fr" group-title="Shqipëria" tvg-logo="N/A",Persiana Varzesh (1080p)
 http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1  tvg-id="PokerTV.fr" group-title="Sports" tvg-logo="https://i.imgur.com/l5fZQ3V.png",Poker TV [Not 24/7]
+#EXTINF:-1  tvg-id="PokerTV.fr" group-title="Shqipëria" tvg-logo="https://i.imgur.com/l5fZQ3V.png",Poker TV [Not 24/7]
 http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",------------------北美---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="KXTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
 https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
 #EXTINF:-1  tvg-id="WZZM.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
@@ -1801,8 +1799,6 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunkli
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1  tvg-id="WBNSTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS城市系列CBS 10 Columbus OH (WBNS-TV) (1080p)
 https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------央视---------------
-http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-1 综合 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-2 经济 高清
@@ -1871,8 +1867,6 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/index
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226215/index.m3u8?fmt=ts2hls
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",都市剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------卫视---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",凤凰资讯 高清
 http://223.110.235.5/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",凤凰中文 高清
@@ -2241,8 +2235,6 @@ http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",割韭菜频道Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------CGTN---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CGTN 英语
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CGTN 阿拉伯语Arabic
@@ -2259,8 +2251,6 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV+ Channel 2
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",---------------------------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",自由俄罗斯VIVA Russia (1080p)
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",俄罗斯第一台
@@ -2453,8 +2443,6 @@ http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",黑山BHtv
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",---------------------------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",冰岛N4 (720p)
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",法国-France24
@@ -2979,8 +2967,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",天主教EWTN katholisches TV [Not 24/7]
 https://cdn3.wowza.com/1/NWFLbEVOVjNsQWhP/YnpVbld5/hls/live/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------低俗视频---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="AFVEspanol.us" group-title="CHINA_MIX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Español (720p)
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1  tvg-id="AFVEspanol.us" group-title="CHINA_MIX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Español (720p)
@@ -3007,8 +2993,6 @@ https://futuretoday-afv-family-1-no.samsung.wurl.com/manifest/playlist.m3u8
 https://futuretoday-afv-family-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="AFVFamilyEnEspanol.us" group-title="CHINA_MIX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",AFV Family En Español (720p)
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",---------------------------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CGTN西语
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",西班牙语·24 Horas
@@ -3129,8 +3113,6 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",印度北阿坎德邦印地语News 18 Uttarakhand (360p)
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------ ---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",阿富汗国际Ariana Afghanistan International TV (720p)
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",阿富汗Ariana TV National (480p)
@@ -3263,8 +3245,6 @@ http://51.210.199.28/hls/stream.m3u8
 http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",法国阿拉伯语France 24 Arabic (1080p)
 https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------地方台---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",晋江电视
@@ -3591,8 +3571,6 @@ http://39.135.138.5:6610/PLTV/88888888/224/3221226192/2/index.m3u8
 http://39.135.138.5:6610/PLTV/88888888/224/3221226186/2/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",NewTV-云南
 http://39.135.138.5:6610/PLTV/88888888/224/3221226188/2/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",------------------全国各地直播---------------
-http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",北京-南宫温泉休闲度假区
