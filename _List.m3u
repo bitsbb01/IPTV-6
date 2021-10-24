@@ -1647,6 +1647,10 @@ http://51.210.199.59/hls/stream.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1  tvg-id="PERSIANA TV" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Varzesh-TV-1-vipotv.png",PERSIANA TV
 http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1  tvg-id="Cine Series" group-title="Shqipëria" tvg-logo="https://i.imgur.com/l5fZQ3V.png",Cine Series
+https://glwizhstb43.glwiz.com/CineSeries_HD/CineSeries_High.m3u8?user=sgls76551&session=737430fe254dc6b279e933723a04c2d2bc1a5590723cec481a2c639bb94aa621756c5906091c461b2954b840755761c2&hlsid=HTTP_ID_380&group_id=76551&starttime=20211018T215710.286961
+#EXTINF:-1  tvg-id="Cine Film" group-title="Shqipëria" tvg-logo="https://i.imgur.com/l5fZQ3V.png",Cine Film
+https://glwizhstb47.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&session=b73df742b73c3b02c673d96162fcf9dbb62a05bb1a36031bb41f7ae4a41cf51034dae1b2cdfea8a9&hlsid=HTTP_ID_785&group_id=76551&starttime=20211024T050828.690848
 #EXTINF:-1  tvg-id="PokerTV.fr" group-title="Shqipëria" tvg-logo="https://i.imgur.com/l5fZQ3V.png",Poker TV [Not 24/7]
 http://51.210.199.17/hls/stream.m3u8
 #EXTINF:-1  tvg-id="OXIR TV" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/oxirtv-vipotv-min.png",OXIR TV
