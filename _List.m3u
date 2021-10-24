@@ -1657,6 +1657,10 @@ https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 https://stream-live.gemonline.tv/live/gemseries/index.m3u8
 #EXTINF:-1  tvg-id="GEM Drama" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Drama
 https://glwizhstb57.glwiz.com/GEMDrama_HD/GEMDrama_High.m3u8?user=sgls76551&session=09a8c2fb2651fc0cc9381e1b35dba2cd95427e4ed15b4470b41f7ae4a41cf51034dae1b2cdfea8a9&hlsid=HTTP_ID_717329&group_id=76551&starttime=20211008T180658.938773
+#EXTINF:-1  tvg-id="GEM Classic" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Classic
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
+#EXTINF:-1  tvg-id="GEM Rubix" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Rubix
+https://glwizhstb50.glwiz.com/RUBIX_HD/RUBIX_High.m3u8?user=sgls76551&session=0f0c4023f9e29d06b1144989f4cfb52239d849e9a93e6482e55e1cc3e20781a00cdeca9cfc850884&hlsid=HTTP_ID_244&group_id=76551&starttime=20211024T212658.872947
 #EXTINF:-1  tvg-id="GEM-USA" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-USA
 https://glwizhstb51.glwiz.com/GemUSA_HD.m3u8?user=sgls76551&session=f0b8760e21ca2cdb2fc69ec2b8726594790ec1cf95a8a3adfd545bc0026808a306d024fd36b3b3a5&group_id=76551
 #EXTINF:-1  tvg-id="GEM-Onyx" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-Onyx
