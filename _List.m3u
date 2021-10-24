@@ -77,8 +77,6 @@ https://nesertv.live/webstream/tracks-v1a1/mono.m3u8
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1  tvg-id="CON TV" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/e1f0415ed864f3f12216.jpg",CON TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/768x432_1460800/chunklist.m3u8
-#EXTINF:-1  tvg-id="MBC MAX" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1290b0d3765bbc51880a.jpg",MBC MAX
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
 #EXTINF:-1  tvg-id="Tring Comedy HD" group-title="Shqipëria" tvg-logo="https://i.imgur.com/yOUG2Q9.png",Tring Comedy HD
 https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
@@ -123,6 +121,8 @@ https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="Portalfoxmix TV" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",Portalfoxmix TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1336401310.m3u8
+#EXTINF:-1  tvg-id="247 Box TV" group-title="Shqipëria" tvg-logo="https://247box.tv/wp-content/uploads/2020/11/247Player-copy.png",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1  tvg-id="&Flix HD" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="&Privé HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg",&Privé HD
@@ -149,8 +149,8 @@ https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/17.m3u8?token=TUAMWBY
 https://boom.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/16.m3u8?token=TUAMWBYMGwgUCQlUUAcBAQdVAwUOAwtTDgQEBVUEA1QHBlVfBwUPAgUbHBJHRBZWUQk6XFMSAwMOHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoHBlFUFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GXQcDEBpAB1YQCk1ATxsKEnNyRh8SAR1BUl5KW1dcF15GWwZHDkBIGwwXZkBTSkRCUVEJVkJGXxcHEhUQVVNNOwdZW1xTARBQCgpKEAwbABIYEglcXg0RWkVvSVtcEA9GXAcFBxQf
 #EXTINF:-1  tvg-id="Aman TV" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/4a932530e8e06f16b3fb.jpg",Aman TV
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
-#EXTINF:-1  tvg-id="Al Quran Karim" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/5b3377779a4a9eb73ade.jpg",Al Quran Karim
-https://cllive.itworkscdn.net/ksaquranlive/token=nva=1616101101~dirs=1~hash=010503ac1acbe199a6d9a/ksaquran.smil/ksaquran_chunks.m3u8
+#EXTINF:-1  tvg-id="AutoMoto TV" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/5b3377779a4a9eb73ade.jpg",AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w347988073.m3u8
 #EXTINF:-1  tvg-id="Apollon TV HD" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png",Apollon TV HD
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:-1  tvg-id="Alsat M Live" group-title="Shqipëria" tvg-logo="https://i.imgur.com/G7fl4KA.png",Alsat M Live
@@ -1672,7 +1672,7 @@ https://glwizhstb39.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=90193822de2b9c
 #EXTINF:-1  tvg-id="GEM Food" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Food
 https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 #EXTINF:-1  tvg-id="iFILM" group-title="Shqipëria" tvg-logo="https://en.ifilmtv.tv/img/final-logo01.png",iFILM
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist_w655046217_b944100_slen.m3u8
 #EXTINF:-1  tvg-id="iFILM English" group-title="Shqipëria" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/ifilm-english.png",iFILM English
 https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
 #EXTINF:-1  tvg-id="MyMovie-TV" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",MyMovie-TV
