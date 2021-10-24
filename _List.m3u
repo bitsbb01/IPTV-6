@@ -109,9 +109,11 @@ https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w802327889.m3u8
 #EXTINF:-1  tvg-id="MBC Action HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
 https://au7live.tooliserver.com/live/149013_0.m3u8?session=
+#EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
+https://au7live.tooliserver.com/live/149015_0.m3u8?session=
+#EXTINF:-1  tvg-id="MIX M" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-rjF2k4RAIMY/YL-o154pJJI/AAAAAAAAG6g/UPPRufqeC0MpCRvcW_9l4Heswr4L17IEgCLcBGAsYHQ/s1600-rw/MIX-HOLLYWOOD.png",MIX M
+http://89.179.247.144/mixm.m3u8
 #EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
-https://channelsarabia.xyz/streams/16_.m3u8
-#EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood BCKUP
 https://freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8
 #EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
 https://livestream-f.akamaihd.net/i/6478976_2616018_16406439_1@123833/index_864_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1616839949~acl=%2fi%2f6478976_2616018_16406439_1%40123833%2f*~data=hdntl~hmac=b377d72212353337385308c587b8782c3de23befeadaaebe186acb52d4792a57
@@ -543,8 +545,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:-1  tvg-id="MBC Persia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_logo.png",MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
-https://au7live.tooliserver.com/live/149015_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC Plus Drama (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
 https://au7live.tooliserver.com/live/149016_0.m3u8?session=
 #EXTINF:-1  tvg-id="Fairfax Public Access" group-title="Shqipëria" tvg-logo="https://i.imgur.com/pWsmV4z.png",Fairfax Public Access
@@ -1655,6 +1655,8 @@ https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 https://glwizhstb51.glwiz.com/GemUSA_HD.m3u8?user=sgls76551&session=f0b8760e21ca2cdb2fc69ec2b8726594790ec1cf95a8a3adfd545bc0026808a306d024fd36b3b3a5&group_id=76551
 #EXTINF:-1  tvg-id="GEM-Onyx" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-Onyx
 https://glwizhstb39.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=90193822de2b9ce7060e47d74fc405febb9eb88e94d762fca410cd94f232b0841f4e1a57557c4af1&group_id=76551
+#EXTINF:-1  tvg-id="GEM Food" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Food
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 #EXTINF:-1  tvg-id="iFILM" group-title="Shqipëria" tvg-logo="https://en.ifilmtv.tv/img/final-logo01.png",iFILM
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 #EXTINF:-1  tvg-id="iFILM English" group-title="Shqipëria" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/ifilm-english.png",iFILM English
