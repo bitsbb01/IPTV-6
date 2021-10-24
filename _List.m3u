@@ -1651,10 +1651,18 @@ http://51.210.199.17/hls/stream.m3u8
 http://51.210.199.36/hls/stream.m3u8
 #EXTINF:-1  tvg-id="GEM FILM" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM FILM
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1  tvg-id="GEM-USA" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-USA
+https://glwizhstb51.glwiz.com/GemUSA_HD.m3u8?user=sgls76551&session=f0b8760e21ca2cdb2fc69ec2b8726594790ec1cf95a8a3adfd545bc0026808a306d024fd36b3b3a5&group_id=76551
+#EXTINF:-1  tvg-id="GEM-Onyx" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-Onyx
+https://glwizhstb39.glwiz.com/ONYX_HD.m3u8?user=sgls76551&session=90193822de2b9ce7060e47d74fc405febb9eb88e94d762fca410cd94f232b0841f4e1a57557c4af1&group_id=76551
 #EXTINF:-1  tvg-id="iFILM" group-title="Shqipëria" tvg-logo="https://en.ifilmtv.tv/img/final-logo01.png",iFILM
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 #EXTINF:-1  tvg-id="iFILM English" group-title="Shqipëria" tvg-logo="https://spbtv.online/tafiimage_china/list_new/logo/ifilm-english.png",iFILM English
 https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
+#EXTINF:-1  tvg-id="MyMovie-TV" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",MyMovie-TV
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1  tvg-id="Gravitas-Movies" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",Gravitas-Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1  tvg-id="KXTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
 https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
 #EXTINF:-1  tvg-id="WZZM.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
