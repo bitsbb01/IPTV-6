@@ -121,6 +121,8 @@ https://livestream-f.akamaihd.net/i/6478976_2616018_16406439_1@123833/index_864_
 https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1  tvg-id="Portalfoxmix TV" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",Portalfoxmix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1336401310.m3u8
 #EXTINF:-1  tvg-id="&Flix HD" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="&Privé HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg",&Privé HD
@@ -1651,6 +1653,10 @@ http://51.210.199.17/hls/stream.m3u8
 http://51.210.199.36/hls/stream.m3u8
 #EXTINF:-1  tvg-id="GEM FILM" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM FILM
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1  tvg-id="GEM Series HD" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Series HD
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+#EXTINF:-1  tvg-id="GEM Drama" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM Drama
+https://glwizhstb57.glwiz.com/GEMDrama_HD/GEMDrama_High.m3u8?user=sgls76551&session=09a8c2fb2651fc0cc9381e1b35dba2cd95427e4ed15b4470b41f7ae4a41cf51034dae1b2cdfea8a9&hlsid=HTTP_ID_717329&group_id=76551&starttime=20211008T180658.938773
 #EXTINF:-1  tvg-id="GEM-USA" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-USA
 https://glwizhstb51.glwiz.com/GemUSA_HD.m3u8?user=sgls76551&session=f0b8760e21ca2cdb2fc69ec2b8726594790ec1cf95a8a3adfd545bc0026808a306d024fd36b3b3a5&group_id=76551
 #EXTINF:-1  tvg-id="GEM-Onyx" group-title="Shqipëria" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/gem-persian-min.png",GEM-Onyx
