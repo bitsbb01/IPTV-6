@@ -81,8 +81,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/768x432_1
 https://srv1.iptviliria.com/TringComedy/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Tring Action" group-title="Shqipëria" tvg-logo="https://i.imgur.com/E4Evdoq.png",Tring Action
 https://srv1.iptviliria.com/TringAction/index.m3u8?token=undefined
-#EXTINF:-1  tvg-id="TNT HDUSA" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv2.png",TNT HD USA
-http://live.tv247.club/live/tnt.m3u8
+#EXTINF:-1  tvg-id="DIMENSIONS" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/dimensions/normal.png",DIMENSIONS
+https://simultv.s.llnwi.net/o054/Dimensions/Dimensions/interlink_3200.m3u8
 #EXTINF:-1  tvg-id="KTVI.us" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Hednfc9.png",KTVI
 https://iptv-all.lanesh4d0w.codes/united-states/ktvi-tv
 #EXTINF:-1  tvg-id="ART KINO 1" group-title="Shqipëria" tvg-logo="https://i.imgur.com/Jo98JlD.png",ART KINO 1
@@ -103,8 +103,12 @@ https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Film Nje" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="Groovy TV (532p)" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",Groovy TV (532p)
+#EXTINF:-1  tvg-id="Groovy TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/groovy/normal.png",Groovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w802327889.m3u8
+#EXTINF:-1  tvg-id="NETMAX TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/netmax-tv/normal.png",NETMAX TV
+http://live.netmaxtv.com:8080/live/live/chunklist_w51157567.m3u8
+#EXTINF:-1  tvg-id="SUPER CHANNEL" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/super-channel/normal.png",SUPER CHANNEL
+https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="MBC Action HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
 https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
@@ -1833,67 +1837,67 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunkli
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1  tvg-id="WBNSTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS城市系列CBS 10 Columbus OH (WBNS-TV) (1080p)
 https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-1 综合 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-2 经济 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="data:image/jpeg;base64,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",CCTV-2 经济 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-3 综艺 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-3 综艺 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-4 中文国际 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-4 中文国际 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-5 体育 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-5 体育 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-5+ 体育赛事 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-5+ 体育赛事 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-6 电影 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-6 电影 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-7 国防军事 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-7 国防军事 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-8 电视剧 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-8 电视剧 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-9 记录 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-9 记录 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-10 科教 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-10 科教 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-11 戏曲 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-11 戏曲 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-12 社会与法 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-12 社会与法 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-13 新闻 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-13 新闻 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-14 少儿 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-14 少儿 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-15 音乐 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-15 音乐 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-17 农业农村 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-17 农业农村 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-4 中文国际欧洲 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-4 中文国际欧洲 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226268/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-4 中文国际美洲 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-4 中文国际美洲 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-世界地理 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-世界地理 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-第一剧场 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-第一剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-怀旧剧场 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-怀旧剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-风云剧场 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-风云剧场 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-风云足球 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-风云足球 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-风云音乐 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-风云音乐 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-兵器科技 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-兵器科技 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-央视台球 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-央视台球 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-女性时尚 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-女性时尚 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-电视指南 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-电视指南 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-央视文化精品 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-央视文化精品 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",CCTV-高尔夫网球 高清
+#EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="http://wap.sciencenet.cn/upload/blog/images/2009/10/200910139542147.jpg",CCTV-高尔夫网球 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8?fmt=ts2hls
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="N/A",全纪实 高清
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226221/index.m3u8?fmt=ts2hls
