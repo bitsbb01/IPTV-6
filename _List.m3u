@@ -1603,6 +1603,8 @@ http://103.195.239.138/hits/mpegts
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="TLC" group-title="Shqipëria" tvg-logo="https://vthanh.xyz/ic/236.png",TLC
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1  tvg-id="AD | ARCHITECTURAL DIGEST" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/ad-architectural-digest/normal.png",AD | ARCHITECTURAL DIGEST
+https://dai2.xumo.com/xumocdn/p=roku&amp;rdid=38477a90-292c-585f-9529-4b8a68a221ab&amp;coppa=false&amp;is_roku_lat=1&amp;platform=web&amp;content=6da9bbae6fca51b290bd1dadbbcc33e4&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;content_type=livefeed&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;channelStore=us&amp;bmodel=bm1&amp;tags=ROKU_CONTENT_TAGS&amp;studio_id=conde_nast&amp;pod_min=OTT_POD_MIN&amp;pod_max=OTT_POD_MAX&amp;pod_ads=OTT_POD_ADS&amp;studio_id=conde_nast&amp;channelstore=us&amp;bmodel=Dbm1&amp;is_lat=1&amp;channel_id=151908/amagi_hls_data_xumo1212A-rokutraveler/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="HBO" group-title="Shqipëria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_(Metallic).png/revision/latest/scale-to-width-down/250?cb=20190715122142",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:-1  tvg-id="Cinemax" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
@@ -1684,7 +1686,7 @@ http://51.210.199.13/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Gravitas-Movies" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",Gravitas-Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1  tvg-id="KXTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
-https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+https://hls.ustream.to/TNT-USA.m3u8?token=a6d-0e0-4ab-aa3-6a5-c52-298-c39-9a4-ec6-bfe-e22-5a9-536-429-e94-231-3eb-4cc-fa6-ada-4-a5d-d1c-e8t-f6c
 #EXTINF:-1  tvg-id="WZZM.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
 #EXTINF:-1  tvg-id="KTNV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
