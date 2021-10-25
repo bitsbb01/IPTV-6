@@ -106,7 +106,7 @@ https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJ
 #EXTINF:-1  tvg-id="Groovy TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/groovy/normal.png",Groovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w802327889.m3u8
 #EXTINF:-1  tvg-id="NETMAX TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/netmax-tv/normal.png",NETMAX TV
-http://live.netmaxtv.com:8080/live/live/chunklist_w51157567.m3u8
+http://live.netmaxtv.com:8080/live/live/chunklist_w2126441530.m3u8
 #EXTINF:-1  tvg-id="SUPER CHANNEL" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/super-channel/normal.png",SUPER CHANNEL
 https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="MBC Action HD" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1b23c73082ee0c5fa2d9.jpeg",MBC Action HD
