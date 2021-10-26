@@ -123,14 +123,14 @@ https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
 https://au7live.tooliserver.com/live/149015_0.m3u8?session=
+#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
+https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="MIX M" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-rjF2k4RAIMY/YL-o154pJJI/AAAAAAAAG6g/UPPRufqeC0MpCRvcW_9l4Heswr4L17IEgCLcBGAsYHQ/s1600-rw/MIX-HOLLYWOOD.png",MIX M
 http://89.179.247.144/mixm.m3u8
 #EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
 https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8?token=TUAMWBYMGwgUDFQFUgdRVwABBg1WUwsCXApTUAYEBlRQAFYLVlwLBQ4bHBJHRBZWUQk6XFMSAwYIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoABFNUFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgcEARRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgcBBQRbRkQ=
 #EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
-https://livestream-f.akamaihd.net/i/6478976_2616018_16406439_1@123833/index_864_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1616839949~acl=%2fi%2f6478976_2616018_16406439_1%40123833%2f*~data=hdntl~hmac=b377d72212353337385308c587b8782c3de23befeadaaebe186acb52d4792a57
-#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
-https://au7live.tooliserver.com/live/149010_0.m3u8?session=
+#EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
 #EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="Portalfoxmix TV" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",Portalfoxmix TV
