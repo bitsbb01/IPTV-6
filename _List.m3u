@@ -427,7 +427,7 @@ https://broadcast.mytvtogo.net/movee4u/movee4u/chunklist_w1089211526.m3u8
 https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1  tvg-id="Futurism TV" group-title="UK-IPTV" tvg-logo="https://pbs.twimg.com/profile_images/1357094349788635137/0muc1Lq2_400x400.jpg",Futurism TV
 https://futurism.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="Hallmark Movies" group-title="UK-IPTV" tvg-logo="http://totv.org/img/failarmy.png",Hallmark Movies
+#EXTINF:-1  tvg-id="HallmarkMovies" group-title="UK-IPTV" tvg-logo="http://totv.org/img/failarmy.png",Hallmark Movies
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1  tvg-id="FilmBox ArtHouse" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox ArtHouse
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
