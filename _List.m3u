@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
+#EXTINF:-1, tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
 http://us.bestvideostreaming.is/8704/tracks-v1a1/mono.m3u8
@@ -433,7 +433,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="FilmBox Extra" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Extra
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1  tvg-id="FilmBox Family" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family
+#EXTINF:-1,tvg-id="FilmBox Family" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="FilmBox Plus" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Plus
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/576x432_5000000/index.m3u8
