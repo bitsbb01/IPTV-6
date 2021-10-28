@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
+#EXTINF:-1  tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="https://i.imgur.com/1Wo9FQ3.png",Klan HD
 https://srv1.iptviliria.com/TVKlanHD/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="Klan.al" group-title="Shqipëria" tvg-logo="http://albepg.com/tvlogi/Klan%20TV%20HD.png",Klan HD
 http://us.bestvideostreaming.is/8704/tracks-v1a1/mono.m3u8
@@ -129,8 +129,6 @@ https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 http://89.179.247.144/mixm.m3u8
 #EXTINF:-1  tvg-id="MIX Hollywood" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/daf8b0159ff1ebe628ae.png",MIX Hollywood
 https://noon.freedemo1.xyz:2083/live/OADKDfMeXq/ZVM3GkY0ZE/40.m3u8?token=TUAMWBYMGwgUDFQFUgdRVwABBg1WUwsCXApTUAYEBlRQAFYLVlwLBQ4bHBJHRBZWUQk6XFMSAwYIHhcRF1NHbV8GRgNHVxseFE1ZXVESXgMcRhVcUxIDEAoABFNUFBkQUxoQXBcKWF5pXVVGXVMBEQoKEFlbHBtdVm1RAQlXW1YUWEYJR0gbW0VJEgpaRQhfHEYHXENCWEZdEA9GVgcEARRORloKEVdGREASChZ3JhEcRgBNQ1VXQVFdW0ZeFFgBQ1pGFUcNSm1EXENERlUFXlUWRw8VABseGl9UHDtVWlxYBwdNDAtXQRQDEgAWHEZeXwoMQVhCZkJRVhdeRgcBBQRbRkQ=
-#EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
-#EXTINF:-1  tvg-id="MNN Channel" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/32772e363ce6bef92588.jpg",MNN Channel
 #EXTINF:-1  tvg-id="FilmBox" group-title="Shqipëria" tvg-logo="http://totv.org/img/filmbox.png",FilmBox
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuhallmark/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="Portalfoxmix TV" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",Portalfoxmix TV
@@ -433,7 +431,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/640x432_5000000/chunklist.m3u8
 #EXTINF:-1  tvg-id="FilmBox Extra" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Extra
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1,tvg-id="FilmBox Family" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family
+#EXTINF:-1  tvg-id="FilmBox Family" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Family
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1  tvg-id="FilmBox Plus" group-title="UK-IPTV" tvg-logo="http://totv.org/img/filmbox.png",FilmBox Plus
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/576x432_5000000/index.m3u8
@@ -1699,159 +1697,159 @@ https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
 http://51.210.199.13/hls/stream.m3u8
 #EXTINF:-1  tvg-id="Gravitas-Movies" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/My_Movie_Channel_logo.jpg",Gravitas-Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1  tvg-id="KXTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
+#EXTINF:-1  tvg-id="KXTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/aqxCgyG.jpg",ABC 10 Sacramento CA (KXTV) (1080p)
 https://hls.ustream.to/TNT-USA.m3u8?token=a6d-0e0-4ab-aa3-6a5-c52-298-c39-9a4-ec6-bfe-e22-5a9-536-429-e94-231-3eb-4cc-fa6-ada-4-a5d-d1c-e8t-f6c
-#EXTINF:-1  tvg-id="WZZM.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
+#EXTINF:-1  tvg-id="WZZM.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/eapvJpP.jpg",ABC 13 Grand Rapids MI (WZZM) (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KTNV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1  tvg-id="KTNV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1  tvg-id="WVEC.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/P5PtUcR.jpg",ABC 13 Norfolk VA (WVEC) (1080p)
+#EXTINF:-1  tvg-id="WVEC.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/P5PtUcR.jpg",ABC 13 Norfolk VA (WVEC) (1080p)
 https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KNXVTV.us" group-title="USA IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+#EXTINF:-1  tvg-id="KNXVTV.us" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1  tvg-id="WNEP.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+#EXTINF:-1  tvg-id="WNEP.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/1s3Euh5.jpg",ABC 16 Wilkes Barre PA (WNEP) (1080p)
 https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="WSBTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/HkY10xX.jpg",ABC 2 Atlanta GA (WSB-TV) (720p)
+#EXTINF:-1  tvg-id="WSBTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/HkY10xX.jpg",ABC 2 Atlanta GA (WSB-TV) (720p)
 https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
-#EXTINF:-1  tvg-id="WBRZ.us" group-title="USA IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p)
+#EXTINF:-1  tvg-id="WBRZ.us" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png",ABC 2 Baton Rouge LA (WBRZ) (720p)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="KVUE.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
+#EXTINF:-1  tvg-id="KVUE.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/nLBEhIx.jpg",ABC 24 Austin TX (KVUE) (1080p)
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="WATNTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
+#EXTINF:-1  tvg-id="WATNTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/ukf1WZ0.jpg",ABC 24 Memphis TN (WATN-TV) (1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KIII.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
+#EXTINF:-1  tvg-id="KIII.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/svfSv3O.jpg",ABC 3 Corpus Christi TX (KIII) (1080p)
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KOMOTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
+#EXTINF:-1  tvg-id="KOMOTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1  tvg-id="WEWSTV.us" group-title="USA IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (720p)
+#EXTINF:-1  tvg-id="WEWSTV.us" group-title="UK-IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
-#EXTINF:-1  tvg-id="WEWSTV.us" group-title="USA IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
+#EXTINF:-1  tvg-id="WEWSTV.us" group-title="UK-IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1",ABC 5 Cleveland OH (WEWS-TV) (1080p)
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1  tvg-id="WOI.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
+#EXTINF:-1  tvg-id="WOI.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/1jA3nKg.jpg",ABC 5 Des Moines IA (WOI) (1080p)
 https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KMGHTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1  tvg-id="KMGHTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/JExsI09.png",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1  tvg-id="WXYZTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p)
+#EXTINF:-1  tvg-id="WXYZTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/8sQ5mfL.png",ABC 7 Detroit MI (WXYZ-TV) (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
-#EXTINF:-1  tvg-id="WABC.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/99K3yyn.png",ABC 7 New York NY (WABC-TV) (720p)
+#EXTINF:-1  tvg-id="WABC.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/99K3yyn.png",ABC 7 New York NY (WABC-TV) (720p)
 https://cdn87.theus6tv.tk/locals/NewYorkCity/wabc-dt1.m3u8
-#EXTINF:-1  tvg-id="KGOTV.us" group-title="USA IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/KGOTVABC7.png",ABC 7 News San Francisco CA (KGO-TV) (720p)
+#EXTINF:-1  tvg-id="KGOTV.us" group-title="UK-IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/KGOTVABC7.png",ABC 7 News San Francisco CA (KGO-TV) (720p)
 https://cdn87.theus6tv.tk/locals/BayArea/kgo-dt1.m3u8
-#EXTINF:-1  tvg-id="WWSB.us" group-title="USA IPTV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg",ABC 7 Sarasota FL (WWSB) (720p)
+#EXTINF:-1  tvg-id="WWSB.us" group-title="UK-IPTV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/raycom/HJ3SAXRMNFAHXOFIRVYCQBIOGM.jpg",ABC 7 Sarasota FL (WWSB) (720p)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1  tvg-id="WJLA.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
+#EXTINF:-1  tvg-id="WJLA.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/LttuGfq.png",ABC 7 Washington DC (WJLA) (720p)
 https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1  tvg-id="WFAA.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/0a0FVSv.jpg",ABC 8 Dallas TX (WFAA) (1080p)
+#EXTINF:-1  tvg-id="WFAA.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/0a0FVSv.jpg",ABC 8 Dallas TX (WFAA) (1080p)
 https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="WQAD.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
+#EXTINF:-1  tvg-id="WQAD.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/CZZBTGv.jpg",ABC 8 Davenport IA (WQAD) (1080p)
 https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="WMURTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1  tvg-id="WMURTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/6oNx5F0.png",ABC 9 Manchester NH (WMUR-TV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
-#EXTINF:-1  tvg-id="WFTV.us" group-title="USA IPTV" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
+#EXTINF:-1  tvg-id="WFTV.us" group-title="UK-IPTV" tvg-logo="https://mediaweb.wftv.com/theme/images/placeholder-square.jpg",ABC 9 Orlando FL (WFTV) (540p)
 https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
-#EXTINF:-1  tvg-id="ABCNews.us" group-title="USA IPTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News (720p)
+#EXTINF:-1  tvg-id="ABCNews.us" group-title="UK-IPTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1  tvg-id="Newsmax.us" group-title="USA IPTV" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
+#EXTINF:-1  tvg-id="Newsmax.us" group-title="UK-IPTV" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (1080p)
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1  tvg-id="Newsmax.us" group-title="USA IPTV" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (720p)
+#EXTINF:-1  tvg-id="Newsmax.us" group-title="UK-IPTV" tvg-logo="https://gitee.com/radioer/radioer/raw/main/newsmax.jpg",Newsmax (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",California Music Channel
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",美国德州奥斯汀ABC 24 Austin TX (KVUE) (1080p)
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",美国德州奥斯汀ABC 24 Austin TX (KVUE) (1080p)
 https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",美国田纳西州孟菲斯ABC 24 Memphis TN (WATN-TV) (1080p)
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",美国田纳西州孟菲斯ABC 24 Memphis TN (WATN-TV) (1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="KIII.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/svfSv3O.jpg",美国德州科珀思克里斯蒂ABC 3 Corpus Christi TX (KIII) (1080p)
+#EXTINF:-1  tvg-id="KIII.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/svfSv3O.jpg",美国德州科珀思克里斯蒂ABC 3 Corpus Christi TX (KIII) (1080p)
 https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
-#EXTINF:-1  tvg-id="24HourFreeMovies.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
+#EXTINF:-1  tvg-id="24HourFreeMovies.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/FiTdDp1.png",24 Hour Free Movies (720p)
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1  tvg-id="30ADarcizzleOffshore.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/l2O0fY1.png",30A Darcizzle Offshore (720p)
+#EXTINF:-1  tvg-id="30ADarcizzleOffshore.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/l2O0fY1.png",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1  tvg-id="3ABN.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/GVZuKc7.png",3ABN (720p)
+#EXTINF:-1  tvg-id="3ABN.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/GVZuKc7.png",3ABN (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1  tvg-id="3ABNKids.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eOvzf3d.png",3ABN Kids (720p)
+#EXTINF:-1  tvg-id="3ABNKids.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/eOvzf3d.png",3ABN Kids (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",彭博财经(美)Bloomberg TV
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",彭博财经(美)Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1  tvg-id="BloombergTVEurope.us" group-title="USA IPTV" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",彭博财经欧洲Bloomberg TV Europe (720p)
+#EXTINF:-1  tvg-id="BloombergTVEurope.us" group-title="UK-IPTV" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",彭博财经欧洲Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1  tvg-id="BloombergTVPlus.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+ (1080p)
+#EXTINF:-1  tvg-id="BloombergTVPlus.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+ (1080p)
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1  tvg-id="Boston25NewsWFXT.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",Boston 25 News (WFXT) (720p)
+#EXTINF:-1  tvg-id="Boston25NewsWFXT.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/YGdDVAQ.jpg",Boston 25 News (WFXT) (720p)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
-#EXTINF:-1  tvg-id="BratTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/lhjj94a.png",儿童·Brat TV (1080p)
+#EXTINF:-1  tvg-id="BratTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/lhjj94a.png",儿童·Brat TV (1080p)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="Buzzr.us" group-title="USA IPTV" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true",美国蜂鸣器Buzzr (1080p)
+#EXTINF:-1  tvg-id="Buzzr.us" group-title="UK-IPTV" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/BUZZR_190x190.png?raw=true",美国蜂鸣器Buzzr (1080p)
 https://buzzr-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-id="CSPAN.us" group-title="USA IPTV" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png",国家有线卫星公司C-SPAN (720p)
+#EXTINF:-1  tvg-id="CSPAN.us" group-title="UK-IPTV" tvg-logo="https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png",国家有线卫星公司C-SPAN (720p)
 https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",CCTV (Charlotte County)
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",CCTV (Charlotte County)
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",马里兰州Bowie TV
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",马里兰州Bowie TV
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",哥伦比亚广播公司新闻CBSN
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",哥伦比亚广播公司新闻CBSN
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="USA IPTV" tvg-logo="N/A",基督教CTN
+#EXTINF:-1  tvg-id="N/A" group-title="UK-IPTV" tvg-logo="N/A",基督教CTN
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
-#EXTINF:-1  tvg-id="AEBestof.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/zl7Gzwm.png",A&E (Best of) (1080p)
+#EXTINF:-1  tvg-id="AEBestof.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/zl7Gzwm.png",A&E (Best of) (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveAnimalLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/YbD8uHc.png",Nature Live Animal Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveAnimalLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/YbD8uHc.png",Nature Live Animal Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveAuroraLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/1WIEWK7.png",Nature Live Aurora Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveAuroraLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/1WIEWK7.png",Nature Live Aurora Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveBeachesLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/4rIbV7e.png",Nature Live Beaches Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveBeachesLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/4rIbV7e.png",Nature Live Beaches Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveForestLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/J84tZzN.png",Nature Live Forest Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveForestLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/J84tZzN.png",Nature Live Forest Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveLakeLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/xAkuMa4.png",Nature Live Lake Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveLakeLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/xAkuMa4.png",Nature Live Lake Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveMountainLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/2Ipv14J.png",Nature Live Mountain Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveMountainLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/2Ipv14J.png",Nature Live Mountain Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveRiversLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/ii2IDmA.png",Nature Live Rivers Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveRiversLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/ii2IDmA.png",Nature Live Rivers Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveSunsetLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/K4GaruD.png",Nature Live Sunset Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveSunsetLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/K4GaruD.png",Nature Live Sunset Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveTropicsLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/8F9qPbt.png",Nature Live Tropics Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveTropicsLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/8F9qPbt.png",Nature Live Tropics Live (Bumblebee) (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1  tvg-id="NatureLiveWaterfallsLiveBumblebee.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live Waterfalls Live (Bumblebee) (1080p)
+#EXTINF:-1  tvg-id="NatureLiveWaterfallsLiveBumblebee.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live Waterfalls Live (Bumblebee) (1080p)
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1  tvg-id="NBCNewsNow.us" group-title="USA IPTV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
+#EXTINF:-1  tvg-id="NBCNewsNow.us" group-title="UK-IPTV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1  tvg-id="NBCNewsNow.us" group-title="USA IPTV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
+#EXTINF:-1  tvg-id="NBCNewsNow.us" group-title="UK-IPTV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1  tvg-id="News12NewYork.us" group-title="USA IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",News 12 New York (1080p)
+#EXTINF:-1  tvg-id="News12NewYork.us" group-title="UK-IPTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752",News 12 New York (1080p)
 https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
-#EXTINF:-1  tvg-id="Newsy.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
+#EXTINF:-1  tvg-id="Newsy.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1  tvg-id="Newsy.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (720p)
+#EXTINF:-1  tvg-id="Newsy.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy (720p)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u
-#EXTINF:-1  tvg-id="PinkfongBabyShark.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/1MGJg18.jpg",Pinkfong Baby Shark (1080p)
+#EXTINF:-1  tvg-id="PinkfongBabyShark.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/1MGJg18.jpg",Pinkfong Baby Shark (1080p)
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1  tvg-id="PinkfongBabyShark.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/1MGJg18.jpg",Pinkfong Baby Shark (1080p)
+#EXTINF:-1  tvg-id="PinkfongBabyShark.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/1MGJg18.jpg",Pinkfong Baby Shark (1080p)
 https://newidco-babysharktv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews10.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",美国广播公司ABC News 10 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews10.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",美国广播公司ABC News 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews2.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 2 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews2.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 2 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews3.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 3 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews3.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 3 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews4.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 4 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews4.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 4 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews5.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 5 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews5.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 5 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews6.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 6 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews6.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 6 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews7.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 7 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews7.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 7 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews8.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 8 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews8.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 8 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNews9.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 9 (720p)
+#EXTINF:-1  tvg-id="美国ABCNews9.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News 9 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1  tvg-id="美国ABCNewsLive.us" group-title="USA IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live (288p)
+#EXTINF:-1  tvg-id="美国ABCNewsLive.us" group-title="UK-IPTV" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live (288p)
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
-#EXTINF:-1  tvg-id="CBNNews.us" group-title="USA IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",美国CBN News (1080p)
+#EXTINF:-1  tvg-id="CBNNews.us" group-title="UK-IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",美国CBN News (1080p)
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:-1  tvg-id="WBNSTV.us" group-title="USA IPTV" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS城市系列CBS 10 Columbus OH (WBNS-TV) (1080p)
+#EXTINF:-1  tvg-id="WBNSTV.us" group-title="UK-IPTV" tvg-logo="https://i.imgur.com/Wq4M60P.jpg",CBS城市系列CBS 10 Columbus OH (WBNS-TV) (1080p)
 https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CHINA_MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合 高清
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
