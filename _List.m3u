@@ -107,8 +107,8 @@ https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Film Nje" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="AlbFilm 1" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv.png",AlbFilm 1
-https://t1.tvmak.com/tv/ALBFILMTV1.m3u8?sDx9b8cHUC
+#EXTINF:-1  tvg-id="ALPO" group-title="Shqipëria" tvg-logo="",ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1  tvg-id="AlbFilm 2" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv.png",AlbFilm 2
 https://t1.tvmak.com/tv/ALBFILMTV2.m3u8?sDx9b8cHUC
 #EXTINF:-1  tvg-id="Groovy TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/groovy/normal.png",Groovy TV
