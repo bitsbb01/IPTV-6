@@ -129,7 +129,7 @@ https://vdo.alphaserver.gr:3587/hybrid/play.m3u8
 https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1  tvg-id="MBC Max (1080p)" group-title="Shqipëria" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
 https://au7live.tooliserver.com/live/149015_0.m3u8?session=
-#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="http://www.livetvscreen.com/wp-content/uploads/2012/03/MBC-2-TV1.jpg",MBC 2 HD
+#EXTINF:-1  tvg-id="MBC 2 HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MBC_2_HD_logo.png",MBC 2 HD
 https://au7live.tooliserver.com/live/149010_0.m3u8?session=
 #EXTINF:-1  tvg-id="MIX M" group-title="Shqipëria" tvg-logo="https://1.bp.blogspot.com/-rjF2k4RAIMY/YL-o154pJJI/AAAAAAAAG6g/UPPRufqeC0MpCRvcW_9l4Heswr4L17IEgCLcBGAsYHQ/s1600-rw/MIX-HOLLYWOOD.png",MIX M
 http://89.179.247.144/mixm.m3u8
