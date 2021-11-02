@@ -142,7 +142,7 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1336401310
 #EXTINF:-1  tvg-id="247 Box TV" group-title="Shqipëria" tvg-logo="https://247box.tv/wp-content/uploads/2020/11/247Player-copy.png",247 Box TV
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1  tvg-id="&Flix HD" group-title="Shqipëria" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg",&Flix HD
-https://f8e7y4c6.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-id="&Privé HD" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_&_Privé_HD.jpg",&Privé HD
 https://f8e7y4c6.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="Rotana Khalijia TV" group-title="Shqipëria" tvg-logo="http://www.maxtvs.net/admin/img/channel/1f57f03781e459b4593d.jpg",Rotana Khalijia TV
