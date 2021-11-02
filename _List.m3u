@@ -109,8 +109,14 @@ https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGci
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="ALPO" group-title="Shqipëria" tvg-logo="",ALPO
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1  tvg-id="AlbFilm 2" group-title="Shqipëria" tvg-logo="https://tvmak.com/img/tv/albfilmtv.png",AlbFilm 2
-https://t1.tvmak.com/tv/ALBFILMTV2.m3u8?sDx9b8cHUC
+#EXTINF:-1  tvg-id="Fox Russia" group-title="Shqipëria" tvg-logo="",Fox Russia (576p)
+http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1  tvg-id="FTV" group-title="Shqipëria" tvg-logo="",FTV (720p)
+https://str2.yodacdn.net/publive/ftv/video.m3u8
+#EXTINF:-1  tvg-id="Gravitas Movies" group-title="Shqipëria" tvg-logo="",Gravitas Movies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="HBO Malaysia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO Malaysia (720p)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1  tvg-id="Groovy TV" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/groovy/normal.png",Groovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/chunklist_w802327889.m3u8
 #EXTINF:-1  tvg-id="MyTime movie network" group-title="Shqipëria" tvg-logo="http://tv.10dailythings.com/images/channels/GR/groovy/normal.png",MyTime movie network
@@ -961,7 +967,7 @@ https://bit.ly/2MwwCUz
 https://bit.ly/3aBRZf9
 #EXTINF:-1  tvg-id="Korca plus" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",Korca plus
 http://32.shqiptv.org/korca/albplus/index.m3u8
-#EXTINF:-1  tvg-id="ADRIA tv" group-title="Shqipëria" tvg-logo="https://image.winudf.com/v2/image1/YWxidHYubGl2ZTFvZmZpY2lhbF9zY3JlZW5fMF8xNTQ4ODcxNjUxXzAzNg/screen-0.jpg?fakeurl=1&type=.jpg",ADRIA tv
+#EXTINF:-1  tvg-id="ADRIA tv" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d.png",ADRIA tv
 https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
 #EXTINF:-1  tvg-id="Al Jazeera English" group-title="Shqipëria" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
