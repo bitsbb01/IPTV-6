@@ -31,7 +31,7 @@ https://tv2.abcnews.al/live/abcnews/chunks.m3u8
 https://srv1.iptviliria.com/TV2Gostivar/index.m3u8?token=undefined
 #EXTINF:-1  tvg-id="TV Uskana" group-title="Shqipëria" tvg-logo="https://i.imgur.com/tWFxqCt.png",TV Uskana
 https://srv1.iptviliria.com/TVUskana/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="AlbDreams TV" group-title="Shqipëria" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTYOXxpUuQOyWHerja4s2FXS-tX6pcMQ86cPR_t=s88-c-k-c0x00ffffff-no-rj",AlbDreams TV
+#EXTINF:-1  tvg-id="AlbDreams TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/AlbdreamsTv_logo_6025b12f8d21d.png",AlbDreams TV
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1  tvg-id="Teuta TV" group-title="Shqipëria" tvg-logo="http://ww.bashk.tv/storage/uploads/images/channel_logos/TeutaTv_logo_60ea37aaae99c_thumb.jpg",Teuta TV
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
@@ -107,13 +107,13 @@ https://srv1.iptviliria.com/FilmHits/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOi
 https://srv1.iptviliria.com/FilmKomedi/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
 #EXTINF:-1  tvg-id="Film Nje" group-title="Shqipëria" tvg-logo="https://i.imgur.com/6jsC67V.png",Film Nje
 https://srv1.iptviliria.com/FilmNje/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaXB0dnh0aW0uY29tXC9hcGlcL2xvZ2luIiwiaWF0IjoxNjIzODM3NjQ1LCJuYmYiOjE2MjM4Mzc2NDUsImp0aSI6Imk1UnZjNWVzQ3d6TDZ3cUYiLCJzdWIiOiJBUkVOQUJBVE8iLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3IiwiZGV2aWNlX2lkIjo0ODEzLCJpcCI6IjkwLjI0OC4yMC4xODMiLCJ1c2VyX2lkIjo3MDk5fQ.2k8jujZJiV_5WC8rdkytj689y9Z90Ka41iNza7nY53s
-#EXTINF:-1  tvg-id="ALPO" group-title="Shqipëria" tvg-logo="",ALPO
+#EXTINF:-1  tvg-id="ALPO" group-title="Shqipëria" tvg-logo="https://images.squarespace-cdn.com/content/v1/5eaae2748bac171763980c59/1592671669513-JWRO9BENLGJXSSL2PYJ0/logo-aplo.png",ALPO TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1  tvg-id="Fox Russia" group-title="Shqipëria" tvg-logo="",Fox Russia (576p)
+#EXTINF:-1  tvg-id="Fox Russia" group-title="Shqipëria" tvg-logo="https://www.pngfind.com/pngs/m/98-983488_fox-wordmarksvg-wikimedia-commons-fox-channel-logo-hd.png",Fox Russia (576p)
 http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
-#EXTINF:-1  tvg-id="FTV" group-title="Shqipëria" tvg-logo="",FTV (720p)
+#EXTINF:-1  tvg-id="FTV" group-title="Shqipëria" tvg-logo="https://ftvcapital.com/wp-content/uploads/2021/07/OG-Image-v2.png",FTV (720p)
 https://str2.yodacdn.net/publive/ftv/video.m3u8
-#EXTINF:-1  tvg-id="Gravitas Movies" group-title="Shqipëria" tvg-logo="",Gravitas Movies (720p)
+#EXTINF:-1  tvg-id="Gravitas Movies" group-title="Shqipëria" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg",Gravitas Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1  tvg-id="HBO Malaysia" group-title="Shqipëria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO Malaysia (720p)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
